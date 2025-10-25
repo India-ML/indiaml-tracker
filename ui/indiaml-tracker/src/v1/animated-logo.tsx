@@ -22,7 +22,7 @@ const AnimatedLogo = () => {
   const fillColor = theme === "dark" ? "#fff" : "#000"; // White in dark mode, black in light mode
 
   return (
-    <div className="w-full h-full flex items-center justify-center mt-5">
+    <div className="inline">
       {/* Uncomment this button to reset the animation on click */}
       {/* <div className="text-center mb-4">
           <button 
@@ -34,10 +34,10 @@ const AnimatedLogo = () => {
         </div> */}
       <svg
         width="100px"
-        viewBox="0 0 210 297"
+        viewBox="0 50 210 100"
         version="1.1"
         id="svg5"
-        className="w-full h-auto"
+        className="-mt-4"
         xmlns="http://www.w3.org/2000/svg"
       >
         <g id="layer1">

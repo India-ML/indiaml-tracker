@@ -6,7 +6,6 @@ import { useTheme } from "@/components/theme-provider";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Moon, Sun, Menu } from "lucide-react";
-import AnimatedLogo from "./animated-logo";
 
 export function TopNav() {
   const { theme, setTheme } = useTheme();
@@ -18,14 +17,7 @@ export function TopNav() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/papers" className="text-xl font-bold">
-            <div className="h-16 flex items-center">
-              <div className="h-full">
-                <AnimatedLogo />
-              </div>
-
-              <div>India@ML</div>
-            </div>
-            {/* India@ML */}
+            India@ML
           </Link>
 
           {/* Desktop Navigation */}
