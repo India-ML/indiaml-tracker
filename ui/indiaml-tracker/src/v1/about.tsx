@@ -1,7 +1,13 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { FaTwitter, FaHandshake, FaLightbulb, FaGlobeAsia, FaCode } from 'react-icons/fa';
-import Tweet from './Tweet';
+import React from "react";
+import { motion } from "framer-motion";
+import {
+  FaTwitter,
+  FaHandshake,
+  FaLightbulb,
+  FaGlobeAsia,
+  FaCode,
+} from "react-icons/fa";
+import Tweet from "./Tweet";
 
 // Animation variants
 const containerVariants = {
@@ -38,23 +44,27 @@ const storyMilestones = [
   {
     icon: <FaTwitter className="text-blue-400 text-2xl" />,
     title: "The Tweet That Started It All",
-    content: "Paras Chopra, Founder of Lossfunk, tweeted asking if anyone was interested in building a platform to track India's contributions to machine learning."
+    content:
+      "Paras Chopra, Founder of Lossfunk, tweeted asking if anyone was interested in building a platform to track India's contributions to machine learning.",
   },
   {
     icon: <FaCode className="text-green-400 text-2xl" />,
     title: "From Idea to Reality",
-    content: "Sohan Basak, Loves tech and tinkering, building tech, responded to the challenge and quickly built the first version of the tracker."
+    content:
+      "Sohan Basak, Loves tech and tinkering, building tech, responded to the challenge and quickly built the first version of the tracker.",
   },
   {
     icon: <FaHandshake className="text-yellow-400 text-2xl" />,
     title: "Collaboration Begins",
-    content: "After Paras retweeted the project, they exchanged contacts and formed a partnership to develop the platform further."
+    content:
+      "After Paras retweeted the project, they exchanged contacts and formed a partnership to develop the platform further.",
   },
   {
     icon: <FaGlobeAsia className="text-purple-400 text-2xl" />,
     title: "Focused on Local Innovation",
-    content: "The team decided to specifically track ML research conducted within India, highlighting domestic innovation rather than diaspora contributions."
-  }
+    content:
+      "The team decided to specifically track ML research conducted within India, highlighting domestic innovation rather than diaspora contributions.",
+  },
 ];
 
 const AboutUs = () => {
@@ -68,42 +78,63 @@ const AboutUs = () => {
         viewport={{ once: true }}
       >
         {/* Intro Section Header */}
-        <motion.div
-          className="text-center mb-16"
-          variants={itemVariants}
-        >
-          <FaLightbulb className="text-yellow-400 text-4xl mx-auto mb-4" />
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Why India@ML?</h2>
-          <div className="w-24 h-1 bg-indigo-500 mx-auto mb-6"></div>
-          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl mx-auto">
-            India@ML is envisioned as an initiative focused on understanding India's contribution to the global ML landscape and working as a catalyst to make us a dominant force globally. The idea is simple: we cannot change what we cannot measure. By tracking and showcasing research output from India, we aim to identify trends, gaps, and opportunities so India can truly drive innovation in this AI centric world.
+        <motion.div className="text-left mb-16 px-16" variants={itemVariants}>
+          <FaLightbulb className="text-yellow-400 text-4xl inline-block -ml-16 mb-4" />
+          <h2 className="text-3xl font-bold text-gray-900 inline-block ml-8 dark:text-white mb-4">
+            Why India@ML?
+          </h2>
+          <div className="w-24 h-1 bg-indigo-500  mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl ">
+            India@ML is envisioned as an initiative focused on understanding
+            India's contribution to the global ML landscape and working as a
+            catalyst to make us a dominant force globally. The idea is simple:
+            we cannot change what we cannot measure. By tracking and showcasing
+            research output from India, we aim to identify trends, gaps, and
+            opportunities so India can truly drive innovation in this AI centric
+            world.
           </p>
         </motion.div>
 
         {/* Team Section Header */}
-        <motion.div
-          className="text-center mb-16"
-          variants={itemVariants}
-        >
-          <FaLightbulb className="text-yellow-400 text-4xl mx-auto mb-4" />
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Meet The Team</h2>
-          <div className="w-24 h-1 bg-indigo-500 mx-auto mb-6"></div>
-          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl mx-auto">
-            We are <a href='https://www.linkedin.com/in/sohanbasak' className="text-blue-400 ml-1">Sohan Bask</a> and <a href='https://www.linkedin.com/in/dhanshreea/' className="text-blue-400 ml-1">Dhanshree Arora</a>, two freinds and engineering nerds, who are passionate about bringing <b>meaningful</b> and <b>measurable</b> change to the Indian machine learning research ecosystem.
+        <motion.div className="text-left mb-16 px-16 relative" variants={itemVariants}>
+            <FaLightbulb className="text-yellow-400 inline-block relative -ml-16 text-4xl" />
+          <h2 className="text-3xl inline-block font-bold text-gray-900 ml-8 dark:text-white mb-4">
+            Meet The Team
+          </h2>
+          <div className="w-24 h-1 bg-indigo-500 mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl">
+            We are{" "}
+            <a
+              href="https://www.linkedin.com/in/sohanbasak"
+              className="text-blue-400 ml-1"
+            >
+              Sohan Bask
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.linkedin.com/in/dhanshreea/"
+              className="text-blue-400 ml-1"
+            >
+              Dhanshree Arora
+            </a>
+            , two freinds and engineering nerds, who are passionate about
+            bringing <b>meaningful</b> and <b>measurable</b> change to the
+            Indian machine learning research ecosystem.
           </p>
         </motion.div>
 
         {/* History Section Header */}
-        <motion.div
-          className="text-center mb-16"
-          variants={itemVariants}
-        >
-          <FaLightbulb className="text-yellow-400 text-4xl mx-auto mb-4" />
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Our History</h2>
-          <div className="w-24 h-1 bg-indigo-500 mx-auto mb-6"></div>
-          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl mx-auto">
-            The India@ML tracker was born from a simple tweet and grew into a mission to spotlight
-            India's contributions to the global machine learning landscape. What started as a weekend hack has evolved into a fully graduated project from LossFunk's 4th batch.
+        <motion.div className="text-left mb-16 px-16" variants={itemVariants}>
+          <FaLightbulb className="text-yellow-400 inline-block -ml-16 text-4xl mb-4" />
+          <h2 className="text-3xl font-bold text-gray-900 inline-block ml-8 dark:text-white mb-4">
+            Our History
+          </h2>
+          <div className="w-24 h-1 bg-indigo-500 mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl">
+            The India@ML tracker was born from a simple tweet and grew into a
+            mission to spotlight India's contributions to the global machine
+            learning landscape. What started as a weekend hack has evolved into
+            a fully graduated project from LossFunk's 4th batch.
           </p>
         </motion.div>
 
@@ -130,9 +161,7 @@ const AboutUs = () => {
                   <h3 className="text-xl font-semibold text-white mb-2">
                     {milestone.title}
                   </h3>
-                  <p className="text-gray-300">
-                    {milestone.content}
-                  </p>
+                  <p className="text-gray-300">{milestone.content}</p>
                 </div>
               </motion.div>
             ))}
@@ -140,26 +169,33 @@ const AboutUs = () => {
         </div>
 
         {/* Tweet Callout (smaller version) */}
-        <motion.div
-          className="mb-16 max-w-lg mx-auto"
-          variants={itemVariants}
-        >
+        <motion.div className="mb-16 max-w-lg mx-auto" variants={itemVariants}>
           <div className="bg-gray-800 rounded-lg p-6 border border-gray-700">
             <div className="flex items-center mb-4">
               <FaTwitter className="text-blue-400 mr-3 text-xl" />
               <p className="text-gray-300 italic text-sm">
                 "i'm happy to fund this if someone builds a tracker"
-                <a href="https://x.com/paraschopra" className="text-blue-400 ml-1">@paraschopra</a>
+                <a
+                  href="https://x.com/paraschopra"
+                  className="text-blue-400 ml-1"
+                >
+                  @paraschopra
+                </a>
               </p>
             </div>
             <div className="flex items-center">
               <FaTwitter className="text-blue-400 mr-3 text-xl" />
               <p className="text-gray-300 italic text-sm">
-                "Cool. Weekend project locked in if no one else has already done so."
-                <a href="https://x.com/HiSohan" className="text-blue-400 ml-1">@HiSohan</a>
+                "Cool. Weekend project locked in if no one else has already done
+                so."
+                <a href="https://x.com/HiSohan" className="text-blue-400 ml-1">
+                  @HiSohan
+                </a>
               </p>
             </div>
-            <p className="text-gray-400 text-xs mt-4 text-right">January 23, 2025</p>
+            <p className="text-gray-400 text-xs mt-4 text-right">
+              January 23, 2025
+            </p>
           </div>
         </motion.div>
 
@@ -169,14 +205,19 @@ const AboutUs = () => {
           variants={itemVariants}
         >
           <blockquote className="text-xl text-gray-100 italic relative">
-            <span className="text-5xl text-indigo-300 absolute top-0 left-0 opacity-20">"</span>
+            <span className="text-5xl text-indigo-300 absolute top-0 left-0 opacity-20">
+              "
+            </span>
             <p className="relative z-10 pl-6">
-              We're committed to showcasing the groundbreaking machine learning research happening
-              within India's borders. By spotlighting local innovation, we aim to inspire the next
-              generation of researchers and position India as a global leader in AI advancement.
+              We're committed to showcasing the groundbreaking machine learning
+              research happening within India's borders. By spotlighting local
+              innovation, we aim to inspire the next generation of researchers
+              and position India as a global leader in AI advancement.
             </p>
             <footer className="mt-4 text-right">
-              <div className="font-medium text-indigo-300">The IndiaML Tracker Team</div>
+              <div className="font-medium text-indigo-300">
+                The IndiaML Tracker Team
+              </div>
             </footer>
           </blockquote>
         </motion.div>
