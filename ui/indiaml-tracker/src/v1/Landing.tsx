@@ -320,7 +320,7 @@ const HomePage = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 1.3 }}
             >
-              Our Motivation
+              About Us
             </motion.h2>
             
             <motion.div 

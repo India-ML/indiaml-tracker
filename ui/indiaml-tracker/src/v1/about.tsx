@@ -57,7 +57,7 @@ const storyMilestones = [
   }
 ];
 
-const Motivation = () => {
+const AboutUs = () => {
   return (
     <section className="dark:bg-gray-900 py-16 px-4">
       <motion.div
@@ -67,17 +67,43 @@ const Motivation = () => {
         whileInView="visible"
         viewport={{ once: true }}
       >
-        {/* Section Header */}
+        {/* Intro Section Header */}
         <motion.div
           className="text-center mb-16"
           variants={itemVariants}
         >
           <FaLightbulb className="text-yellow-400 text-4xl mx-auto mb-4" />
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Our Motivation</h2>
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Why India@ML?</h2>
           <div className="w-24 h-1 bg-indigo-500 mx-auto mb-6"></div>
           <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl mx-auto">
-            The IndiaML Tracker was born from a simple tweet and grew into a mission to spotlight
-            India's contributions to the global machine learning landscape.
+            India@ML is envisioned as an initiative focused on understanding India's contribution to the global ML landscape and working as a catalyst to make us a dominant force globally. The idea is simple: we cannot change what we cannot measure. By tracking and showcasing research output from India, we aim to identify trends, gaps, and opportunities so India can truly drive innovation in this AI centric world.
+          </p>
+        </motion.div>
+
+        {/* Team Section Header */}
+        <motion.div
+          className="text-center mb-16"
+          variants={itemVariants}
+        >
+          <FaLightbulb className="text-yellow-400 text-4xl mx-auto mb-4" />
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Meet The Team</h2>
+          <div className="w-24 h-1 bg-indigo-500 mx-auto mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl mx-auto">
+            We are <a href='https://www.linkedin.com/in/sohanbasak' className="text-blue-400 ml-1">Sohan Bask</a> and <a href='https://www.linkedin.com/in/dhanshreea/' className="text-blue-400 ml-1">Dhanshree Arora</a>, two freinds and engineering nerds, who are passionate about bringing <b>meaningful</b> and <b>measurable</b> change to the Indian machine learning research ecosystem.
+          </p>
+        </motion.div>
+
+        {/* History Section Header */}
+        <motion.div
+          className="text-center mb-16"
+          variants={itemVariants}
+        >
+          <FaLightbulb className="text-yellow-400 text-4xl mx-auto mb-4" />
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Our History</h2>
+          <div className="w-24 h-1 bg-indigo-500 mx-auto mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl mx-auto">
+            The India@ML tracker was born from a simple tweet and grew into a mission to spotlight
+            India's contributions to the global machine learning landscape. What started as a weekend hack has evolved into a fully graduated project from LossFunk's 4th batch.
           </p>
         </motion.div>
 
@@ -175,4 +201,4 @@ const Motivation = () => {
   );
 };
 
-export default Motivation;
+export default AboutUs;

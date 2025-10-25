@@ -11,7 +11,7 @@ const V1Items = {
   V1Homepage: loadable(() => import("../v1/Homepage")),
   Landing: loadable(() => import("../v1/Landing")),
   Papers: loadable(() => import("../v1/papers")),
-  Motivation: loadable(() => import("../v1/motivation")),
+  AboutUs: loadable(() => import("../v1/about")),
   AnalyticsV4: loadable(() => import("../v1/conference-dashboard"))
 };
 
@@ -43,8 +43,8 @@ export const router = createBrowserRouter([
         element: <V1Items.Landing />,
       },
       {
-        path: "motivation",
-        element: <V1Items.Motivation />,
+        path: "about",
+        element: <V1Items.AboutUs />,
       },
     ],
   },
