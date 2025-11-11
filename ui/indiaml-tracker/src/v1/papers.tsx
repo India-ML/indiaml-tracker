@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { FaGithub, FaRegSmileWink } from "react-icons/fa";
 import { ResearchPapersShowcase } from "./research-paper-showcase";
 import { ExternalLinkIcon } from "lucide-react";
+import AnimatedLogo from "./animated-logo";
 
 export default function Home() {
   return (
@@ -52,13 +53,36 @@ export default function Home() {
             className="inline-flex  font-semibold items-center px-4 py-2 text-sm rounded-md text-gray-100 bg-indigo-600 hover:bg-indigo-500 transition-colors"
           >
             <FaGithub className="mr-2" />
-            View Research Data & Pipelines  
-            <ExternalLinkIcon className="h-3"/>
+            View Research Data & Pipelines
+            <ExternalLinkIcon className="h-3" />
           </a>
           <p className="text-xs text-gray-600 dark:text-gray-500 mt-2">
             Explore data pipelines and research materials for India's ML
             landscape
           </p>
+        </motion.div>
+
+        <motion.div
+          className="max-w-[700px] mx-auto mt-10 relative z-10"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.9 }}
+        >
+          <div className="flex flex-col items-center justify-center text-center">
+            <div className="mb-3"></div>
+            <p className="flex text-base text-gray-700 dark:text-gray-300">
+              Incubated in{" "}
+              <a
+                href="https://lossfunk.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className=""
+              >
+                <AnimatedLogo />
+              </a>{" "}
+              Batch 4
+            </p>
+          </div>
         </motion.div>
       </div>
 

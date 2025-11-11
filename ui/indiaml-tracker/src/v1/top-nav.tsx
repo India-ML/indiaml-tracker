@@ -6,7 +6,6 @@ import { useTheme } from "@/components/theme-provider";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Moon, Sun, Menu } from "lucide-react";
-import AnimatedLogo from "./animated-logo";
 
 export function TopNav() {
   const { theme, setTheme } = useTheme();
@@ -18,14 +17,7 @@ export function TopNav() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/papers" className="text-xl font-bold">
-            <div className="h-16 flex items-center">
-              <div className="h-full">
-                <AnimatedLogo />
-              </div>
-
-              <div>India@ML</div>
-            </div>
-            {/* India@ML */}
+            India@ML
           </Link>
 
           {/* Desktop Navigation */}
@@ -47,7 +39,6 @@ export function TopNav() {
               className="text-gray-900 dark:text-gray-200 hover:text-gray-800"
               asChild
             >
-              {/* <Link to="/motivation">Our Motivation</Link> */}
               <Link to="/conference-summary?conference=ICLR&year=2025">
                 Conference Summaries
               </Link>
@@ -59,7 +50,7 @@ export function TopNav() {
               className="text-gray-900 dark:text-gray-200 hover:text-gray-800"
               asChild
             >
-              <Link to="/motivation">Our Motivation</Link>
+              <Link to="/about">About Us</Link>
               </Button>
           </div>
 
@@ -92,8 +83,8 @@ export function TopNav() {
                     className="w-full flex justify-start"
                     asChild
                   >
-                    <Link to="/motivation" onClick={() => setOpen(false)}>
-                      Motivation
+                    <Link to="/about" onClick={() => setOpen(false)}>
+                      About Us
                     </Link>
                   </Button>
                 </div>

@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { Github, Search, ChevronRight, TrendingUp, Database, Award, Cpu } from 'lucide-react';
+import AnimatedLogo from './animated-logo';
 
 const HomePage = () => {
   const mapRef = useRef(null);
@@ -231,6 +232,30 @@ const HomePage = () => {
         </div>
       </motion.div>
       
+      {/* Incubation Section */}
+      <motion.div 
+        className="py-12 bg-gray-850"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.4, duration: 0.8 }}
+      >
+        <div className="container mx-auto px-4">
+          <motion.div 
+            className="flex flex-col items-center justify-center text-center"
+            initial={{ y: 20, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            transition={{ delay: 0.5 }}
+          >
+            <div className="w-24 h-24 mb-4">
+              <AnimatedLogo />
+            </div>
+            <p className="text-lg text-gray-300">
+              Incubated in <a href="https://lossfunk.com" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:text-indigo-300 font-semibold">Lossfunk</a> Batch 4
+            </p>
+          </motion.div>
+        </div>
+      </motion.div>
+      
       {/* Featured Papers Section */}
       <motion.div 
         className="py-16 bg-gray-800"
@@ -295,7 +320,7 @@ const HomePage = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 1.3 }}
             >
-              Our Motivation
+              About Us
             </motion.h2>
             
             <motion.div 
