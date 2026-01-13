@@ -1,0 +1,737 @@
+{
+  "conferenceInfo": {
+    "name": "NeurIPS",
+    "year": 2025,
+    "track": "Conference",
+    "totalAcceptedPapers": 8544,
+    "totalAcceptedAuthors": 29564
+  },
+  "globalStats": {
+    "countries": [
+      {
+        "affiliation_country": "US",
+        "paper_count": 3825,
+        "author_count": 8734,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CN",
+        "paper_count": 3427,
+        "author_count": 10549,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "GB",
+        "paper_count": 756,
+        "author_count": 1063,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "UNK",
+        "paper_count": 743,
+        "author_count": 744,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "HK",
+        "paper_count": 682,
+        "author_count": 803,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "SG",
+        "paper_count": 654,
+        "author_count": 735,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "DE",
+        "paper_count": 534,
+        "author_count": 982,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CA",
+        "paper_count": 494,
+        "author_count": 825,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "KR",
+        "paper_count": 408,
+        "author_count": 1035,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CH",
+        "paper_count": 356,
+        "author_count": 520,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "FR",
+        "paper_count": 312,
+        "author_count": 534,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AU",
+        "paper_count": 274,
+        "author_count": 371,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "JP",
+        "paper_count": 216,
+        "author_count": 348,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IL",
+        "paper_count": 172,
+        "author_count": 298,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IT",
+        "paper_count": 145,
+        "author_count": 240,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AE",
+        "paper_count": 128,
+        "author_count": 118,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "NL",
+        "paper_count": 123,
+        "author_count": 191,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "UK",
+        "paper_count": 122,
+        "author_count": 90,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IN",
+        "paper_count": 95,
+        "author_count": 180,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AT",
+        "paper_count": 91,
+        "author_count": 111,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "DK",
+        "paper_count": 59,
+        "author_count": 76,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "SE",
+        "paper_count": 57,
+        "author_count": 98,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "ES",
+        "paper_count": 49,
+        "author_count": 69,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "BE",
+        "paper_count": 42,
+        "author_count": 65,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "TW",
+        "paper_count": 41,
+        "author_count": 93,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "SA",
+        "paper_count": 38,
+        "author_count": 40,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PL",
+        "paper_count": 38,
+        "author_count": 68,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "FI",
+        "paper_count": 33,
+        "author_count": 50,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "VN",
+        "paper_count": 31,
+        "author_count": 43,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "RU",
+        "paper_count": 31,
+        "author_count": 78,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "GR",
+        "paper_count": 26,
+        "author_count": 31,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "MO",
+        "paper_count": 23,
+        "author_count": 23,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IR",
+        "paper_count": 17,
+        "author_count": 39,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "TR",
+        "paper_count": 16,
+        "author_count": 21,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "BR",
+        "paper_count": 16,
+        "author_count": 36,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "KP",
+        "paper_count": 14,
+        "author_count": 12,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CL",
+        "paper_count": 14,
+        "author_count": 26,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "NO",
+        "paper_count": 13,
+        "author_count": 17,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "BG",
+        "paper_count": 11,
+        "author_count": 18,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AI",
+        "paper_count": 11,
+        "author_count": 10,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PT",
+        "paper_count": 10,
+        "author_count": 18,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IE",
+        "paper_count": 9,
+        "author_count": 14,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CZ",
+        "paper_count": 9,
+        "author_count": 15,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "NZ",
+        "paper_count": 7,
+        "author_count": 12,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "ZW",
+        "paper_count": 6,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "ZA",
+        "paper_count": 6,
+        "author_count": 13,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "UA",
+        "paper_count": 5,
+        "author_count": 8,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "HU",
+        "paper_count": 5,
+        "author_count": 10,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "EU",
+        "paper_count": 5,
+        "author_count": 4,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "UM",
+        "paper_count": 4,
+        "author_count": 4,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "RO",
+        "paper_count": 4,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "QA",
+        "paper_count": 4,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "MY",
+        "paper_count": 4,
+        "author_count": 10,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "LU",
+        "paper_count": 4,
+        "author_count": 9,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CY",
+        "paper_count": 4,
+        "author_count": 4,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "TN",
+        "paper_count": 3,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "HR",
+        "paper_count": 3,
+        "author_count": 4,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AR",
+        "paper_count": 3,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "TD",
+        "paper_count": 2,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "RW",
+        "paper_count": 2,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PH",
+        "paper_count": 2,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "MX",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "MA",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "KZ",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IO",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "GE",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CO",
+        "paper_count": 2,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AM",
+        "paper_count": 2,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "TH",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "SI",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "RS",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PR",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PK",
+        "paper_count": 1,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PE",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "LI",
+        "paper_count": 1,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "KE",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "HN",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "EE",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "CC",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "BD",
+        "paper_count": 1,
+        "author_count": 4,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AX",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AS",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      }
+    ]
+  },
+  "indiaStats": {
+    "affiliation_country": "IN",
+    "paper_count": 95,
+    "author_count": 180,
+    "spotlights": 0,
+    "orals": 0
+  },
+  "topInstitutions": [
+    {
+      "institution": "Microsoft",
+      "paper_count": 10,
+      "author_count": 16,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology, Kanpur",
+      "paper_count": 8,
+      "author_count": 5,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Science, Indian institute of science, Bangalore",
+      "paper_count": 8,
+      "author_count": 11,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Science",
+      "paper_count": 8,
+      "author_count": 7,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology, Bombay",
+      "paper_count": 7,
+      "author_count": 8,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+      "paper_count": 6,
+      "author_count": 9,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Google",
+      "paper_count": 6,
+      "author_count": 7,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Research, Microsoft",
+      "paper_count": 5,
+      "author_count": 4,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Microsoft Research",
+      "paper_count": 5,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indraprastha Institute of Information Technology, Delhi",
+      "paper_count": 5,
+      "author_count": 9,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology, Delhi",
+      "paper_count": 4,
+      "author_count": 7,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology Delhi",
+      "paper_count": 4,
+      "author_count": 4,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology Bombay",
+      "paper_count": 4,
+      "author_count": 6,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Tata Institute of Fundamental Research",
+      "paper_count": 3,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+      "paper_count": 3,
+      "author_count": 6,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Statistical Institute",
+      "paper_count": 3,
+      "author_count": 4,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology Bombay,",
+      "paper_count": 3,
+      "author_count": 1,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Google DeepMind",
+      "paper_count": 3,
+      "author_count": 3,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Fujitsu Research and Development Center Co. Ltm.",
+      "paper_count": 3,
+      "author_count": 4,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Zaheer",
+      "paper_count": 2,
+      "author_count": 1,
+      "spotlights": 0,
+      "orals": 0
+    }
+  ],
+  "note": "spotlights and orals data not available for NeurIPS 2025"
+}

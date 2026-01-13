@@ -33,5 +33,9 @@
     "analytics": "icml-2025-analytics.json",
     "venue": "icml",
     "year": "2025"
+  },
+  {
+    "label": "NeurIPS 2025",
+    "file": "neurips-2025.json"
   }
 ]
