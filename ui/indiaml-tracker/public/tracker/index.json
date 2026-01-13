@@ -36,6 +36,9 @@
   },
   {
     "label": "NeurIPS 2025",
-    "file": "neurips-2025.json"
+    "file": "neurips-2025.json",
+    "analytics": "neurips-2025-analytics.json",
+    "venue": "neurips",
+    "year": "2025"
   }
 ]
