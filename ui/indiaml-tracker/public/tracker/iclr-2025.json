@@ -7,9 +7,9 @@
       {
         "name": "SUBBA REDDY OOTA",
         "openreview_id": "~SUBBA_REDDY_OOTA1",
-        "affiliation_name": "INRIA",
-        "affiliation_domain": "inria.fr",
-        "affiliation_country": "FR"
+        "affiliation_name": "Technische Universit\u00e4t Berlin",
+        "affiliation_domain": "tu-berlin.de",
+        "affiliation_country": "DE"
       },
       {
         "name": "Khushbu Pahwa",
@@ -41,9 +41,7 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "This paper investigates how accurately multi-modal Transformer models predict brain activity in response to multi-modal stimuli, such as movies.  It compares the performance of cross-modal and jointly pre-trained models against unimodal models, aiming to discern which model type best aligns with fMRI data.  The study further analyzes which brain regions process unimodal versus multi-modal information by examining the contributions of individual modalities to multi-modal alignment.\n",
-    "venue": "poster"
+    "majority_authors_from_india": false
   },
   {
     "paper_title": "PEAR: Primitive Enabled Adaptive Relabeling for Boosting Hierarchical Reinforcement Learning",
@@ -67,8 +65,101 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper presents PEAR, a two-phase approach for hierarchical reinforcement learning (HRL).  PEAR leverages adaptive relabeling of expert demonstrations to generate efficient subgoal supervision.  The method then optimizes the HRL agent using a combination of reinforcement learning and imitation learning, resulting in a practical HRL framework that performs well on challenging robotic control tasks.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon",
+    "paper_id": "3E8YNv1HjU",
+    "pdf_url": "https://openreview.net/pdf/7b7e995229578db2636d8e710b77f036b247e420.pdf",
+    "author_list": [
+      {
+        "name": "USVSN Sai Prashanth",
+        "openreview_id": "~USVSN_Sai_Prashanth1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Alvin Deng",
+        "openreview_id": "~Alvin_Deng1",
+        "affiliation_name": "DatologyAI",
+        "affiliation_domain": "datologyai.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Kyle O'Brien",
+        "openreview_id": "~Kyle_O'Brien1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Jyothir S V",
+        "openreview_id": "~Jyothir_S_V1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Mohammad Aflah Khan",
+        "openreview_id": "~Mohammad_Aflah_Khan1",
+        "affiliation_name": "MPI-SWS",
+        "affiliation_domain": "mpi-sws.org",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Jaydeep Borkar",
+        "openreview_id": "~Jaydeep_Borkar1",
+        "affiliation_name": "Northeastern University",
+        "affiliation_domain": "northeastern.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Christopher A. Choquette-Choo",
+        "openreview_id": "~Christopher_A._Choquette-Choo1",
+        "affiliation_name": "OpenAI",
+        "affiliation_domain": "openai.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Jacob Ray Fuehne",
+        "openreview_id": "~Jacob_Ray_Fuehne1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Stella Biderman",
+        "openreview_id": "~Stella_Biderman1",
+        "affiliation_name": "EleutherAI",
+        "affiliation_domain": "eleuther.ai",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Tracy Ke",
+        "openreview_id": "~Tracy_Ke1",
+        "affiliation_name": "Harvard University",
+        "affiliation_domain": "harvard.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Katherine_Lee1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Naomi Saphra",
+        "openreview_id": "~Naomi_Saphra1",
+        "affiliation_name": "Harvard University",
+        "affiliation_domain": "harvard.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Deep Networks Learn Features From Local Discontinuities in the Label Function",
@@ -92,9 +183,9 @@
       {
         "name": "Mahesh Lorik Yadav",
         "openreview_id": "~Mahesh_Lorik_Yadav1",
-        "affiliation_name": "Indian Institute of Technology Madras",
-        "affiliation_domain": "iitm.ac.in",
-        "affiliation_country": "IN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Chandra Shekar Lakshminarayanan",
@@ -106,8 +197,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper investigates the feature learning mechanism in deep neural networks, focusing on how discontinuities in the true label function influence model learning.  It introduces a novel deep architecture, the Deep Linearly Gated Network (DLGN), to analyze this mechanism.  The study aims to demonstrate the movement of model function discontinuities towards label function discontinuities during training and provide a means for mechanistic interpretability.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning",
@@ -124,9 +214,9 @@
       {
         "name": "Siddhant Chaudhary",
         "openreview_id": "~Siddhant_Chaudhary1",
-        "affiliation_name": "Indian Institute of Technology Delhi",
-        "affiliation_domain": "iitd.ac.in",
-        "affiliation_country": "IN"
+        "affiliation_name": "University of Utah",
+        "affiliation_domain": "utah.edu",
+        "affiliation_country": "US"
       },
       {
         "name": "Tanmoy Chakraborty",
@@ -138,8 +228,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces PruneNet, a novel model compression method for large language models (LLMs).  PruneNet learns a pruning policy to compress models without external calibration data, achieving high performance with reduced computational requirements.  The method outperforms existing techniques in preserving zero-shot performance and robustness on multitask language understanding tasks, demonstrating its superior efficiency and effectiveness.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Charting the Design Space of Neural Graph Representations for Subgraph Matching",
@@ -149,9 +238,9 @@
       {
         "name": "Vaibhav Raj",
         "openreview_id": "~Vaibhav_Raj1",
-        "affiliation_name": "Department of Computer Science and Engineering, IIT Bombay",
-        "affiliation_domain": "cse.iitb.ac.in",
-        "affiliation_country": "IN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Indradyumna Roy",
@@ -163,9 +252,9 @@
       {
         "name": "Ashwin Ramachandran",
         "openreview_id": "~Ashwin_Ramachandran1",
-        "affiliation_name": "Department of Computer Science and Engineering, IIT Bombay",
-        "affiliation_domain": "ucsd.edu",
-        "affiliation_country": "IN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "",
@@ -182,10 +271,9 @@
         "affiliation_country": "IN"
       }
     ],
-    "top_author_from_india": true,
+    "top_author_from_india": false,
     "majority_authors_from_india": true,
-    "paper_content": "This paper investigates the design space of neural graph representations for subgraph matching.  It aims to systematically explore various design choices in neural graph matching networks, including interaction methods (attention vs. permutation-based) and node/edge alignment strategies.  The authors analyze existing methods and identify unexplored combinations, seeking to reveal better performance and general design principles for neural graph matching.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Bonsai: Gradient-free Graph Condensation for Node Classification",
@@ -230,8 +318,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces Bonsai, a novel, linear-time graph condensation method for node classification in Graph Neural Networks (GNNs).  Bonsai overcomes limitations of existing methods by using exemplar computation trees, enabling model-agnostic condensation and avoiding training on the full dataset.  The approach is mathematically sound, resulting in better performance and significantly faster training than existing techniques.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "LevAttention: Time, Space and Streaming Efficient Algorithm for Heavy Attentions",
@@ -269,8 +356,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper presents LEVATTENTION, a novel algorithm for efficiently computing attention scores in transformer models.  The method aims to identify significant attention scores—those exceeding a threshold—in linear time, bypassing the quadratic time complexity of standard attention mechanisms.  Crucially, the algorithm achieves this without making assumptions about the input data, requiring only resources that scale polynomially with the input dimensions and a small constant for the significant scores.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Debiasing Federated Learning with Correlated Client Participation",
@@ -280,7 +366,7 @@
       {
         "name": "Zhenyu Sun",
         "openreview_id": "~Zhenyu_Sun1",
-        "affiliation_name": "Northwestern University, Northwestern University",
+        "affiliation_name": "Northwestern University ",
         "affiliation_domain": "u.northwestern.edu",
         "affiliation_country": "US"
       },
@@ -294,8 +380,8 @@
       {
         "name": "",
         "openreview_id": "~Zheng_Xu2",
-        "affiliation_name": "Google",
-        "affiliation_domain": "google.com",
+        "affiliation_name": "Meta",
+        "affiliation_domain": "meta.com",
         "affiliation_country": "US"
       },
       {
@@ -315,8 +401,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper investigates the impact of non-uniform and correlated client participation on federated learning algorithm convergence.  It develops a theoretical framework modeling client participation as a Markov chain, focusing on the case where clients have a minimum waiting period before re-participating.  The research aims to demonstrate how increasing this minimum separation reduces bias and to develop a debiasing algorithm for FedAvg that converges to the optimal solution even with unknown client availability.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference",
@@ -368,8 +453,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper investigates using Large Language Models (LLMs) to infer causal relationships.  It argues that focusing on causal order, rather than a full causal graph, provides a more reliable output interface for imperfect experts like LLMs.  A novel querying strategy, the \"triplet method,\" is proposed to improve accuracy and reduce errors in causal order inference, even when using LLMs as imperfect experts.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Periodic Materials Generation using Text-Guided Joint Diffusion Model",
@@ -407,9 +491,9 @@
       {
         "name": "Satadeep Bhattacharjee",
         "openreview_id": "~Satadeep_Bhattacharjee1",
-        "affiliation_name": "Indo Korea Science and Technology Center",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "IN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "",
@@ -421,8 +505,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces TGDMat, a novel diffusion model for generating 3D periodic materials.  It aims to improve upon existing models by learning the joint distribution of atom types, coordinates, and lattice structure in an end-to-end framework, incorporating global structural knowledge through textual descriptions.  The results demonstrate superior performance on both material generation and prediction tasks compared to existing baselines.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "LR0.FM: LOW-RESOLUTION ZERO-SHOT CLASSIFICATION BENCHMARK FOR FOUNDATION MODELS",
@@ -459,9 +542,7 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "This paper introduces LR0.FM, a benchmark to evaluate the zero-shot classification performance of foundation models on low-resolution images.  It assesses the impact of resolution on the performance of 10 models across 66 backbones and 15 datasets.  The study aims to determine the robustness of these models to lower resolution and identify factors influencing this performance, including model size, pre-training dataset characteristics, and finetuning impact.\n",
-    "venue": "poster"
+    "majority_authors_from_india": false
   },
   {
     "paper_title": "Clique Number Estimation via Differentiable Functions of Adjacency Matrix Permutations",
@@ -499,8 +580,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces a differentiable estimator for predicting a graph's clique number.  The approach formulates the maximum clique problem as finding dense submatrices within a permuted adjacency matrix, using a differentiable mechanism to search for optimal permutations.  The method is designed for situations where explicit clique demonstrations are unavailable but clique size estimation is crucial.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts",
@@ -524,8 +604,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper proposes a new method, BEEM, to improve the performance of early exit deep neural networks (DNNs).  BEEM leverages multi-exit classifiers as \"experts\" to aggregate confidence scores, considering only consistent predictions from neighboring experts.  The goal is to achieve faster inference speed with comparable or improved accuracy compared to traditional DNN inference, utilizing the COCO and GLUE datasets.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently",
@@ -535,9 +614,9 @@
       {
         "name": "Xue Han",
         "openreview_id": "~Xue_Han3",
-        "affiliation_name": "China Mobile Research Institute",
-        "affiliation_domain": "chinamobile.com",
-        "affiliation_country": "CN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Yitong Wang",
@@ -577,75 +656,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper introduces LOIRE, a lifelong learning framework for pre-trained language models (PLMs).  LOIRE aims to efficiently adapt PLMs to new, incremental data without complete retraining, thereby reducing computational costs while maintaining performance.  The framework employs novel growth operators and a refined growth schedule, addressing limitations of existing approaches.\n",
-    "venue": "poster"
-  },
-  {
-    "paper_title": "Learn Your Reference Model for Real Good Alignment",
-    "paper_id": "H0qIWXXLUR",
-    "pdf_url": "https://openreview.net/pdf/ad56fa8ef01bdd6f6903602f1532fbfa1424352e.pdf",
-    "author_list": [
-      {
-        "name": "Alexey Gorbatovski",
-        "openreview_id": "~Alexey_Gorbatovski1",
-        "affiliation_name": "T-Tech",
-        "affiliation_domain": "t-tech.dev",
-        "affiliation_country": "RU"
-      },
-      {
-        "name": "Boris Shaposhnikov",
-        "openreview_id": "~Boris_Shaposhnikov1",
-        "affiliation_name": "T-Tech",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "IN"
-      },
-      {
-        "name": "Alexey Malakhov",
-        "openreview_id": "~Alexey_Malakhov1",
-        "affiliation_name": "Financial University",
-        "affiliation_domain": "edu.fa.ru",
-        "affiliation_country": "RU"
-      },
-      {
-        "name": "Nikita Surnachev",
-        "openreview_id": "~Nikita_Surnachev1",
-        "affiliation_name": "T-Tech",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "IN"
-      },
-      {
-        "name": "Yaroslav Aksenov",
-        "openreview_id": "~Yaroslav_Aksenov1",
-        "affiliation_name": "T-Tech",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "IN"
-      },
-      {
-        "name": "Ian Maksimov",
-        "openreview_id": "~Ian_Maksimov1",
-        "affiliation_name": "Higher School of Economics, Higher School of Economics",
-        "affiliation_domain": "cs.hse.ru",
-        "affiliation_country": "RU"
-      },
-      {
-        "name": "Nikita Balagansky",
-        "openreview_id": "~Nikita_Balagansky3",
-        "affiliation_name": "Moscow Institute of Physics and Technology",
-        "affiliation_domain": "phystech.edu",
-        "affiliation_country": "RU"
-      },
-      {
-        "name": "Daniil Gavrilov",
-        "openreview_id": "~Daniil_Gavrilov1",
-        "affiliation_name": "T-Bank",
-        "affiliation_domain": "tbank.ru",
-        "affiliation_country": "RU"
-      }
-    ],
-    "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "This paper introduces a novel Trust Region approach to aligning large language models (LLMs).  The approach dynamically updates the reference policy during training, mitigating overoptimization issues often encountered in offline alignment methods.  The authors demonstrate improved performance in various tasks, including dialogue and summarization, and in general-purpose assistant setups, surpassing conventional methods.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Glauber Generative Model: Discrete Diffusion Models via Binary Classification",
@@ -664,7 +675,7 @@
         "openreview_id": "~Dheeraj_Mysore_Nagaraj1",
         "affiliation_name": "Google",
         "affiliation_domain": "google.com",
-        "affiliation_country": "US"
+        "affiliation_country": "IN"
       },
       {
         "name": "",
@@ -675,9 +686,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "This paper introduces the Glauber Generative Model (GGM), a novel discrete diffusion model for generating samples from a given distribution.  Unlike prior methods that use regression or variational approximations, GGM learns a denoising Markov chain by solving binary classification tasks.  The authors demonstrate GGM's effectiveness in language modeling and image generation, outperforming existing discrete diffusion models in language and achieving strong results for image generation.\n",
-    "venue": "poster"
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?",
@@ -722,8 +732,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This research investigates the vulnerability of safety-trained large language models (LLMs) to natural, semantically related prompts.  The paper aims to evaluate whether these models, despite alignment techniques, remain safe against prompts that are not specifically crafted as adversarial attacks.  A novel method, Response Guided Question Augmentation (ReG-QA), is proposed to systematically generate such prompts and assess the models' robustness.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "It Helps to Take a Second Opinion: Teaching Smaller LLMs To Deliberate Mutually via Selective Rationale Optimisation",
@@ -761,8 +770,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces COALITION, a framework designed to enhance the rationale-generating capabilities of smaller language models (SLMs).  The approach leverages two variants of the same SLM interacting to generate and refine rationales, ultimately improving the SLM's ability to produce accurate answers.  The framework, trained via Selective Rationale Optimization, aims to address the limitations of relying on larger, often opaque language models for training smaller models and improve their performance on tasks like mathematical problems, commonsense reasoning, and natural language inference.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Measuring And Improving Persuasiveness Of Large Language Models",
@@ -799,9 +807,7 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true,
-    "paper_content": "This paper introduces PersuasionBench and PersuasionArena, large-scale benchmarks and arenas to evaluate the persuasive abilities of large language models (LLMs).  The research aims to measure both simulative and generative persuasion capabilities,  highlighting that persuasiveness correlates with model size but can be enhanced through targeted training in smaller models.\n",
-    "venue": "poster"
+    "majority_authors_from_india": true
   },
   {
     "paper_title": "From Search to Sampling: Generative Models for Robust Algorithmic Recourse",
@@ -831,9 +837,7 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true,
-    "paper_content": "This paper introduces GenRe, a generative model for algorithmic recourse.  GenRe aims to jointly train recourse objectives (proximity, plausibility, and validity) for improved recommendations, unlike previous methods that optimize these separately.  The authors show that GenRe, using a forward sampling approach during inference, outperforms existing baselines in terms of cost, plausibility, and validity of generated recourse suggestions.\n",
-    "venue": "poster"
+    "majority_authors_from_india": true
   },
   {
     "paper_title": "Towards Self-Supervised Covariance Estimation in Deep Heteroscedastic Regression",
@@ -871,8 +875,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper investigates self-supervised covariance estimation in deep heteroscedastic regression.  It aims to develop methods to learn the covariance of a target distribution without explicit ground-truth labels, focusing on two key questions regarding supervision and pseudo-label generation.  The paper proposes a 2-Wasserstein distance-based approach, alongside a heuristic algorithm for generating pseudo-labels, demonstrating improved accuracy and efficiency compared to existing unsupervised methods.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Surprising Effectiveness of pretraining Ternary  Language Model at Scale",
@@ -924,8 +927,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper investigates the pretraining of ternary language models (TriLMs) as a more efficient alternative to traditional floating-point models for large language models (LLMs).  It presents the Spectra LLM suite, a collection of models with varying bit-widths, to demonstrate that TriLMs, at scales exceeding a billion parameters, consistently outperform comparable quantized and floating-point models.  The research aims to show the feasibility and scalability of low-bitwidth LLMs for deployment in memory-constrained environments.\n",
-    "venue": "spotlight"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Measuring And Improving Engagement of Text-to-Image Generation Models",
@@ -956,7 +958,7 @@
       {
         "name": "",
         "openreview_id": "~Changyou_Chen1",
-        "affiliation_name": "State University of New York, Buffalo",
+        "affiliation_name": "State University of New York at Buffalo",
         "affiliation_domain": "buffalo.edu",
         "affiliation_country": "US"
       },
@@ -984,8 +986,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces a new dataset, EngagingImageNet, and a model, EngageNet, to measure and improve viewer engagement in text-to-image generation models.  It argues existing metrics fail to capture this crucial aspect, and proposes methods to condition image generation for better user outcomes.  The authors aim to create a benchmark, the Engagement Arena, to spur further research in this field.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Efficient Causal Decision Making with One-sided Feedback",
@@ -1022,8 +1023,7 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "venue": "poster"
+    "majority_authors_from_india": false
   },
   {
     "paper_title": "GANDALF: Generative AttentioN based Data Augmentation and predictive modeLing Framework for personalized cancer treatment",
@@ -1075,8 +1075,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper introduces GANDALF, a novel framework for personalized cancer treatment.  It aims to improve drug response prediction models by addressing the limitations of existing methods, which fail to account for patient-specific genomic characteristics.  GANDALF directly augments patient genomic data, incorporating domain-specific features, and outperforms prior state-of-the-art models on public datasets.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
@@ -1107,15 +1106,14 @@
       {
         "name": "",
         "openreview_id": "~Xiang_Ren1",
-        "affiliation_name": "Unknown",
-        "affiliation_domain": "unknown.edu",
-        "affiliation_country": "UNK"
+        "affiliation_name": "University of Southern California",
+        "affiliation_domain": "usc.edu",
+        "affiliation_country": "US"
       }
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This research investigates how large language models (LLMs) exhibit cultural biases in generative tasks due to uneven cultural representation in their pretraining data.  The study analyzes how models associate entities with cultures based on pretraining data, proposing MEMOED, a framework to identify memorized cultural associations.  Findings show that more frequent cultures in pretraining data lead to more memorized symbol generations, highlighting a bias toward high-frequency terms regardless of cultural relevance.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "ASTrA: Adversarial Self-supervised Training with Adaptive-Attacks",
@@ -1125,7 +1123,7 @@
       {
         "name": "Prakash Chandra Chhipa",
         "openreview_id": "~Prakash_Chandra_Chhipa1",
-        "affiliation_name": "Luleå University of Technology",
+        "affiliation_name": "Lule\u00e5 University of Technology",
         "affiliation_domain": "ltu.se",
         "affiliation_country": "SE"
       },
@@ -1160,15 +1158,14 @@
       {
         "name": "",
         "openreview_id": "~Marcus_Liwicki1",
-        "affiliation_name": "Luleå University of Technology",
+        "affiliation_name": "Lule\u00e5 University of Technology",
         "affiliation_domain": "ltu.se",
         "affiliation_country": "SE"
       }
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper introduces ASTrA, a novel self-supervised adversarial training framework.  It addresses limitations of existing methods by proposing a learnable, adaptive attack strategy network.  ASTrA aims to improve adversarial robustness by dynamically adjusting attack parameters during training without relying on labeled data or additional hyperparameters.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
@@ -1178,15 +1175,15 @@
       {
         "name": "Juan A. Rodriguez",
         "openreview_id": "~Juan_A._Rodriguez1",
-        "affiliation_name": "ServiceNow Research",
-        "affiliation_domain": "servicenow.com",
+        "affiliation_name": "Mila - Quebec Artificial Intelligence Institute",
+        "affiliation_domain": "mila.quebec",
         "affiliation_country": "CA"
       },
       {
         "name": "Xiangru Jian",
         "openreview_id": "~Xiangru_Jian1",
-        "affiliation_name": "ServiceNow Research",
-        "affiliation_domain": "servicenow.com",
+        "affiliation_name": "University of Waterloo",
+        "affiliation_domain": "uwaterloo.ca",
         "affiliation_country": "CA"
       },
       {
@@ -1225,8 +1222,8 @@
         "affiliation_country": "US"
       },
       {
-        "name": "François Savard",
-        "openreview_id": "~François_Savard1",
+        "name": "Fran\u00e7ois Savard",
+        "openreview_id": "~Fran\u00e7ois_Savard1",
         "affiliation_name": "ServiceNow Inc",
         "affiliation_domain": "servicenow.com",
         "affiliation_country": "CA"
@@ -1234,14 +1231,14 @@
       {
         "name": "Ahmed Masry",
         "openreview_id": "~Ahmed_Masry1",
-        "affiliation_name": "York University",
-        "affiliation_domain": "yorku.ca",
+        "affiliation_name": "Mila - Quebec Artificial Intelligence Institute",
+        "affiliation_domain": "mila.quebec",
         "affiliation_country": "CA"
       },
       {
         "name": "Shravan Nayak",
         "openreview_id": "~Shravan_Nayak1",
-        "affiliation_name": "Université de Montréal",
+        "affiliation_name": "Universit\u00e9 de Montr\u00e9al",
         "affiliation_domain": "umontreal.ca",
         "affiliation_country": "CA"
       },
@@ -1276,7 +1273,7 @@
       {
         "name": "Suyuchen Wang",
         "openreview_id": "~Suyuchen_Wang1",
-        "affiliation_name": "Université de Montréal",
+        "affiliation_name": "Universit\u00e9 de Montr\u00e9al",
         "affiliation_domain": "umontreal.ca",
         "affiliation_country": "CA"
       },
@@ -1290,16 +1287,16 @@
       {
         "name": "Mats Leon Richter",
         "openreview_id": "~Mats_Leon_Richter1",
-        "affiliation_name": "Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal",
+        "affiliation_name": "Montreal Institute for Learning Algorithms, University of Montreal, Universit\u00e9 de Montr\u00e9al",
         "affiliation_domain": "mila.umontreal.ca",
         "affiliation_country": "CA"
       },
       {
         "name": "Saverio Vadacchino",
         "openreview_id": "~Saverio_Vadacchino1",
-        "affiliation_name": "ServiceNow",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Shubham Agarwal",
@@ -1311,7 +1308,7 @@
       {
         "name": "Sanket Biswas",
         "openreview_id": "~Sanket_Biswas1",
-        "affiliation_name": "Computer Vision Center, Universitat Autónoma de Barcelona",
+        "affiliation_name": "Computer Vision Center, Universitat Aut\u00f3noma de Barcelona",
         "affiliation_domain": "cvc.uab.es",
         "affiliation_country": "ES"
       },
@@ -1374,13 +1371,13 @@
       {
         "name": "Sean Hughes",
         "openreview_id": "~Sean_Hughes1",
-        "affiliation_name": "ServiceNow",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
-        "name": "M. Tamer Özsu",
-        "openreview_id": "~M._Özsu1",
+        "name": "M. Tamer \u00d6zsu",
+        "openreview_id": "~M._\u00d6zsu1",
         "affiliation_name": "University of Waterloo",
         "affiliation_domain": "cs.uwaterloo.ca",
         "affiliation_country": "CA"
@@ -1395,7 +1392,7 @@
       {
         "name": "",
         "openreview_id": "~Marco_Pedersoli1",
-        "affiliation_name": "École de technologie supérieure, Université du Québec",
+        "affiliation_name": "\u00c9cole de technologie sup\u00e9rieure, Universit\u00e9 du Qu\u00e9bec",
         "affiliation_domain": "etsmtl.ca",
         "affiliation_country": "CA"
       },
@@ -1450,9 +1447,7 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "This paper introduces BigDocs-7.5M, an open-access dataset of 7.5 million multimodal documents designed for training multimodal AI models on document and code tasks.  It also presents BigDocs-Bench, a benchmark suite of 10 novel tasks, which assess model performance in real-world document reasoning and code generation.  The authors aim to improve open access to training data and facilitate the development and improvement of multimodal AI tools through this open dataset and benchmark.\n",
-    "venue": "poster"
+    "majority_authors_from_india": false
   },
   {
     "paper_title": "MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion",
@@ -1497,8 +1492,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces MotionAura, a novel text-to-video generation model leveraging discrete diffusion models.  The model utilizes a pre-trained 3D VAE to predict discrete tokens, resulting in temporally coherent videos aligned with text prompts.  The paper also presents a spectral transformer-based denoising network for improved video generation and inpainting.\n",
-    "venue": "spotlight"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Teaching Human Behavior Improves Content Understanding Abilities Of VLMs",
@@ -1529,7 +1523,7 @@
       {
         "name": "",
         "openreview_id": "~Changyou_Chen1",
-        "affiliation_name": "State University of New York, Buffalo",
+        "affiliation_name": "State University of New York at Buffalo",
         "affiliation_domain": "buffalo.edu",
         "affiliation_country": "US"
       },
@@ -1543,8 +1537,8 @@
       {
         "name": "Veeky Baths",
         "openreview_id": "~Veeky_Baths1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -1556,9 +1550,7 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true,
-    "paper_content": "This research investigates improving vision-language model (VLM) content understanding by incorporating receiver behavior, such as likes and comments.  The authors demonstrate that training VLMs on these behaviors enhances VLM performance across various content understanding tasks.  This approach leverages readily available, publicly-sourced receiver behavior data, offering a performance boost and a potential free resource for VLM improvement.\n",
-    "venue": "poster"
+    "majority_authors_from_india": true
   },
   {
     "paper_title": "Sensitivity Verification for Additive Decision Tree Ensembles",
@@ -1596,8 +1588,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper develops a formal verification framework for analyzing feature sensitivity in additive decision tree ensembles, considering the confidence of the model's output.  It demonstrates the theoretical (NP-)hardness of this problem and provides a pseudo-Boolean constraint encoding for a tunable sensitivity analysis algorithm, balancing accuracy and runtime.  The authors evaluate their approach on existing GBDT benchmarks, showing improved performance compared to existing methods.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "EFFICIENT JAILBREAK ATTACK SEQUENCES ON LARGE LANGUAGE MODELS VIA MULTI-ARMED BANDIT-BASED CONTEXT SWITCHING",
@@ -1635,8 +1626,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces a novel jailbreak attack on large language models (LLMs).  It leverages a multi-armed bandit (MAB) approach to create sequential context-switching queries (CSQs) that systematically weaken the model's safety boundaries.  The authors demonstrate significantly improved attack success rates compared to existing methods.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge",
@@ -1674,9 +1664,9 @@
       {
         "name": "Shivalika Singh",
         "openreview_id": "~Shivalika_Singh1",
-        "affiliation_name": "Cohere For AI",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "CA"
+        "affiliation_name": "Cohere Labs",
+        "affiliation_domain": "cohere.com",
+        "affiliation_country": "IN"
       },
       {
         "name": "Rishabh Maheshwary",
@@ -1702,9 +1692,9 @@
       {
         "name": "Mohamed A. Haggag",
         "openreview_id": "~Mohamed_A._Haggag1",
-        "affiliation_name": "Georgia Institute of Technology",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Snegha A",
@@ -1744,8 +1734,8 @@
       {
         "name": "Jenny Chim",
         "openreview_id": "~Jenny_Chim1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -1765,8 +1755,8 @@
       {
         "name": "Abraham Diress",
         "openreview_id": "~Abraham_Diress1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -1821,13 +1811,13 @@
       {
         "name": "Maral Jabbarishiviari",
         "openreview_id": "~Maral_Jabbarishiviari1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
-        "name": "Börje F. Karlsson",
-        "openreview_id": "~Börje_F._Karlsson1",
+        "name": "B\u00f6rje F. Karlsson",
+        "openreview_id": "~B\u00f6rje_F._Karlsson1",
         "affiliation_name": "Beijing Academy of Artificial Intelligence (BAAI)",
         "affiliation_domain": "baai.ac.cn",
         "affiliation_country": "CN"
@@ -1835,14 +1825,14 @@
       {
         "name": "Eldar Khalilov",
         "openreview_id": "~Eldar_Khalilov1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
         "name": "",
         "openreview_id": "~Christopher_Klamm1",
-        "affiliation_name": "Universität Mannheim",
+        "affiliation_name": "Universit\u00e4t Mannheim",
         "affiliation_domain": "uni-mannheim.de",
         "affiliation_country": "DE"
       },
@@ -1854,16 +1844,16 @@
         "affiliation_country": "AE"
       },
       {
-        "name": "Dominik Krzemiński",
-        "openreview_id": "~Dominik_Krzemiński1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "name": "Dominik Krzemi\u0144ski",
+        "openreview_id": "~Dominik_Krzemi\u0144ski1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
         "name": "Gabriel Adriano de Melo",
         "openreview_id": "~Gabriel_Adriano_de_Melo1",
-        "affiliation_name": "Instituto Tecnológico de Aeronáutica",
+        "affiliation_name": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica",
         "affiliation_domain": "ita.br",
         "affiliation_country": "BR"
       },
@@ -1877,8 +1867,8 @@
       {
         "name": "Yiyang Nan",
         "openreview_id": "~Yiyang_Nan1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -1898,7 +1888,7 @@
       {
         "name": "Johan Obando-Ceron",
         "openreview_id": "~Johan_Samir_Obando_Ceron1",
-        "affiliation_name": "Mila - Quebec AI Institute, Université de Montréal",
+        "affiliation_name": "Mila - Quebec AI Institute, Universit\u00e9 de Montr\u00e9al",
         "affiliation_domain": "mila.umontreal.ca",
         "affiliation_country": "CA"
       },
@@ -1926,8 +1916,8 @@
       {
         "name": "Selvan Sunitha Ravi",
         "openreview_id": "~Selvan_Sunitha_Ravi1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -1989,14 +1979,14 @@
       {
         "name": "Thenuka Ovin Weerasinghe",
         "openreview_id": "~Thenuka_Ovin_Weerasinghe1",
-        "affiliation_name": "UNK",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
         "name": "Serhan Yilmaz",
         "openreview_id": "~Serhan_Yilmaz1",
-        "affiliation_name": "Technische Universität Darmstadt",
+        "affiliation_name": "Technische Universit\u00e4t Darmstadt",
         "affiliation_domain": "tu-darmstadt.de",
         "affiliation_country": "DE"
       },
@@ -2017,7 +2007,7 @@
       {
         "name": "Marzieh Fadaee",
         "openreview_id": "~Marzieh_Fadaee2",
-        "affiliation_name": "Cohere For AI",
+        "affiliation_name": "Cohere Labs",
         "affiliation_domain": "cohere.com",
         "affiliation_country": "NL"
       },
@@ -2031,15 +2021,14 @@
       {
         "name": "",
         "openreview_id": "~Antoine_Bosselut1",
-        "affiliation_name": "Swiss Federal Institute of Technology Lausanne",
+        "affiliation_name": "EPFL",
         "affiliation_domain": "epfl.ch",
         "affiliation_country": "CH"
       }
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper aims to develop a comprehensive evaluation resource, INCLUDE, for multilingual large language models (LLMs).  INCLUDE  will assess LLM performance across 44 languages by using a knowledge- and reasoning-centric benchmark based on regional exam questions.  The resource is designed to address the lack of high-quality evaluation data in languages other than English, promoting fairer and more equitable LLM deployment globally.\n",
-    "venue": "spotlight"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Neural Wave Equation for Irregularly Sampled Sequence Data",
@@ -2070,8 +2059,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces a novel deep learning method, the neural wave equation, for sequence labeling tasks involving irregularly sampled data.  It aims to improve upon existing neural ODE-based architectures by allowing continuous modeling of depth and time, thereby enhancing flexibility and adaptability to varying data complexities.  The authors demonstrate the method's superior performance on several sequence labeling problems compared to previous models.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Robust Root Cause Diagnosis using In-Distribution Interventions",
@@ -2109,8 +2097,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces In-Distribution Interventions (IDI), a novel algorithm for robustly diagnosing root causes of anomalies in complex systems.  IDI predicts root causes by considering both anomalous node values and the effect of intervening on these values to resolve the anomaly, avoiding the unreliability of counterfactual estimates from historical data.  Experiments on synthetic and real datasets demonstrate IDI's superior accuracy compared to existing methods in identifying true root causes.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "ONLINE EPSILON NET & PIERCING SET FOR GEOMETRIC CONCEPTS",
@@ -2140,8 +2127,7 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true,
-    "venue": "poster"
+    "majority_authors_from_india": true
   },
   {
     "paper_title": "DarkBench: Benchmarking Dark Patterns in Large Language Models",
@@ -2179,22 +2165,21 @@
       {
         "name": "Jinsuk Park",
         "openreview_id": "~Jinsuk_Park1",
-        "affiliation_name": "Independent",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Mateusz Maria Jurewicz",
         "openreview_id": "~Mateusz_Maria_Jurewicz1",
-        "affiliation_name": "Independent",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       }
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper introduces DarkBench, a benchmark to identify and quantify \"dark patterns\"—manipulative design techniques—in large language models (LLMs).  The benchmark evaluates six categories of dark patterns in responses from 14 LLMs from leading companies.  The study aims to highlight the prevalence of these patterns and encourage developers to mitigate their use in AI systems, promoting ethical AI development.\n",
-    "venue": "oral"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing",
@@ -2218,9 +2203,9 @@
       {
         "name": "Jiajun Zhu",
         "openreview_id": "~Jiajun_Zhu1",
-        "affiliation_name": "Zhejiang University",
-        "affiliation_domain": "zju.edu.cn",
-        "affiliation_country": "CN"
+        "affiliation_name": "University of Texas at Austin",
+        "affiliation_domain": "utexas.edu",
+        "affiliation_country": "US"
       },
       {
         "name": "Pragya Srivastava",
@@ -2246,8 +2231,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper investigates the limitations of State Space Models (SSMs) related to recency bias and over-smoothing.  It argues that these inherent limitations hinder scalability.  The authors propose a polarization technique to address these issues and improve long-range associative recall accuracy in SSMs.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset",
@@ -2257,8 +2241,8 @@
       {
         "name": "Kartik Thakral",
         "openreview_id": "~Kartik_Thakral1",
-        "affiliation_name": "Indian Institute of Technology Jodhpur, India",
-        "affiliation_domain": "iitj.ac.in",
+        "affiliation_name": "Dolby",
+        "affiliation_domain": "dolby.com",
         "affiliation_country": "IN"
       },
       {
@@ -2278,9 +2262,9 @@
       {
         "name": "Akshat Jain",
         "openreview_id": "~Akshat_Jain2",
-        "affiliation_name": "IIT Jodhpur",
-        "affiliation_domain": "iitj.ac.in",
-        "affiliation_country": "IN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "",
@@ -2299,8 +2283,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "The paper introduces ILLUSION, a large-scale, multi-modal deepfake dataset.  It comprises 1.3 million samples spanning audio-visual forgeries, 26 languages, and various manipulation protocols to address the limitations of existing datasets.  The goal is to create a dataset robust enough to evaluate and advance deepfake detection research, bridging the gap between synthetic and real-world complexities.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Consistency Checks for Language Model Forecasters",
@@ -2350,8 +2333,8 @@
         "affiliation_country": "US"
       },
       {
-        "name": "Florian Tramèr",
-        "openreview_id": "~Florian_Tramèr1",
+        "name": "Florian Tram\u00e8r",
+        "openreview_id": "~Florian_Tram\u00e8r1",
         "affiliation_name": "ETHZ - ETH Zurich",
         "affiliation_domain": "ethz.ch",
         "affiliation_country": "CH"
@@ -2359,8 +2342,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper introduces consistency metrics to evaluate large language model (LLM) forecasters, addressing the challenge of instantaneously evaluating their predictions.  The authors propose a new metric based on arbitrage and develop an automated evaluation system to assess the logical consistency of forecasts.  The study validates these metrics against ground-truth Brier scores, demonstrating their potential for efficient and reliable LLM forecasting evaluation, particularly for long-term predictions.\n",
-    "venue": "oral"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks",
@@ -2391,8 +2373,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This research paper proposes a novel defense mechanism for large language models (LLMs) against socially engineered attacks.  It leverages hypergraphs and the Gromov-Hausdorff distance to create a metric space representing prompts, enabling a safety filter to distinguish between benign and malicious prompts.  The method is designed to address the growing threat of sophisticated, human-like attacks and exhibits improved performance compared to existing, more generic defenses.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "LiveBench: A Challenging, Contamination-Limited LLM Benchmark",
@@ -2423,8 +2404,8 @@
       {
         "name": "Benjamin Feuer",
         "openreview_id": "~Benjamin_Feuer1",
-        "affiliation_name": "New York University",
-        "affiliation_domain": "nyu.edu",
+        "affiliation_name": "Computer Science Department, Stanford University",
+        "affiliation_domain": "cs.stanford.edu",
         "affiliation_country": "US"
       },
       {
@@ -2437,8 +2418,8 @@
       {
         "name": "Ravid Shwartz-Ziv",
         "openreview_id": "~Ravid_Shwartz-Ziv2",
-        "affiliation_name": "NYU",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "New York University",
+        "affiliation_domain": "nyu.edu",
         "affiliation_country": "US"
       },
       {
@@ -2458,9 +2439,9 @@
       {
         "name": "Sreemanti Dey",
         "openreview_id": "~Sreemanti_Dey1",
-        "affiliation_name": "Abacus.AI",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Shubh-Agrawal",
@@ -2479,9 +2460,9 @@
       {
         "name": "Siddartha Venkat Naidu",
         "openreview_id": "~Siddartha_Venkat_Naidu1",
-        "affiliation_name": "Abacus.AI",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "",
@@ -2493,7 +2474,7 @@
       {
         "name": "Yann LeCun",
         "openreview_id": "~Yann_LeCun1",
-        "affiliation_name": "Facebook",
+        "affiliation_name": "Meta",
         "affiliation_domain": "meta.com",
         "affiliation_country": "US"
       },
@@ -2520,9 +2501,7 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "LiveBench is a new LLM benchmark designed to address test set contamination issues.  It uses automatically scored, frequently updated questions from recent information sources across various challenging tasks (math, coding, reasoning, etc.).  The benchmark aims for resilience against model overfitting and provides a more reliable evaluation of LLM capabilities.\n",
-    "venue": "spotlight"
+    "majority_authors_from_india": false
   },
   {
     "paper_title": "Quantum (Inspired)  $D^2$-sampling with Applications",
@@ -2545,9 +2524,7 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true,
-    "paper_content": "This paper develops a quantum algorithm for approximating D[2]-sampling, a fundamental component of k-means++ clustering.  The algorithm, along with a dequantized version, achieves a time complexity of O[˜](ζ²k²).  This leads to a quantum-inspired classical implementation of k-means++ with a faster running time than existing methods for large datasets.\n",
-    "venue": "poster"
+    "majority_authors_from_india": true
   },
   {
     "paper_title": "DiscoveryBench: Towards Data-Driven Discovery with Large Language Models",
@@ -2578,15 +2555,15 @@
       {
         "name": "Bhavana Dalvi Mishra",
         "openreview_id": "~Bhavana_Dalvi_Mishra2",
-        "affiliation_name": "Allen Institute for Artificial Intelligence",
-        "affiliation_domain": "allenai.org",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
         "affiliation_country": "US"
       },
       {
         "name": "Abhijeetsingh Meena",
         "openreview_id": "~Abhijeetsingh_Meena1",
-        "affiliation_name": "OpenLocus",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -2627,8 +2604,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper introduces DISCOVERYBENCH, a comprehensive benchmark to evaluate large language models' (LLMs) abilities in data-driven discovery.  It formalizes this multi-step process using 264 manually derived and 903 synthetic tasks across diverse domains.  The benchmark aims to assess LLM capabilities in automating hypothesis search and verification from datasets alone.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "SBSC: Step-by-Step Coding for Improving Mathematical Olympiad Performance",
@@ -2666,15 +2642,14 @@
       {
         "name": "Siva Kishore Gollapalli",
         "openreview_id": "~Siva_Kishore_Gollapalli1",
-        "affiliation_name": "Fractal AI Research",
-        "affiliation_domain": "fractal.ai",
-        "affiliation_country": "IN"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       }
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces SBSC, a multi-turn framework for LLMs to solve mathematical Olympiad problems.  SBSC allows the model to generate a sequence of programs, each addressing a sub-task, ultimately reaching the solution.  Experiments demonstrate significant improvement over existing state-of-the-art methods, especially when evaluated on competition-level datasets.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Computational Explorations of Total Variation Distance",
@@ -2719,8 +2694,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper explores the computational complexity of total variation (TV) distance.  It presents a polynomial-time algorithm for determining the equivalence of mixtures of product distributions.  Conversely, it proves the computational intractability of estimating TV distance for arbitrary Ising models, unless NP is a subset of RP.\n",
-    "venue": "spotlight"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)",
@@ -2730,9 +2704,9 @@
       {
         "name": "SUBBA REDDY OOTA",
         "openreview_id": "~SUBBA_REDDY_OOTA1",
-        "affiliation_name": "INRIA",
-        "affiliation_domain": "inria.fr",
-        "affiliation_country": "FR"
+        "affiliation_name": "Technische Universit\u00e4t Berlin",
+        "affiliation_domain": "tu-berlin.de",
+        "affiliation_country": "DE"
       },
       {
         "name": "Akshett Rai Jindal",
@@ -2786,8 +2760,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "This paper investigates how instruction-tuned multimodal large language models (MLLMs) align with brain activity during visual processing.  Specifically, it examines whether MLLMs, prompted with natural instructions, improve brain alignment compared to vision-only models and non-instruction-tuned MLLMs.  The results suggest that MLLMs effectively capture instruction-specific visual concepts, leading to better prediction of neural responses, though not all instructions are equally relevant.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   },
   {
     "paper_title": "MMTEB: Massive Multilingual Text Embedding Benchmark",
@@ -2816,8 +2789,8 @@
         "affiliation_country": "FR"
       },
       {
-        "name": "Márton Kardos",
-        "openreview_id": "~Márton_Kardos1",
+        "name": "M\u00e1rton Kardos",
+        "openreview_id": "~M\u00e1rton_Kardos1",
         "affiliation_name": "Aarhus University",
         "affiliation_domain": "au.dk",
         "affiliation_country": "DK"
@@ -2832,9 +2805,9 @@
       {
         "name": "David Stap",
         "openreview_id": "~David_Stap1",
-        "affiliation_name": "University of Amsterdam",
-        "affiliation_domain": "uva.nl",
-        "affiliation_country": "NL"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Jay Gala",
@@ -2846,15 +2819,15 @@
       {
         "name": "",
         "openreview_id": "~Wissam_Siblini1",
-        "affiliation_name": "Individual Contributor",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
-        "name": "Dominik Krzemiński",
-        "openreview_id": "~Dominik_Krzemiński1",
-        "affiliation_name": "Individual Contributor",
-        "affiliation_domain": "UNK",
+        "name": "Dominik Krzemi\u0144ski",
+        "openreview_id": "~Dominik_Krzemi\u0144ski1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -2867,9 +2840,9 @@
       {
         "name": "Saba Sturua",
         "openreview_id": "~Saba_Sturua1",
-        "affiliation_name": "Jina AI",
-        "affiliation_domain": "jina.ai",
-        "affiliation_country": "AI"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Saiteja Utpala",
@@ -2888,7 +2861,7 @@
       {
         "name": "Marion Schaeffer",
         "openreview_id": "~Marion_Schaeffer1",
-        "affiliation_name": "Institut National des Sciences Appliquées de Rouen",
+        "affiliation_name": "Institut National des Sciences Appliqu\u00e9es de Rouen",
         "affiliation_domain": "insa-rouen.fr",
         "affiliation_country": "FR"
       },
@@ -2900,8 +2873,8 @@
         "affiliation_country": "US"
       },
       {
-        "name": "Jonathan Rystrøm",
-        "openreview_id": "~Jonathan_Rystrøm1",
+        "name": "Jonathan Rystr\u00f8m",
+        "openreview_id": "~Jonathan_Rystr\u00f8m1",
         "affiliation_name": "University of Oxford",
         "affiliation_domain": "ox.ac.uk",
         "affiliation_country": "GB"
@@ -2914,8 +2887,8 @@
         "affiliation_country": "RU"
       },
       {
-        "name": "Ömer Veysel Çağatan",
-        "openreview_id": "~Ömer_Veysel_Çağatan1",
+        "name": "\u00d6mer Veysel \u00c7a\u011fatan",
+        "openreview_id": "~\u00d6mer_Veysel_\u00c7a\u011fatan1",
         "affiliation_name": "N/A",
         "affiliation_domain": "github.io",
         "affiliation_country": "TR"
@@ -2944,8 +2917,8 @@
       {
         "name": "Akshita Sukhlecha",
         "openreview_id": "~Akshita_Sukhlecha1",
-        "affiliation_name": "Individual Contributor",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -2956,8 +2929,8 @@
         "affiliation_country": "IN"
       },
       {
-        "name": "Rafał Poświata",
-        "openreview_id": "~Rafał_Poświata1",
+        "name": "Rafa\u0142 Po\u015bwiata",
+        "openreview_id": "~Rafa\u0142_Po\u015bwiata1",
         "affiliation_name": "National Information Processing Institute",
         "affiliation_domain": "opi.org.pl",
         "affiliation_country": "PL"
@@ -2984,9 +2957,9 @@
         "affiliation_country": "DE"
       },
       {
-        "name": "Björn Plüster",
-        "openreview_id": "~Björn_Plüster1",
-        "affiliation_name": "Universität Hamburg",
+        "name": "Bj\u00f6rn Pl\u00fcster",
+        "openreview_id": "~Bj\u00f6rn_Pl\u00fcster1",
+        "affiliation_name": "Universit\u00e4t Hamburg",
         "affiliation_domain": "uni-hamburg.de",
         "affiliation_country": "DE"
       },
@@ -2998,10 +2971,10 @@
         "affiliation_country": "DE"
       },
       {
-        "name": "Loïc Magne",
-        "openreview_id": "~Loïc_Magne1",
-        "affiliation_name": "Individual Contributor",
-        "affiliation_domain": "UNK",
+        "name": "Lo\u00efc Magne",
+        "openreview_id": "~Lo\u00efc_Magne1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -3098,7 +3071,7 @@
       {
         "name": "Aleksei Vatolin",
         "openreview_id": "~Aleksei_Vatolin1",
-        "affiliation_name": "Federal Research Center «Computer Science and Control» of Russian Academy of Sciences",
+        "affiliation_name": "Federal Research Center \u00abComputer Science and Control\u00bb of Russian Academy of Sciences",
         "affiliation_domain": "frccsc.ru",
         "affiliation_country": "RU"
       },
@@ -3112,15 +3085,15 @@
       {
         "name": "Manan Dey",
         "openreview_id": "~Manan_Dey2",
-        "affiliation_name": "Salesforce",
-        "affiliation_domain": "salesforce.com",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Dipam Vasani",
         "openreview_id": "~Dipam_Vasani1",
-        "affiliation_name": "Individual Contributor",
-        "affiliation_domain": "UNK",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
         "affiliation_country": "UNK"
       },
       {
@@ -3159,8 +3132,8 @@
         "affiliation_country": "GB"
       },
       {
-        "name": "Michael Günther",
-        "openreview_id": "~Michael_Günther1",
+        "name": "Michael G\u00fcnther",
+        "openreview_id": "~Michael_G\u00fcnther1",
         "affiliation_name": "Jina AI",
         "affiliation_domain": "jina.ai",
         "affiliation_country": "DE"
@@ -3180,8 +3153,8 @@
         "affiliation_country": "US"
       },
       {
-        "name": "Xing Han Lù",
-        "openreview_id": "~Xing_Han_Lù1",
+        "name": "Xing Han L\u00f9",
+        "openreview_id": "~Xing_Han_L\u00f91",
         "affiliation_name": "McGill University",
         "affiliation_domain": "mcgill.ca",
         "affiliation_country": "CA"
@@ -3231,9 +3204,9 @@
       {
         "name": "Aleksandr Abramov",
         "openreview_id": "~Aleksandr_Abramov1",
-        "affiliation_name": "SaluteDevices",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Malte Ostendorff",
@@ -3266,9 +3239,9 @@
       {
         "name": "Alena Fenogenova",
         "openreview_id": "~Alena_Fenogenova1",
-        "affiliation_name": "SaluteDevices",
-        "affiliation_domain": "UNK",
-        "affiliation_country": "US"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Ruqiya Bin Safi",
@@ -3287,9 +3260,9 @@
       {
         "name": "Alessia Borghini",
         "openreview_id": "~Alessia_Borghini1",
-        "affiliation_name": "Sapienza University of Rome",
-        "affiliation_domain": "uniroma1.it",
-        "affiliation_country": "IT"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Federico Cassano",
@@ -3301,9 +3274,9 @@
       {
         "name": "Lasse Hansen",
         "openreview_id": "~Lasse_Hansen2",
-        "affiliation_name": "Aarhus University",
-        "affiliation_domain": "au.dk",
-        "affiliation_country": "DK"
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
       },
       {
         "name": "Sara Hooker",
@@ -3349,9 +3322,7 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false,
-    "paper_content": "This paper introduces MMTEB, a massive multilingual text embedding benchmark.  It aims to provide a more comprehensive evaluation of text embeddings by expanding upon the existing MTEB benchmark, expanding its scope to over 500 tasks across multiple languages and introducing challenging, novel tasks.  The authors utilize this expanded benchmark to evaluate various multilingual models.\n",
-    "venue": "poster"
+    "majority_authors_from_india": false
   },
   {
     "paper_title": "Designing Concise ConvNets with Columnar Stages",
@@ -3375,7 +3346,6 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "This paper introduces CoSNet, a new convolutional neural network (ConvNet) design focused on resource-constrained deployments.  CoSNet aims to improve upon existing concise ConvNets by considering factors beyond runtime optimization, such as computational cost (FLOPs and parameters), in addition to depth reduction.  The proposed design specifically targets efficient resource use through a novel columnar stacking methodology, while maintaining competitive performance with existing state-of-the-art ConvNets.\n",
-    "venue": "poster"
+    "paper_content": "Error generating summary."
   }
 ]

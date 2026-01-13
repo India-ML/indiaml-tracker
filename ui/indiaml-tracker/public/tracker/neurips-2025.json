@@ -1,0 +1,4459 @@
+[
+  {
+    "paper_title": "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs",
+    "paper_id": "0fBQAckQK3",
+    "pdf_url": "https://openreview.net/pdf/0f711e5187bba18c598a08cc6c71618614d27a6e.pdf",
+    "author_list": [
+      {
+        "name": "Advik Raj Basani",
+        "openreview_id": "~Advik_Raj_Basani1",
+        "affiliation_name": "Birla Institute of Technology and Science, K K Birla Goa Campus",
+        "affiliation_domain": "goa.bits-pilani.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Xiao_Zhang2",
+        "affiliation_name": "CISPA Helmholtz Center for Information Security",
+        "affiliation_domain": "cispa.de",
+        "affiliation_country": "DE"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
+    "paper_id": "1wmP48quNb",
+    "pdf_url": "https://openreview.net/pdf/9cae22fa560aca8bfdcc10be637a87852424eada.pdf",
+    "author_list": [
+      {
+        "name": "Zuhair Hasan Shaik",
+        "openreview_id": "~Zuhair_Hasan_Shaik2",
+        "affiliation_name": "Mohamed bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Abdullah Mazhar",
+        "openreview_id": "~Abdullah_Mazhar1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Aseem Srivastava",
+        "openreview_id": "~Aseem_Srivastava1",
+        "affiliation_name": "Mohamed bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Md Shad Akhtar",
+        "openreview_id": "~Md_Shad_Akhtar1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Understanding Outer Optimizers in Local SGD: Learning Rates, Momentum, and Acceleration",
+    "paper_id": "2VX79YLT9s",
+    "pdf_url": "https://openreview.net/pdf/0e5076fb8001aa7354dab0c67538d9d2ddc24119.pdf",
+    "author_list": [
+      {
+        "name": "Ahmed Khaled",
+        "openreview_id": "~Ahmed_Khaled1",
+        "affiliation_name": "Princeton University",
+        "affiliation_domain": "princeton.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Satyen_Kale2",
+        "affiliation_name": "Apple",
+        "affiliation_domain": "apple.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Arthur Douillard",
+        "openreview_id": "~Arthur_Douillard1",
+        "affiliation_name": "DeepMind",
+        "affiliation_domain": "deepmind.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Chi Jin",
+        "openreview_id": "~Chi_Jin1",
+        "affiliation_name": "Princeton University",
+        "affiliation_domain": "princeton.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Rob Fergus",
+        "openreview_id": "~Rob_Fergus1",
+        "affiliation_name": "Meta",
+        "affiliation_domain": "meta.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Manzil Zaheer",
+        "openreview_id": "~Manzil_Zaheer1",
+        "affiliation_name": "Zaheer",
+        "affiliation_domain": "zaheer.ml",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Path-specific effects for pulse-oximetry guided decisions in critical care",
+    "paper_id": "2XelsPmKV1",
+    "pdf_url": "https://openreview.net/pdf/3974d0a9187aa5e8eacd2c354bac205ad593adb2.pdf",
+    "author_list": [
+      {
+        "name": "Kevin Zhang",
+        "openreview_id": "~Kevin_Zhang8",
+        "affiliation_name": "Massachusetts Institute of Technology",
+        "affiliation_domain": "mit.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yonghan Jung",
+        "openreview_id": "~Yonghan_Jung1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "uiuc.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Divyat Mahajan",
+        "openreview_id": "~Divyat_Mahajan1",
+        "affiliation_name": "Montreal Institute of Learning Algorithms",
+        "affiliation_domain": "mila.quebec",
+        "affiliation_country": "CA"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Karthikeyan_Shanmugam1",
+        "affiliation_name": "Google Deepmind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Shalmali_Joshi1",
+        "affiliation_name": "Columbia University",
+        "affiliation_domain": "columbia.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Emergence in non-neural models: grokking modular arithmetic via average gradient outer product",
+    "paper_id": "36hVB7DEB0",
+    "pdf_url": "https://openreview.net/pdf/1af8a04dee29a93f8e4461897be3a3f036e906dc.pdf",
+    "author_list": [
+      {
+        "name": "Neil Rohit Mallinar",
+        "openreview_id": "~Neil_Rohit_Mallinar1",
+        "affiliation_name": "University of California, San Diego",
+        "affiliation_domain": "ucsd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Daniel Beaglehole",
+        "openreview_id": "~Daniel_Beaglehole1",
+        "affiliation_name": "University of California, San Diego",
+        "affiliation_domain": "ucsd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Libin Zhu",
+        "openreview_id": "~Libin_Zhu1",
+        "affiliation_name": "University of Washington",
+        "affiliation_domain": "uw.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Adityanarayanan_Radhakrishnan1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Parthe_Pandit1",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Mikhail Belkin",
+        "openreview_id": "~Mikhail_Belkin1",
+        "affiliation_name": "University of California, San Diego",
+        "affiliation_domain": "ucsd.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "NextCoder: Robust Adaptation of Code LMs to Diverse Code Edits",
+    "paper_id": "3B6fF1PxYD",
+    "pdf_url": "https://openreview.net/pdf/e4c45e8d4642143f7bff681474b7ce9634b0db2d.pdf",
+    "author_list": [
+      {
+        "name": "Tushar Aggarwal",
+        "openreview_id": "~Tushar_Aggarwal1",
+        "affiliation_name": "Stanford University",
+        "affiliation_domain": "stanford.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Swayam Singh",
+        "openreview_id": "~Swayam_Singh1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abhijeet Awasthi",
+        "openreview_id": "~Abhijeet_Awasthi1",
+        "affiliation_name": "Meta AI",
+        "affiliation_domain": "meta.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Aditya Kanade",
+        "openreview_id": "~Aditya_Kanade2",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Nagarajan Natarajan",
+        "openreview_id": "~Nagarajan_Natarajan2",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Near Optimal Best Arm Identification for Clustered Bandits",
+    "paper_id": "3Jr5Al16MS",
+    "pdf_url": "https://openreview.net/pdf/e96611b0083dddb092ac4baec4ef8e034b86424b.pdf",
+    "author_list": [
+      {
+        "name": "Yash",
+        "openreview_id": "~Yash1",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Avishek Ghosh",
+        "openreview_id": "~Avishek_Ghosh2",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Nikhil Karamchandani",
+        "openreview_id": "~Nikhil_Karamchandani1",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Great Models Think Alike and this Undermines AI Oversight",
+    "paper_id": "3Z827FtMNe",
+    "pdf_url": "https://openreview.net/pdf/f76e224bf7aa29000e59bfc50d3a9f86976aa8ab.pdf",
+    "author_list": [
+      {
+        "name": "Shashwat Goel",
+        "openreview_id": "~Shashwat_Goel1",
+        "affiliation_name": "ELLIS, Max Planck Institute",
+        "affiliation_domain": "tuebingen.mpg.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Joschka Str\u00fcber",
+        "openreview_id": "~Joschka_Str\u00fcber1",
+        "affiliation_name": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen",
+        "affiliation_domain": "uni-tuebingen.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Ilze Amanda Auzina",
+        "openreview_id": "~Ilze_Amanda_Auzina1",
+        "affiliation_name": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen",
+        "affiliation_domain": "uni-tuebingen.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Karuna K Chandra",
+        "openreview_id": "~Karuna_K_Chandra2",
+        "affiliation_name": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "research.iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Ponnurangam Kumaraguru",
+        "openreview_id": "~Ponnurangam_Kumaraguru3",
+        "affiliation_name": "International Institute of Information Technology Hyderabad ",
+        "affiliation_domain": "iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Douwe Kiela",
+        "openreview_id": "~Douwe_Kiela1",
+        "affiliation_name": "Stanford University",
+        "affiliation_domain": "stanford.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Ameya_Prabhu1",
+        "affiliation_name": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen",
+        "affiliation_domain": "uni-tuebingen.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Matthias Bethge",
+        "openreview_id": "~Matthias_Bethge1",
+        "affiliation_name": "University of Tuebingen",
+        "affiliation_domain": "uni-tuebingen.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Jonas Geiping",
+        "openreview_id": "~Jonas_Geiping1",
+        "affiliation_name": "ELLIS Institute T\u00fcbingen",
+        "affiliation_domain": "tue.ellis.eu",
+        "affiliation_country": "DE"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Dimension-free Score Matching and Time Bootstrapping for Diffusion Models",
+    "paper_id": "3p06mDUV5O",
+    "pdf_url": "https://openreview.net/pdf/6aa0d749e7de3321bec99967e7cdcd858c53bd6d.pdf",
+    "author_list": [
+      {
+        "name": "Syamantak Kumar",
+        "openreview_id": "~Syamantak_Kumar1",
+        "affiliation_name": "University of Texas at Austin",
+        "affiliation_domain": "cs.utexas.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Dheeraj Mysore Nagaraj",
+        "openreview_id": "~Dheeraj_Mysore_Nagaraj1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Purnamrita_Sarkar1",
+        "affiliation_name": "University of Texas, Austin",
+        "affiliation_domain": "utexas.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "The Missing Alignment Link of In-context Learning on Sequences",
+    "paper_id": "4Xvkpaikt4",
+    "pdf_url": "https://openreview.net/pdf/6784edd008281f1f2a8c0d85661cf18887b154bd.pdf",
+    "author_list": [
+      {
+        "name": "Harshvardhan Agarwal",
+        "openreview_id": "~Harshvardhan_Agarwal1",
+        "affiliation_name": "Stanford University",
+        "affiliation_domain": "stanford.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sunita Sarawagi",
+        "openreview_id": "~Sunita_Sarawagi1",
+        "affiliation_name": "IIT Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits",
+    "paper_id": "7UbXEQNny7",
+    "pdf_url": "https://openreview.net/pdf/02ac45637ac98e69259a71552ef96b40c98944f9.pdf",
+    "author_list": [
+      {
+        "name": "Areeb Ahmad",
+        "openreview_id": "~Areeb_Ahmad2",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Abhinav Joshi",
+        "openreview_id": "~Abhinav_Joshi1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Ashutosh Modi",
+        "openreview_id": "~Ashutosh_Modi1",
+        "affiliation_name": "IIT Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery",
+    "paper_id": "7WgYEIOLdv",
+    "pdf_url": "https://openreview.net/pdf/98db185a9cbc023aaf46b25024606a05d21cae5c.pdf",
+    "author_list": [
+      {
+        "name": "Vaibhav Rathore",
+        "openreview_id": "~Vaibhav_Rathore1",
+        "affiliation_name": "Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Divyam Gupta",
+        "openreview_id": "~Divyam_Gupta2",
+        "affiliation_name": "Northeastern University",
+        "affiliation_domain": "northeastern.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Biplab Banerjee",
+        "openreview_id": "~Biplab_Banerjee1",
+        "affiliation_name": "Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Price of Parsimony: Complexity of Fourier Sparsity Testing",
+    "paper_id": "7bCPXHq8xV",
+    "pdf_url": "https://openreview.net/pdf/c2ffafd467247c50098426414b7d5f09acd5e3da.pdf",
+    "author_list": [
+      {
+        "name": "Arijit Ghosh",
+        "openreview_id": "~Arijit_Ghosh2",
+        "affiliation_name": "Indian Statistical Institute",
+        "affiliation_domain": "isical.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Manmatha Roy",
+        "openreview_id": "~Manmatha_Roy1",
+        "affiliation_name": "Indian Statistical Institute, Kolkata",
+        "affiliation_domain": "isical.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm",
+    "paper_id": "9I1XjEEtsh",
+    "pdf_url": "https://openreview.net/pdf/566f6af0af89579824bce0064e0e77f3af5b97f5.pdf",
+    "author_list": [
+      {
+        "name": "Yang Xu",
+        "openreview_id": "~Yang_Xu18",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Swetha Ganesh",
+        "openreview_id": "~Swetha_Ganesh1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Washim Uddin Mondal",
+        "openreview_id": "~Washim_Uddin_Mondal1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Qinbo Bai",
+        "openreview_id": "~Qinbo_Bai1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Vaneet Aggarwal",
+        "openreview_id": "~Vaneet_Aggarwal1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "SPRO: Improving Image Generation via Self-Play",
+    "paper_id": "A4JiifkTzq",
+    "pdf_url": "https://openreview.net/pdf/020238e55fd35519748e0cf78e2d8bcf409bce38.pdf",
+    "author_list": [
+      {
+        "name": "Ritika Jha",
+        "openreview_id": "~Ritika_Jha1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Aanisha Bhattacharyya",
+        "openreview_id": "~Aanisha_Bhattacharyya2",
+        "affiliation_name": "State University of New York at Buffalo",
+        "affiliation_domain": "buffalo.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yaman Kumar Singla",
+        "openreview_id": "~Yaman_Kumar_Singla1",
+        "affiliation_name": "Adobe ",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Rajiv_Ratn_Shah1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Changyou_Chen1",
+        "affiliation_name": "State University of New York at Buffalo",
+        "affiliation_domain": "buffalo.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Balaji_Krishnamurthy1",
+        "affiliation_name": "Adobe Systems",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Harmonizing Geometry and Uncertainty: Diffusion with Hyperspheres",
+    "paper_id": "A82tIFgJaK",
+    "pdf_url": "https://openreview.net/pdf/aa4d8ea306eff31a797470e730dee019147e8d5b.pdf",
+    "author_list": [
+      {
+        "name": "Chiranjeev Chiranjeev",
+        "openreview_id": "~Chiranjeev_Chiranjeev1",
+        "affiliation_name": "Indian Institute of Technology, Jodhpur",
+        "affiliation_domain": "iitj.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Kartik Thakral",
+        "openreview_id": "~Kartik_Thakral1",
+        "affiliation_name": "Dolby",
+        "affiliation_domain": "dolby.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Mayank_Vatsa1",
+        "affiliation_name": "Indian Institute of Technology Jodhpur, India",
+        "affiliation_domain": "iitj.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Richa Singh",
+        "openreview_id": "~Richa_Singh1",
+        "affiliation_name": "Indian Institute of Technology Jodhpur, India",
+        "affiliation_domain": "iitj.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Teaching Transformers Causal Reasoning through Axiomatic Training",
+    "paper_id": "AhebPqDOMI",
+    "pdf_url": "https://openreview.net/pdf/aac9925b5ab7b998cbccb8c1e5309f480692e75f.pdf",
+    "author_list": [
+      {
+        "name": "Aniket Vashishtha",
+        "openreview_id": "~Aniket_Vashishtha1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Abhinav Kumar",
+        "openreview_id": "~Abhinav_Kumar3",
+        "affiliation_name": "Massachusetts Institute of Technology",
+        "affiliation_domain": "mit.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Atharva Pandey",
+        "openreview_id": "~Atharva_Pandey1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abbavaram Gowtham Reddy",
+        "openreview_id": "~Abbavaram_Gowtham_Reddy1",
+        "affiliation_name": "CISPA Helmholtz Center for Information Security",
+        "affiliation_domain": "cispa.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Kabir Ahuja",
+        "openreview_id": "~Kabir_Ahuja1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Vineeth N. Balasubramanian",
+        "openreview_id": "~Vineeth_N._Balasubramanian2",
+        "affiliation_name": "Research, Microsoft",
+        "affiliation_domain": "research.microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Amit Sharma",
+        "openreview_id": "~Amit_Sharma3",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning Attack",
+    "paper_id": "Arepl4R86m",
+    "pdf_url": "https://openreview.net/pdf/790990deac5e4c8e9a8ce71f8647c3bc68cd8173.pdf",
+    "author_list": [
+      {
+        "name": "Tiansheng Huang",
+        "openreview_id": "~Tiansheng_Huang1",
+        "affiliation_name": "Georgia Institute of Technology",
+        "affiliation_domain": "gatech.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Gautam Bhattacharya",
+        "openreview_id": "~Gautam_Bhattacharya1",
+        "affiliation_name": "McGill University",
+        "affiliation_domain": "mcgill.ca",
+        "affiliation_country": "CA"
+      },
+      {
+        "name": "Pratik Joshi",
+        "openreview_id": "~Pratik_Joshi2",
+        "affiliation_name": "Dolby",
+        "affiliation_domain": "dolby.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Joshua Kimball",
+        "openreview_id": "~Joshua_Kimball1",
+        "affiliation_name": "Dolby",
+        "affiliation_domain": "dolby.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
+    "paper_id": "B4NT8TexNS",
+    "pdf_url": "https://openreview.net/pdf/d6ddbbce508af43db4beafcf8a2e6e1f8fb0c98a.pdf",
+    "author_list": [
+      {
+        "name": "Vishnu Vinod",
+        "openreview_id": "~Vishnu_Vinod1",
+        "affiliation_name": "Robert Bosch Centre for Data Science and AI",
+        "affiliation_domain": "rbcdsai.iitm.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Krishna Pillutla",
+        "openreview_id": "~Krishna_Pillutla1",
+        "affiliation_name": "Indian Institute of Technology, Madras, Dhirubhai Ambani Institute Of Information and Communication Technology",
+        "affiliation_domain": "iitm.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abhradeep Guha Thakurta",
+        "openreview_id": "~Abhradeep_Guha_Thakurta1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Contextual Tokenization for Graph Inverted Indices",
+    "paper_id": "BGwZsFLJFU",
+    "pdf_url": "https://openreview.net/pdf/e95fc6eec9dc3a38f85ed62db209ee73b9bbc4f8.pdf",
+    "author_list": [
+      {
+        "name": "Pritish Chakraborty",
+        "openreview_id": "~Pritish_Chakraborty1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Indradyumna Roy",
+        "openreview_id": "~Indradyumna_Roy1",
+        "affiliation_name": "Indian Institute of Technology Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Soumen_Chakrabarti1",
+        "affiliation_name": "Indian Institute of Technology Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abir De",
+        "openreview_id": "~Abir_De1",
+        "affiliation_name": "Indian Institute of Technology Bombay,",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Scalable Fingerprinting of Large Language Models",
+    "paper_id": "CRyOyiVvvJ",
+    "pdf_url": "https://openreview.net/pdf/44b31368bb4fa3c7f9b4f68bf8ae423059761c3b.pdf",
+    "author_list": [
+      {
+        "name": "Anshul Nasery",
+        "openreview_id": "~Anshul_Nasery2",
+        "affiliation_name": "University of Washington",
+        "affiliation_domain": "uw.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Jonathan Hayase",
+        "openreview_id": "~Jonathan_Hayase2",
+        "affiliation_name": "University of Washington",
+        "affiliation_domain": "washington.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Creston Brooks",
+        "openreview_id": "~Creston_Brooks1",
+        "affiliation_name": "Princeton University",
+        "affiliation_domain": "princeton.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Peiyao Sheng",
+        "openreview_id": "~Peiyao_Sheng1",
+        "affiliation_name": "Sentient Foundation",
+        "affiliation_domain": "sentient.xyz",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Himanshu Tyagi",
+        "openreview_id": "~Himanshu_Tyagi1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Pramod_Viswanath2",
+        "affiliation_name": "University of Illinois, Urbana Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sewoong Oh",
+        "openreview_id": "~Sewoong_Oh3",
+        "affiliation_name": "University of Washington",
+        "affiliation_domain": "uw.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks",
+    "paper_id": "CwXyUdqFqW",
+    "pdf_url": "https://openreview.net/pdf/d62b4e0d24fe9f179a5237b211798f877eda00ee.pdf",
+    "author_list": [
+      {
+        "name": "Sanjoy Chowdhury",
+        "openreview_id": "~Sanjoy_Chowdhury1",
+        "affiliation_name": "University of Maryland, College Park",
+        "affiliation_domain": "umd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Mohamed Elmoghany",
+        "openreview_id": "~Mohamed_Elmoghany1",
+        "affiliation_name": "Adobe Research",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yohan Abeysinghe",
+        "openreview_id": "~Yohan_Abeysinghe1",
+        "affiliation_name": "Mohamed bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Junjie Fei",
+        "openreview_id": "~Junjie_Fei1",
+        "affiliation_name": "King Abdullah University of Science and Technology",
+        "affiliation_domain": "kaust.edu.sa",
+        "affiliation_country": "SA"
+      },
+      {
+        "name": "Sayan Nag",
+        "openreview_id": "~Sayan_Nag1",
+        "affiliation_name": "Adobe Research",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Salman Khan",
+        "openreview_id": "~Salman_Khan4",
+        "affiliation_name": "Mohamed bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Mohamed Elhoseiny",
+        "openreview_id": "~Mohamed_Elhoseiny1",
+        "affiliation_name": "KAUST",
+        "affiliation_domain": "kaust.edu.sa",
+        "affiliation_country": "SA"
+      },
+      {
+        "name": "Dinesh Manocha",
+        "openreview_id": "~Dinesh_Manocha3",
+        "affiliation_name": "University of Maryland, College Park",
+        "affiliation_domain": "umd.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "SegMASt3R: Geometry Grounded Segment Matching",
+    "paper_id": "DI2AAFnLrc",
+    "pdf_url": "https://openreview.net/pdf/dfdd2dc2708abda7439bc296d4e865d6f76924e8.pdf",
+    "author_list": [
+      {
+        "name": "Rohit Jayanti",
+        "openreview_id": "~Rohit_Jayanti1",
+        "affiliation_name": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "research.iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Swayam Agrawal",
+        "openreview_id": "~Swayam_Agrawal1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Vansh Garg",
+        "openreview_id": "~Vansh_Garg1",
+        "affiliation_name": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "research.iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Muhammad Haris Khan",
+        "openreview_id": "~Muhammad_Haris_Khan3",
+        "affiliation_name": "Mohamed Bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Sourav Garg",
+        "openreview_id": "~Sourav_Garg1",
+        "affiliation_name": "University of Adelaide",
+        "affiliation_domain": "adelaide.edu.au",
+        "affiliation_country": "AU"
+      },
+      {
+        "name": "Madhava Krishna",
+        "openreview_id": "~Madhava_Krishna2",
+        "affiliation_name": "International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "iiit.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
+    "paper_id": "E6gwPtWjb1",
+    "pdf_url": "https://openreview.net/pdf/22cc7d0e0d4503d9899c8a6aba56107572d9cb4d.pdf",
+    "author_list": [
+      {
+        "name": "Subhojyoti Khastagir",
+        "openreview_id": "~Subhojyoti_Khastagir1",
+        "affiliation_name": "Indian Institute of Technology, Kharagpur",
+        "affiliation_domain": "iitkgp.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "KISHALAY DAS",
+        "openreview_id": "~KISHALAY_DAS1",
+        "affiliation_name": "Indian Institute of Technology Kharagpur,",
+        "affiliation_domain": "iitkgp.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Pawan_Goyal1",
+        "affiliation_name": "IIT Kharagpur",
+        "affiliation_domain": "cse.iitkgp.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Seung-Cheol Lee",
+        "openreview_id": "~Seung-Cheol_Lee1",
+        "affiliation_name": "Indo Korea Science and Technology Center, Bangalore, India",
+        "affiliation_domain": "ikst.res.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Satadeep Bhattacharjee",
+        "openreview_id": "~Satadeep_Bhattacharjee1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Niloy_Ganguly1",
+        "affiliation_name": "Indian Institute of Technology Kharagpur,",
+        "affiliation_domain": "iitkgp.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "CAMILA: Context-Aware Masking for Image Editing with Language Alignment",
+    "paper_id": "Emwu0jyOBg",
+    "pdf_url": "https://openreview.net/pdf/8db403a26e8b3a7e8c58aac358c9946839011658.pdf",
+    "author_list": [
+      {
+        "name": "Hyunseung Kim",
+        "openreview_id": "~Hyunseung_Kim2",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Chiho Choi",
+        "openreview_id": "~Chiho_Choi2",
+        "affiliation_name": "Samsung",
+        "affiliation_domain": "samsung.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Srikanth Malla",
+        "openreview_id": "~Srikanth_Malla1",
+        "affiliation_name": "Samsung",
+        "affiliation_domain": "samsung.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sai Prahladh Padmanabhan",
+        "openreview_id": "~Sai_Prahladh_Padmanabhan1",
+        "affiliation_name": "Samsung Semiconductor INC",
+        "affiliation_domain": "samsung.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Saurabh_Bagchi1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Joon Hee Choi",
+        "openreview_id": "~Joon_Hee_Choi2",
+        "affiliation_name": "Samsung",
+        "affiliation_domain": "samsung.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning",
+    "paper_id": "F7BpMMN01x",
+    "pdf_url": "https://openreview.net/pdf/d91c1832fe9a5fa4f8496a9e9900bc96817b4f99.pdf",
+    "author_list": [
+      {
+        "name": "Yang Xu",
+        "openreview_id": "~Yang_Xu18",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Washim Uddin Mondal",
+        "openreview_id": "~Washim_Uddin_Mondal1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Vaneet Aggarwal",
+        "openreview_id": "~Vaneet_Aggarwal1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Better Language Model Inversion by Compactly Representing Next-Token Distributions",
+    "paper_id": "FZp6cheXt2",
+    "pdf_url": "https://openreview.net/pdf/5466d25c332de2a785747d07b5cf70022e3f6eda.pdf",
+    "author_list": [
+      {
+        "name": "Murtaza Nazir",
+        "openreview_id": "~Murtaza_Nazir1",
+        "affiliation_name": "Perfios Software Solutions",
+        "affiliation_domain": "perfios.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Matthew Finlayson",
+        "openreview_id": "~Matthew_Finlayson1",
+        "affiliation_name": "University of Southern California",
+        "affiliation_domain": "usc.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "John Xavier Morris",
+        "openreview_id": "~John_Xavier_Morris1",
+        "affiliation_name": "Cornell University",
+        "affiliation_domain": "cornell.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Xiang_Ren1",
+        "affiliation_name": "University of Southern California",
+        "affiliation_domain": "usc.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Swabha_Swayamdipta1",
+        "affiliation_name": "University of Southern California",
+        "affiliation_domain": "usc.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Geometry Aware Operator Transformer as an efficient and accurate neural surrogate for PDEs on arbitrary domains",
+    "paper_id": "HXFvNkNt0n",
+    "pdf_url": "https://openreview.net/pdf/c338db9da831becdf5077f85fcce3892b80df98b.pdf",
+    "author_list": [
+      {
+        "name": "Shizheng Wen",
+        "openreview_id": "~Shizheng_Wen1",
+        "affiliation_name": "ETHZ - ETH Zurich",
+        "affiliation_domain": "ethz.ch",
+        "affiliation_country": "CH"
+      },
+      {
+        "name": "Arsh Kumbhat",
+        "openreview_id": "~Arsh_Kumbhat1",
+        "affiliation_name": "ETHZ - ETH Zurich",
+        "affiliation_domain": "ethz.ch",
+        "affiliation_country": "CH"
+      },
+      {
+        "name": "Levi Lingsch",
+        "openreview_id": "~Levi_Lingsch1",
+        "affiliation_name": "ETHZ - ETH Zurich",
+        "affiliation_domain": "ethz.ch",
+        "affiliation_country": "CH"
+      },
+      {
+        "name": "Sepehr Mousavi",
+        "openreview_id": "~Sepehr_Mousavi2",
+        "affiliation_name": "ETHZ - ETH Zurich",
+        "affiliation_domain": "ethz.ch",
+        "affiliation_country": "CH"
+      },
+      {
+        "name": "Yizhou Zhao",
+        "openreview_id": "~Yizhou_Zhao2",
+        "affiliation_name": "Snap Inc.",
+        "affiliation_domain": "snapchat.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Praveen Chandrashekar",
+        "openreview_id": "~Praveen_Chandrashekar1",
+        "affiliation_name": "Tata Institute of Fundamental Research",
+        "affiliation_domain": "tifr.res.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Siddhartha Mishra",
+        "openreview_id": "~Siddhartha_Mishra1",
+        "affiliation_name": "Swiss Federal Institute of Technology",
+        "affiliation_domain": "ethz.ch",
+        "affiliation_country": "CH"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Brain-Informed Fine-Tuning for Improved Multilingual Understanding in Language Models",
+    "paper_id": "JPogehP8By",
+    "pdf_url": "https://openreview.net/pdf/ba068b5a9097bacdb815aefdc63942e8c3ee09a4.pdf",
+    "author_list": [
+      {
+        "name": "Anuja Negi",
+        "openreview_id": "~Anuja_Negi1",
+        "affiliation_name": "Technische Universit\u00e4t Berlin",
+        "affiliation_domain": "tu-berlin.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "SUBBA REDDY OOTA",
+        "openreview_id": "~SUBBA_REDDY_OOTA1",
+        "affiliation_name": "Technische Universit\u00e4t Berlin",
+        "affiliation_domain": "tu-berlin.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Anwar O Nunez-Elizalde",
+        "openreview_id": "~Anwar_O_Nunez-Elizalde1",
+        "affiliation_name": "Independent",
+        "affiliation_domain": "gmail.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Manish Gupta",
+        "openreview_id": "~Manish_Gupta1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Fatma Deniz",
+        "openreview_id": "~Fatma_Deniz1",
+        "affiliation_name": "Technische Universit\u00e4t Berlin",
+        "affiliation_domain": "tu-berlin.de",
+        "affiliation_country": "DE"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Geometry of Decision Making in Language Models",
+    "paper_id": "Jj4NdJtXwp",
+    "pdf_url": "https://openreview.net/pdf/4f7f449178a12ce539315d6e395db6a68538b54d.pdf",
+    "author_list": [
+      {
+        "name": "Abhinav Joshi",
+        "openreview_id": "~Abhinav_Joshi1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Divyanshu Bhatt",
+        "openreview_id": "~Divyanshu_Bhatt1",
+        "affiliation_name": "Samsung",
+        "affiliation_domain": "samsung.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Ashutosh Modi",
+        "openreview_id": "~Ashutosh_Modi1",
+        "affiliation_name": "IIT Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Sort Before You Prune: Improved Worst-Case Guarantees of the DiskANN Family of Graphs",
+    "paper_id": "JnXbUKtLzz",
+    "pdf_url": "https://openreview.net/pdf/93379f5a2cb1d47e6c05692dca515e06bc6fed8e.pdf",
+    "author_list": [
+      {
+        "name": "",
+        "openreview_id": "~Ravishankar_Krishnaswamy1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Kirankumar Shiragur",
+        "openreview_id": "~Kirankumar_Shiragur1",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Harsh Wardhan",
+        "openreview_id": "~Harsh_Wardhan1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Optimization Proxies using Limited Labeled Data and Training Time -- A Semi-Supervised Bayesian Neural Network Approach",
+    "paper_id": "Jnpgx8OzfD",
+    "pdf_url": "https://openreview.net/pdf/ce5b2582b37b8831d3fde8e3216291fcffb22310.pdf",
+    "author_list": [
+      {
+        "name": "Parikshit Pareek",
+        "openreview_id": "~Parikshit_Pareek1",
+        "affiliation_name": "Indian Institute of Technology Roorkee",
+        "affiliation_domain": "iitr.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abhijith Jayakumar",
+        "openreview_id": "~Abhijith_Jayakumar2",
+        "affiliation_name": "Los Alamos National Laboratory",
+        "affiliation_domain": "lanl.gov",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Kaarthik Sundar",
+        "openreview_id": "~Kaarthik_Sundar1",
+        "affiliation_name": "Los Alamos National Laboratory",
+        "affiliation_domain": "lanl.gov",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sidhant Misra",
+        "openreview_id": "~Sidhant_Misra1",
+        "affiliation_name": "Los Alamos National Laboratory",
+        "affiliation_domain": "lanl.gov",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Deepjyoti Deka",
+        "openreview_id": "~Deepjyoti_Deka1",
+        "affiliation_name": "Massachusetts Institute of Technology",
+        "affiliation_domain": "mit.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Optimal Transfer Learning for Missing Not-at-Random Matrix Completion",
+    "paper_id": "KpWmOJAjr7",
+    "pdf_url": "https://openreview.net/pdf/14bc7bb87ffed3e1674d374069ee1a5f74d3de30.pdf",
+    "author_list": [
+      {
+        "name": "Akhil Jalan",
+        "openreview_id": "~Akhil_Jalan1",
+        "affiliation_name": "University of Texas at Austin",
+        "affiliation_domain": "utexas.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yassir Jedra",
+        "openreview_id": "~Yassir_Jedra1",
+        "affiliation_name": "Imperial College London",
+        "affiliation_domain": "imperial.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Arya_Mazumdar1",
+        "affiliation_name": "University of California, San Diego",
+        "affiliation_domain": "ucsd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Soumendu Sundar Mukherjee",
+        "openreview_id": "~Soumendu_Sundar_Mukherjee2",
+        "affiliation_name": "Indian Statistical Institute",
+        "affiliation_domain": "isical.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Purnamrita_Sarkar1",
+        "affiliation_name": "University of Texas, Austin",
+        "affiliation_domain": "utexas.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning",
+    "paper_id": "KstkQi6e7q",
+    "pdf_url": "https://openreview.net/pdf/8d9df6d290dbe7ca260a923b4f2357a4855ede26.pdf",
+    "author_list": [
+      {
+        "name": "Ankan Deria",
+        "openreview_id": "~Ankan_Deria1",
+        "affiliation_name": "Mohamed bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Adinath Madhavrao Dukre",
+        "openreview_id": "~Adinath_Madhavrao_Dukre1",
+        "affiliation_name": "Indian Institute Of Technology\u2013Ropar (IIT\u2013Ropar)",
+        "affiliation_domain": "iitrpr.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Feilong Tang",
+        "openreview_id": "~Feilong_Tang2",
+        "affiliation_name": "Monash University",
+        "affiliation_domain": "monash.edu",
+        "affiliation_country": "AU"
+      },
+      {
+        "name": "Sara Atito",
+        "openreview_id": "~Sara_Atito1",
+        "affiliation_name": "University of Surrey",
+        "affiliation_domain": "surrey.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Sudipta Roy",
+        "openreview_id": "~Sudipta_Roy1",
+        "affiliation_name": "Jio Institute",
+        "affiliation_domain": "jioinstitute.edu.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Muhammad Awais",
+        "openreview_id": "~Muhammad_Awais3",
+        "affiliation_name": "University of Surrey",
+        "affiliation_domain": "surrey.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Muhammad Haris Khan",
+        "openreview_id": "~Muhammad_Haris_Khan3",
+        "affiliation_name": "Mohamed Bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      },
+      {
+        "name": "Imran Razzak",
+        "openreview_id": "~Imran_Razzak2",
+        "affiliation_name": "Mohamed bin Zayed University of Artificial Intelligence",
+        "affiliation_domain": "mbzuai.ac.ae",
+        "affiliation_country": "AE"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation",
+    "paper_id": "LB5F02kwAv",
+    "pdf_url": "https://openreview.net/pdf/1c537e6ffbb2a5ddaf9d0ef3218f05ed09760150.pdf",
+    "author_list": [
+      {
+        "name": "Piyush Tiwary",
+        "openreview_id": "~Piyush_Tiwary1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Kinjawl Bhattacharyya",
+        "openreview_id": "~Kinjawl_Bhattacharyya1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Prathosh AP",
+        "openreview_id": "~Prathosh_AP1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "MGD$^3$ : Mode-Guided Dataset Distillation using Diffusion Models",
+    "paper_id": "NIe74CY9lk",
+    "pdf_url": "https://openreview.net/pdf/3026cd24c5231c89f8d06946f2cd75a046944383.pdf",
+    "author_list": [
+      {
+        "name": "Jeffrey A Chan Santiago",
+        "openreview_id": "~Jeffrey_A_Chan_Santiago1",
+        "affiliation_name": "University of Central Florida",
+        "affiliation_domain": "ucf.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "praveen tirupattur",
+        "openreview_id": "~praveen_tirupattur1",
+        "affiliation_name": "Snapshots Inc.",
+        "affiliation_domain": "photoday.io",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Gaurav Kumar Nayak",
+        "openreview_id": "~Gaurav_Kumar_Nayak2",
+        "affiliation_name": "IIT Roorkee ",
+        "affiliation_domain": "mfs.iitr.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Gaowen Liu",
+        "openreview_id": "~Gaowen_Liu4",
+        "affiliation_name": "Cisco Systems",
+        "affiliation_domain": "cisco.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Mubarak Shah",
+        "openreview_id": "~Mubarak_Shah3",
+        "affiliation_name": "Amazon",
+        "affiliation_domain": "amazon.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning Based on Constant-Overhead Linear Secret Resharing",
+    "paper_id": "Nv6mOSqUVA",
+    "pdf_url": "https://openreview.net/pdf/7b306f9b3d39253c900d985c3ab606564c6e643b.pdf",
+    "author_list": [
+      {
+        "name": "Alexander Bienstock",
+        "openreview_id": "~Alexander_Bienstock1",
+        "affiliation_name": "J.P. Morgan Chase",
+        "affiliation_domain": "jpmchase.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Ujjwal Kumar",
+        "openreview_id": "~Ujjwal_Kumar2",
+        "affiliation_name": "J.P. Morgan Chase",
+        "affiliation_domain": "jpmorganchase.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Antigoni Polychroniadou",
+        "openreview_id": "~Antigoni_Polychroniadou1",
+        "affiliation_name": "J.P. Morgan AI Research ",
+        "affiliation_domain": "jpmorgan.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "GRAIL: Graph Edit Distance and Node Alignment using LLM-Generated Code",
+    "paper_id": "NzoZXju2bL",
+    "pdf_url": "https://openreview.net/pdf/5f95e3ebbf2cb2f075e12939e6492a650441b2c7.pdf",
+    "author_list": [
+      {
+        "name": "Samidha Verma",
+        "openreview_id": "~Samidha_Verma1",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Arushi Goyal",
+        "openreview_id": "~Arushi_Goyal1",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Ananya Mathur",
+        "openreview_id": "~Ananya_Mathur1",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Ankit Anand",
+        "openreview_id": "~Ankit_Anand4",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "deepmind.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Sayan_Ranu2",
+        "affiliation_name": "Indian Institute of Technology Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "AMPO: Active Multi Preference Optimization for Self-play Preference Selection",
+    "paper_id": "OTDdeygJTP",
+    "pdf_url": "https://openreview.net/pdf/086dc0fc05144b39f06a5b75d5c0bc6b56423b4f.pdf",
+    "author_list": [
+      {
+        "name": "Taneesh Gupta",
+        "openreview_id": "~Taneesh_Gupta1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Rahul Madhavan",
+        "openreview_id": "~Rahul_Madhavan1",
+        "affiliation_name": "Indian Institute of Management, Ahmedabad",
+        "affiliation_domain": "iima.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Xuchao_Zhang1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption",
+    "paper_id": "PGNff6H1TV",
+    "pdf_url": "https://openreview.net/pdf/b73ae983c3a5381b1405d97243888573112e52f4.pdf",
+    "author_list": [
+      {
+        "name": "Leo de Castro",
+        "openreview_id": "~Leo_de_Castro1",
+        "affiliation_name": "J.P. Morgan Chase",
+        "affiliation_domain": "jpmchase.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Daniel Escudero",
+        "openreview_id": "~Daniel_Escudero2",
+        "affiliation_name": "J.P. Morgan Chase",
+        "affiliation_domain": "jpmorgan.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Adya Agrawal",
+        "openreview_id": "~Adya_Agrawal1",
+        "affiliation_name": "J.P. Morgan Chase",
+        "affiliation_domain": "jpmchase.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Antigoni Polychroniadou",
+        "openreview_id": "~Antigoni_Polychroniadou1",
+        "affiliation_name": "J.P. Morgan AI Research ",
+        "affiliation_domain": "jpmorgan.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Manuela_Veloso1",
+        "affiliation_name": "School of Computer Science, Carnegie Mellon University",
+        "affiliation_domain": "cs.cmu.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and Reliability",
+    "paper_id": "PNU2mPauvd",
+    "pdf_url": "https://openreview.net/pdf/d7a2df457fb8d0847ca73a83a18c70726c76d1cd.pdf",
+    "author_list": [
+      {
+        "name": "Divya Jyoti Bajpai",
+        "openreview_id": "~Divya_Jyoti_Bajpai1",
+        "affiliation_name": "Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Manjesh Kumar Hanawal",
+        "openreview_id": "~Manjesh_Kumar_Hanawal1",
+        "affiliation_name": "Indian Institute of Technology Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Handling Missing Responses under Cluster Dependence with Applications to Language Model Evaluation",
+    "paper_id": "PdKhoj6goO",
+    "pdf_url": "https://openreview.net/pdf/d90a160ec9f7f7178346bc44f5642f17126bb2bc.pdf",
+    "author_list": [
+      {
+        "name": "Zhenghao Zeng",
+        "openreview_id": "~Zhenghao_Zeng1",
+        "affiliation_name": "Stanford University",
+        "affiliation_domain": "stanford.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~David_Arbour1",
+        "affiliation_name": "Adobe Systems",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Avi_Feller1",
+        "affiliation_name": "University of California, Berkeley",
+        "affiliation_domain": "berkeley.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Ishita Dasgupta",
+        "openreview_id": "~Ishita_Dasgupta3",
+        "affiliation_name": "Adobe Systems",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Atanu R. Sinha",
+        "openreview_id": "~Atanu_R._Sinha1",
+        "affiliation_name": "Adobe Systems",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Edward Kennedy",
+        "openreview_id": "~Edward_Kennedy1",
+        "affiliation_name": "Carnegie Mellon University",
+        "affiliation_domain": "cmu.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "RE-IMAGINE: Symbolic Benchmark Synthesis for Reasoning Evaluation",
+    "paper_id": "QJPl0DWajD",
+    "pdf_url": "https://openreview.net/pdf/d7c4a795f8955a8941f4dabd64747527851ab2d1.pdf",
+    "author_list": [
+      {
+        "name": "",
+        "openreview_id": "~Xinnuo_Xu1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Rachel Lawrence",
+        "openreview_id": "~Rachel_Lawrence1",
+        "affiliation_name": "Microsoft Research ",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Kshitij Dubey",
+        "openreview_id": "~Kshitij_Dubey1",
+        "affiliation_name": "Research, Microsoft",
+        "affiliation_domain": "research.microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Atharva Pandey",
+        "openreview_id": "~Atharva_Pandey1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Risa Ueno",
+        "openreview_id": "~Risa_Ueno1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Aditya V. Nori",
+        "openreview_id": "~Aditya_V._Nori1",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Rahul Sharma",
+        "openreview_id": "~Rahul_Sharma5",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Amit Sharma",
+        "openreview_id": "~Amit_Sharma3",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Javier Gonzalez",
+        "openreview_id": "~Javier_Gonzalez2",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "GB"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks",
+    "paper_id": "QfKpJ00t2L",
+    "pdf_url": "https://openreview.net/pdf/1bd62aad3dbda001bef71c29125c2be51f974644.pdf",
+    "author_list": [
+      {
+        "name": "Debargha Ganguly",
+        "openreview_id": "~Debargha_Ganguly1",
+        "affiliation_name": "Case Western Reserve University",
+        "affiliation_domain": "case.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Vikash Singh",
+        "openreview_id": "~Vikash_Singh4",
+        "affiliation_name": "Case Western Reserve University",
+        "affiliation_domain": "case.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sreehari Sankar",
+        "openreview_id": "~Sreehari_Sankar1",
+        "affiliation_name": "Case Western Reserve University",
+        "affiliation_domain": "case.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Xuecen Zhang",
+        "openreview_id": "~Xuecen_Zhang1",
+        "affiliation_name": "Case Western Reserve University",
+        "affiliation_domain": "case.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Srinivasan Iyengar",
+        "openreview_id": "~Srinivasan_Iyengar3",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Xiaotian_Han1",
+        "affiliation_name": "Case Western Reserve University",
+        "affiliation_domain": "case.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Amit Sharma",
+        "openreview_id": "~Amit_Sharma3",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Shivkumar Kalyanaraman",
+        "openreview_id": "~Shivkumar_Kalyanaraman1",
+        "affiliation_name": "ANRF",
+        "affiliation_domain": "anrf.gov.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Vipin Chaudhary",
+        "openreview_id": "~Vipin_Chaudhary2",
+        "affiliation_name": "Case Western Reserve University",
+        "affiliation_domain": "case.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Monotone and Separable Set Functions: Characterizations and Neural Models",
+    "paper_id": "RSSk1SHxrH",
+    "pdf_url": "https://openreview.net/pdf/ebe9e559943f3ab42323d27a8e14b4cf20d06180.pdf",
+    "author_list": [
+      {
+        "name": "Soutrik Sarangi",
+        "openreview_id": "~SOUTRIK_SARANGI1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Yonatan Sverdlov",
+        "openreview_id": "~Yonatan_Sverdlov1",
+        "affiliation_name": "Technion - Israel Institute of Technology, Technion",
+        "affiliation_domain": "technion.il",
+        "affiliation_country": "IL"
+      },
+      {
+        "name": "Nadav Dym",
+        "openreview_id": "~Nadav_Dym1",
+        "affiliation_name": "Technion - Israel Institute of Technology, Technion",
+        "affiliation_domain": "technion.ac.il",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Abir De",
+        "openreview_id": "~Abir_De1",
+        "affiliation_name": "Indian Institute of Technology Bombay,",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "On Optimal Steering to Achieve Exact Fairness",
+    "paper_id": "SXCjvhEQZO",
+    "pdf_url": "https://openreview.net/pdf/4728b468eb1ad668dced2d68c14bdda856a453fe.pdf",
+    "author_list": [
+      {
+        "name": "Mohit Sharma",
+        "openreview_id": "~mohit_sharma5",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Amit Deshpande",
+        "openreview_id": "~Amit_Deshpande1",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Chiranjib Bhattacharyya",
+        "openreview_id": "~Chiranjib_Bhattacharyya2",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Rajiv_Ratn_Shah1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Localizing Knowledge in Diffusion Transformers",
+    "paper_id": "SiBVbL7rsX",
+    "pdf_url": "https://openreview.net/pdf/bce013897b59bff1b2302cfa6adf0e99cfc81ff1.pdf",
+    "author_list": [
+      {
+        "name": "Arman Zarei",
+        "openreview_id": "~Arman_Zarei2",
+        "affiliation_name": "Department of Computer Science, University of Maryland, College Park",
+        "affiliation_domain": "cs.umd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Samyadeep Basu",
+        "openreview_id": "~Samyadeep_Basu1",
+        "affiliation_name": "University of Maryland, College Park",
+        "affiliation_domain": "umd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Keivan Rezaei",
+        "openreview_id": "~Keivan_Rezaei1",
+        "affiliation_name": "University of Maryland, College Park",
+        "affiliation_domain": "umd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Zihao Lin",
+        "openreview_id": "~Zihao_Lin1",
+        "affiliation_name": "University of California, Davis",
+        "affiliation_domain": "ucdavis.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sayan Nag",
+        "openreview_id": "~Sayan_Nag1",
+        "affiliation_name": "Adobe Research",
+        "affiliation_domain": "adobe.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Soheil Feizi",
+        "openreview_id": "~Soheil_Feizi2",
+        "affiliation_name": "University of Maryland, College Park",
+        "affiliation_domain": "umd.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "A Physics-Informed Machine Learning Framework for Safe and Optimal Control of Autonomous Systems",
+    "paper_id": "SrfwiloGQF",
+    "pdf_url": "https://openreview.net/pdf/31b19a79b675689216d8cb9c914539409bdacd9c.pdf",
+    "author_list": [
+      {
+        "name": "Manan Tayal",
+        "openreview_id": "~Manan_Tayal1",
+        "affiliation_name": "Indian Institute of Science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Aditya Singh",
+        "openreview_id": "~Aditya_Singh7",
+        "affiliation_name": "Indian Institute of Science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Shishir Kolathaya",
+        "openreview_id": "~Shishir_Kolathaya1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Somil Bansal",
+        "openreview_id": "~Somil_Bansal1",
+        "affiliation_name": "Stanford University",
+        "affiliation_domain": "stanford.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Hyperbolic Fine-Tuning for Large Language Models",
+    "paper_id": "TkEdQv0bXB",
+    "pdf_url": "https://openreview.net/pdf/5f45f8524119b57a12fe621630bf765cd6b5469c.pdf",
+    "author_list": [
+      {
+        "name": "Menglin Yang",
+        "openreview_id": "~Menglin_Yang3",
+        "affiliation_name": "HKUST(GZ) ",
+        "affiliation_domain": "hkust-gz.edu.cn",
+        "affiliation_country": "CN"
+      },
+      {
+        "name": "Ram Samarth B B",
+        "openreview_id": "~Ram_Samarth_B_B1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Aosong Feng",
+        "openreview_id": "~Aosong_Feng1",
+        "affiliation_name": "Yale University",
+        "affiliation_domain": "yale.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Bo Xiong",
+        "openreview_id": "~Bo_Xiong3",
+        "affiliation_name": "Stanford University",
+        "affiliation_domain": "stanford.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Irwin King",
+        "openreview_id": "~Irwin_King1",
+        "affiliation_name": "The Chinese University of Hong Kong",
+        "affiliation_domain": "cuhk.edu.hk",
+        "affiliation_country": "HK"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Zhitao_Ying1",
+        "affiliation_name": "Yale University",
+        "affiliation_domain": "yale.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Info-Coevolution: An Efficient Framework for Data Model Coevolution",
+    "paper_id": "VLVS8c53vZ",
+    "pdf_url": "https://openreview.net/pdf/5f89e2d1575e5d43935088b1cd9a256b05adb8d0.pdf",
+    "author_list": [
+      {
+        "name": "Ziheng Qin",
+        "openreview_id": "~Ziheng_Qin1",
+        "affiliation_name": "National University of Singapore",
+        "affiliation_domain": "nus.edu.sg",
+        "affiliation_country": "SG"
+      },
+      {
+        "name": "Hailun Xu",
+        "openreview_id": "~Hailun_Xu1",
+        "affiliation_name": "ByteDance Inc.",
+        "affiliation_domain": "bytedance.com",
+        "affiliation_country": "CN"
+      },
+      {
+        "name": "Wei Chee Yew",
+        "openreview_id": "~Wei_Chee_Yew1",
+        "affiliation_name": "ByteDance Inc.",
+        "affiliation_domain": "bytedance.com",
+        "affiliation_country": "SG"
+      },
+      {
+        "name": "Qi Jia",
+        "openreview_id": "~Qi_Jia3",
+        "affiliation_name": "Shanghai Artificial Intelligence Laboratory",
+        "affiliation_domain": "pjlab.org.cn",
+        "affiliation_country": "CN"
+      },
+      {
+        "name": "Yang Luo",
+        "openreview_id": "~Yang_Luo4",
+        "affiliation_name": "National University of Singapore",
+        "affiliation_domain": "nus.edu.sg",
+        "affiliation_country": "SG"
+      },
+      {
+        "name": "Kanchan Sarkar",
+        "openreview_id": "~Kanchan_Sarkar1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Danhui Guan",
+        "openreview_id": "~Danhui_Guan1",
+        "affiliation_name": "ByteDance Inc.",
+        "affiliation_domain": "bytedance.com",
+        "affiliation_country": "CN"
+      },
+      {
+        "name": "Kai Wang",
+        "openreview_id": "~Kai_Wang8",
+        "affiliation_name": "NUS",
+        "affiliation_domain": "nus.sg",
+        "affiliation_country": "SG"
+      },
+      {
+        "name": "Yang You",
+        "openreview_id": "~Yang_You1",
+        "affiliation_name": "National University of Singapore",
+        "affiliation_domain": "nus.edu.sg",
+        "affiliation_country": "SG"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Strategic Costs of Perceived Bias in Fair Selection",
+    "paper_id": "W8xcKoJcrl",
+    "pdf_url": "https://openreview.net/pdf/159935c2c92c4c759be0ad1e4cbc29013bdb757d.pdf",
+    "author_list": [
+      {
+        "name": "L. Elisa Celis",
+        "openreview_id": "~L._Elisa_Celis2",
+        "affiliation_name": "Yale University",
+        "affiliation_domain": "yale.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Lingxiao Huang",
+        "openreview_id": "~Lingxiao_Huang2",
+        "affiliation_name": "Nanjing University",
+        "affiliation_domain": "nju.edu.cn",
+        "affiliation_country": "CN"
+      },
+      {
+        "name": "Milind Sohoni",
+        "openreview_id": "~Milind_Sohoni2",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Nisheeth K. Vishnoi",
+        "openreview_id": "~Nisheeth_K._Vishnoi2",
+        "affiliation_name": "Yale University",
+        "affiliation_domain": "yale.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Non-rectangular Robust MDPs with Normed  Uncertainty Sets",
+    "paper_id": "Xx0cJGXU7n",
+    "pdf_url": "https://openreview.net/pdf/8864bad1e411bf7ffb8233a3fed9499843eb2a0a.pdf",
+    "author_list": [
+      {
+        "name": "Navdeep Kumar",
+        "openreview_id": "~Navdeep_Kumar1",
+        "affiliation_name": "Technion - Israel Institute of Technology, Technion - Israel Institute of Technology",
+        "affiliation_domain": "campus.technion.ac.il",
+        "affiliation_country": "IL"
+      },
+      {
+        "name": "Adarsh Gupta",
+        "openreview_id": "~Adarsh_Gupta1",
+        "affiliation_name": "Finsyth AI",
+        "affiliation_domain": "finsyth.ai",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Maxence Mohamed ELFATIHI",
+        "openreview_id": "~Maxence_Mohamed_ELFATIHI1",
+        "affiliation_name": "\u00c9cole Polytechnique",
+        "affiliation_domain": "polytechnique.edu",
+        "affiliation_country": "FR"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Giorgia_Ramponi1",
+        "affiliation_name": "Department of Informatics, University of Zurich, University of Zurich",
+        "affiliation_domain": "ifi.uzh.ch",
+        "affiliation_country": "CH"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Kfir_Yehuda_Levy1",
+        "affiliation_name": "Technion - Israel Institute of Technology, Technion",
+        "affiliation_domain": "technion.ac.il",
+        "affiliation_country": "IL"
+      },
+      {
+        "name": "Shie Mannor",
+        "openreview_id": "~Shie_Mannor2",
+        "affiliation_name": "Technion - Israel Institute of Technology, Technion",
+        "affiliation_domain": "technion.il",
+        "affiliation_country": "IL"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Bandit Guided Submodular Curriculum for Adaptive Subset Selection",
+    "paper_id": "Y1UVWWWGKB",
+    "pdf_url": "https://openreview.net/pdf/9d49afab3cea887c5be1a1c9d0d3fedee0f9fb3e.pdf",
+    "author_list": [
+      {
+        "name": "Prateek Chanda",
+        "openreview_id": "~Prateek_Chanda2",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Prayas Agrawal",
+        "openreview_id": "~Prayas_Agrawal1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Saral Sureka",
+        "openreview_id": "~Saral_Sureka1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Lokesh Reddy Polu",
+        "openreview_id": "~Lokesh_Reddy_Polu1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Atharv Kshirsagar",
+        "openreview_id": "~Atharv_Kshirsagar1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Ganesh_Ramakrishnan1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Latent Mamba Operator for Partial Differential Equations",
+    "paper_id": "Y4BDcJmb8t",
+    "pdf_url": "https://openreview.net/pdf/46a5ef360b83c03d4f883fcd5384c348e7cf408b.pdf",
+    "author_list": [
+      {
+        "name": "Karn Tiwari",
+        "openreview_id": "~Karn_Tiwari1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Niladri Dutta",
+        "openreview_id": "~Niladri_Dutta1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "N M Anoop Krishnan",
+        "openreview_id": "~N_M_Anoop_Krishnan1",
+        "affiliation_name": "Indian Institute of Technology Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Prathosh AP",
+        "openreview_id": "~Prathosh_AP1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "$O(\\sqrt{T})$ Static Regret and Instance Dependent Constraint Violation for Constrained Online Convex Optimization",
+    "paper_id": "YmbQ0qnQ76",
+    "pdf_url": "https://openreview.net/pdf/c70f69d4c25c3094fd422519852b4f22d135c7e1.pdf",
+    "author_list": [
+      {
+        "name": "Rahul Vaze",
+        "openreview_id": "~Rahul_Vaze1",
+        "affiliation_name": "Tata Institute of Fundamental Research, Mumbai",
+        "affiliation_domain": "tifr.res.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abhishek Sinha",
+        "openreview_id": "~Abhishek_Sinha3",
+        "affiliation_name": "Tata Institute of Fundamental Research",
+        "affiliation_domain": "tifr.res.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Fast Training of Large Kernel Models with Delayed Projections",
+    "paper_id": "a7hHwWnZey",
+    "pdf_url": "https://openreview.net/pdf/ee290fbceb836561d124e36c06023bf54d9e97a0.pdf",
+    "author_list": [
+      {
+        "name": "Amirhesam Abedsoltan",
+        "openreview_id": "~Amirhesam_Abedsoltan1",
+        "affiliation_name": "University of California, San Diego",
+        "affiliation_domain": "ucsd.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Siyuan Ma",
+        "openreview_id": "~Siyuan_Ma2",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Parthe_Pandit1",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Mikhail Belkin",
+        "openreview_id": "~Mikhail_Belkin1",
+        "affiliation_name": "University of California, San Diego",
+        "affiliation_domain": "ucsd.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Be a Goldfish: Forgetting Bad Conditioning in Sparse Linear Regression via Variational Autoencoders",
+    "paper_id": "aTQtGq7IyT",
+    "pdf_url": "https://openreview.net/pdf/398fad1085215c60c639127a7085a907e0f3b841.pdf",
+    "author_list": [
+      {
+        "name": "Kuheli Pratihar",
+        "openreview_id": "~Kuheli_Pratihar1",
+        "affiliation_name": "Indian Institute of Technology Kharagpur",
+        "affiliation_domain": "iitkgp.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Debdeep Mukhopadhyay",
+        "openreview_id": "~Debdeep_Mukhopadhyay2",
+        "affiliation_name": "Indian Institute of Technology Kharagpur",
+        "affiliation_domain": "iitkgp.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift",
+    "paper_id": "c2xhvZA8Xq",
+    "pdf_url": "https://openreview.net/pdf/6780e99e94c66b22617e7c08b165a5a965531e4e.pdf",
+    "author_list": [
+      {
+        "name": "Seongho Son",
+        "openreview_id": "~Seongho_Son1",
+        "affiliation_name": "University College London, University of London",
+        "affiliation_domain": "ucl.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "William Bankes",
+        "openreview_id": "~William_Bankes1",
+        "affiliation_name": "University College London, University of London",
+        "affiliation_domain": "ucl.ac.uk",
+        "affiliation_country": "UK"
+      },
+      {
+        "name": "Sayak Ray Chowdhury",
+        "openreview_id": "~Sayak_Ray_Chowdhury1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Brooks Paige",
+        "openreview_id": "~Brooks_Paige1",
+        "affiliation_name": "University College London",
+        "affiliation_domain": "ucl.ac.uk",
+        "affiliation_country": "UK"
+      },
+      {
+        "name": "Ilija Bogunovic",
+        "openreview_id": "~Ilija_Bogunovic2",
+        "affiliation_name": "University of Basel",
+        "affiliation_domain": "unibas.ch",
+        "affiliation_country": "CH"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "BlockDecoder: Boosting ASR Decoders with Context and Merger Modules",
+    "paper_id": "cGmcHJEFnY",
+    "pdf_url": "https://openreview.net/pdf/b4dfb5a9aeef3b7a85e580c23f9414caa8d03e2a.pdf",
+    "author_list": [
+      {
+        "name": "Darshan Prabhu",
+        "openreview_id": "~Darshan_Prabhu1",
+        "affiliation_name": "Indian Institute of Technology Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Preethi_Jyothi2",
+        "affiliation_name": "Indian Institute of Technology Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Sample Efficient Demonstration Selection for In-Context Learning",
+    "paper_id": "cuqvlLBQK6",
+    "pdf_url": "https://openreview.net/pdf/8729ad77179e0eaad47c2f260bbd0a5f09b87b3a.pdf",
+    "author_list": [
+      {
+        "name": "Kiran Purohit",
+        "openreview_id": "~Kiran_Purohit1",
+        "affiliation_name": "Fujitsu Research and Development Center Co. Ltm.",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Venktesh V",
+        "openreview_id": "~Venktesh_V1",
+        "affiliation_name": "Stockholm University",
+        "affiliation_domain": "su.se",
+        "affiliation_country": "SE"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Sourangshu_Bhattacharya1",
+        "affiliation_name": "Indian Institute of Technology Kharagpur",
+        "affiliation_domain": "iitkgp.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Avishek Anand",
+        "openreview_id": "~Avishek_Anand1",
+        "affiliation_name": "Delft University of Technology",
+        "affiliation_domain": "tudelft.nl",
+        "affiliation_country": "NL"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Discovering Symbolic Cognitive Models from Human and Animal Behavior",
+    "paper_id": "dhRXGWJ027",
+    "pdf_url": "https://openreview.net/pdf/6e1d46cfbf129b5e8cd5d5f499b7d7aa1ff073d2.pdf",
+    "author_list": [
+      {
+        "name": "Pablo Samuel Castro",
+        "openreview_id": "~Pablo_Samuel_Castro1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "CA"
+      },
+      {
+        "name": "Nenad Tomasev",
+        "openreview_id": "~Nenad_Tomasev1",
+        "affiliation_name": "DeepMind",
+        "affiliation_domain": "deepmind.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Ankit Anand",
+        "openreview_id": "~Ankit_Anand4",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "deepmind.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Navodita Sharma",
+        "openreview_id": "~Navodita_Sharma1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Rishika Mohanta",
+        "openreview_id": "~Rishika_Mohanta1",
+        "affiliation_name": "Rockefeller University",
+        "affiliation_domain": "rockefeller.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Aparna Dev",
+        "openreview_id": "~Aparna_Dev1",
+        "affiliation_name": "HHMI Janelia Research Campus",
+        "affiliation_domain": "janelia.hhmi.org",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Kuba Perlin",
+        "openreview_id": "~Kuba_Perlin1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "deepmind.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Siddhant Jain",
+        "openreview_id": "~Siddhant_Jain2",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Kyle Levin",
+        "openreview_id": "~Kyle_Levin1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "deepmind.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "No\u00e9mi \u00c9ltet\u0151",
+        "openreview_id": "~Noemi_Elteto1",
+        "affiliation_name": "Max Planck Institute for Biological Cybernetics",
+        "affiliation_domain": "tuebingen.mpg.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Will_Dabney1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Alexander Novikov",
+        "openreview_id": "~Alexander_Novikov1",
+        "affiliation_name": "Deep Mind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Glenn C Turner",
+        "openreview_id": "~Glenn_C_Turner1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Maria K Eckstein",
+        "openreview_id": "~Maria_K_Eckstein1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Nathaniel D. Daw",
+        "openreview_id": "~Nathaniel_D._Daw1",
+        "affiliation_name": "Princeton University",
+        "affiliation_domain": "princeton.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Kevin J Miller",
+        "openreview_id": "~Kevin_J_Miller1",
+        "affiliation_name": "University College London, University of London",
+        "affiliation_domain": "ucl.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Kim Stachenfeld",
+        "openreview_id": "~Kim_Stachenfeld1",
+        "affiliation_name": "Columbia University",
+        "affiliation_domain": "columbia.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Graph-Based Algorithms for Diverse Similarity Search",
+    "paper_id": "dmN2fQ3woH",
+    "pdf_url": "https://openreview.net/pdf/8bc1a577e1bd4f3a39de9c38782fe5e05eef786a.pdf",
+    "author_list": [
+      {
+        "name": "Piyush Anand",
+        "openreview_id": "~Piyush_Anand1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Piotr Indyk",
+        "openreview_id": "~Piotr_Indyk1",
+        "affiliation_name": "Massachusetts Institute of Technology",
+        "affiliation_domain": "mit.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Ravishankar_Krishnaswamy1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Sepideh_Mahabadi1",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Vikas C. Raykar",
+        "openreview_id": "~Vikas_C._Raykar2",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Kirankumar Shiragur",
+        "openreview_id": "~Kirankumar_Shiragur1",
+        "affiliation_name": "Microsoft Research",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Haike Xu",
+        "openreview_id": "~Haike_Xu1",
+        "affiliation_name": "Massachusetts Institute of Technology",
+        "affiliation_domain": "mit.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Efficient Adaptive Federated Optimization",
+    "paper_id": "dopfjQFr65",
+    "pdf_url": "https://openreview.net/pdf/af4065209cc9ec85dafeb567688d6e42dc775399.pdf",
+    "author_list": [
+      {
+        "name": "Su Hyeong Lee",
+        "openreview_id": "~Su_Hyeong_Lee1",
+        "affiliation_name": "University of Chicago",
+        "affiliation_domain": "uchicago.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sidharth Sharma",
+        "openreview_id": "~Sidharth_Sharma1",
+        "affiliation_name": "Columbia University",
+        "affiliation_domain": "columbia.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Manzil Zaheer",
+        "openreview_id": "~Manzil_Zaheer1",
+        "affiliation_name": "Zaheer",
+        "affiliation_domain": "zaheer.ml",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Tian Li",
+        "openreview_id": "~Tian_Li1",
+        "affiliation_name": "University of Chicago",
+        "affiliation_domain": "uchicago.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+    "paper_id": "eafIjoZAHm",
+    "pdf_url": "https://openreview.net/pdf/4c15b12cff38ede047ec44b0df28590572e447cc.pdf",
+    "author_list": [
+      {
+        "name": "Burouj Armgaan",
+        "openreview_id": "~Burouj_Armgaan1",
+        "affiliation_name": "Indian Institute of Technology Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Eshan Jain",
+        "openreview_id": "~Eshan_Jain1",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Harsh Pandey",
+        "openreview_id": "~Harsh_Pandey1",
+        "affiliation_name": "Fujitsu Research and Development Center Co. Ltm.",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Mahesh Chandran",
+        "openreview_id": "~Mahesh_Chandran1",
+        "affiliation_name": "Fujitsu Research and Development Center Co. Ltm.",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Sayan_Ranu2",
+        "affiliation_name": "Indian Institute of Technology Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Instance-Optimal Pure Exploration for Linear Bandits on Continuous Arms",
+    "paper_id": "egqOSr5gGw",
+    "pdf_url": "https://openreview.net/pdf/f7baacdf495544a33a6dd5d332eb61e7600c0214.pdf",
+    "author_list": [
+      {
+        "name": "Sho Takemori",
+        "openreview_id": "~Sho_Takemori1",
+        "affiliation_name": "Fujitsu Research and Development Center Co. Ltm.",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "JP"
+      },
+      {
+        "name": "Yuhei Umeda",
+        "openreview_id": "~Yuhei_Umeda1",
+        "affiliation_name": "Fujitsu LIMITED",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "JP"
+      },
+      {
+        "name": "Aditya Gopalan",
+        "openreview_id": "~Aditya_Gopalan1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph Neural Networks",
+    "paper_id": "epDkt44mkq",
+    "pdf_url": "https://openreview.net/pdf/c1e206ad952417ca1e216529f936a6700784a75e.pdf",
+    "author_list": [
+      {
+        "name": "Varshita Kolipaka",
+        "openreview_id": "~Varshita_Kolipaka1",
+        "affiliation_name": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "research.iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Akshit Sinha",
+        "openreview_id": "~Akshit_Sinha2",
+        "affiliation_name": "University of Cambridge",
+        "affiliation_domain": "cam.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Debangan Mishra",
+        "openreview_id": "~Debangan_Mishra1",
+        "affiliation_name": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "students.iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Sumit Kumar",
+        "openreview_id": "~Sumit_Kumar6",
+        "affiliation_name": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+        "affiliation_domain": "research.iiit.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Arvindh Arun",
+        "openreview_id": "~Arvindh_Arun1",
+        "affiliation_name": "ELLIS, University of Stuttgart",
+        "affiliation_domain": "uni-stuttgart.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Shashwat Goel",
+        "openreview_id": "~Shashwat_Goel1",
+        "affiliation_name": "ELLIS, Max Planck Institute",
+        "affiliation_domain": "tuebingen.mpg.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Ponnurangam Kumaraguru",
+        "openreview_id": "~Ponnurangam_Kumaraguru3",
+        "affiliation_name": "International Institute of Information Technology Hyderabad ",
+        "affiliation_domain": "iiit.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Cyclic Counterfactuals under Shift\u2013Scale Interventions",
+    "paper_id": "erwwuMhTJX",
+    "pdf_url": "https://openreview.net/pdf/e4da80d5606dc775d0c3b526348a7f43a7dbca19.pdf",
+    "author_list": [
+      {
+        "name": "Saptarshi Saha",
+        "openreview_id": "~Saptarshi_Saha1",
+        "affiliation_name": "Indian Statistical Institute",
+        "affiliation_domain": "isical.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Dhruv Vansraj Rathore",
+        "openreview_id": "~Dhruv_Vansraj_Rathore1",
+        "affiliation_name": "Indian Statistical Institute, Kolkata",
+        "affiliation_domain": "isical.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Utpal_Garain1",
+        "affiliation_name": "Indian Statistical Institute",
+        "affiliation_domain": "isical.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty",
+    "paper_id": "f3iBgm2Zi0",
+    "pdf_url": "https://openreview.net/pdf/05d38d5c7907dd6fded9ded03cef69648242c3a1.pdf",
+    "author_list": [
+      {
+        "name": "Meera Hahn",
+        "openreview_id": "~Meera_Hahn1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Wenjun Zeng",
+        "openreview_id": "~Wenjun_Zeng4",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Nithish Kannen",
+        "openreview_id": "~Nithish_Kannen1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Rich Galt",
+        "openreview_id": "~Rich_Galt1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Kartikeya Badola",
+        "openreview_id": "~Kartikeya_Badola1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Been_Kim1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Zi_Wang1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Model Selection for Off-policy Evaluation: New Algorithms and Experimental Protocol",
+    "paper_id": "gQ8kIhu8JA",
+    "pdf_url": "https://openreview.net/pdf/6e6a0b69a8556454aeef20a16306db16ef52dfae.pdf",
+    "author_list": [
+      {
+        "name": "Pai Liu",
+        "openreview_id": "~Pai_Liu2",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "LingfengZhao",
+        "openreview_id": "~LingfengZhao1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "UM"
+      },
+      {
+        "name": "Shivangi Agarwal",
+        "openreview_id": "~Shivangi_Agarwal2",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Jinghan Liu",
+        "openreview_id": "~Jinghan_Liu2",
+        "affiliation_name": "University of Science and Technology of China",
+        "affiliation_domain": "mail.ustc.edu.cn",
+        "affiliation_country": "CN"
+      },
+      {
+        "name": "Audrey Huang",
+        "openreview_id": "~Audrey_Huang1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Philip_Amortila1",
+        "affiliation_name": "University of California, Berkeley",
+        "affiliation_domain": "berkeley.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Nan_Jiang2",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Masked Generative Nested Transformers with Decode Time Scaling",
+    "paper_id": "h4lZMgGyAz",
+    "pdf_url": "https://openreview.net/pdf/20dbdfc434c711855f0cb8e576055176a3febac8.pdf",
+    "author_list": [
+      {
+        "name": "Sahil Goyal",
+        "openreview_id": "~Sahil_Goyal1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Debapriya Tula",
+        "openreview_id": "~Debapriya_Tula2",
+        "affiliation_name": "University of California, Los Angeles",
+        "affiliation_domain": "g.ucla.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Gagan Jain",
+        "openreview_id": "~Gagan_Jain1",
+        "affiliation_name": "Microsoft AI",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Pradeep Shenoy",
+        "openreview_id": "~Pradeep_Shenoy1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Prateek_Jain1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Sujoy_Paul1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "On the Sample Complexity Bounds of Bilevel Reinforcement Learning",
+    "paper_id": "hNh3V1DXs5",
+    "pdf_url": "https://openreview.net/pdf/07bc0910e113863b0c36b07fa8ffa0bac2874a4a.pdf",
+    "author_list": [
+      {
+        "name": "Mudit Gaur",
+        "openreview_id": "~Mudit_Gaur1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Utsav Singh",
+        "openreview_id": "~Utsav_Singh1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Amrit Singh Bedi",
+        "openreview_id": "~Amrit_Singh_Bedi1",
+        "affiliation_name": "University of Central Florida",
+        "affiliation_domain": "ucf.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Raghu_Pasupathy2",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Vaneet Aggarwal",
+        "openreview_id": "~Vaneet_Aggarwal1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
+    "paper_id": "hwEhsFLPh1",
+    "pdf_url": "https://openreview.net/pdf/84a190ea34a5635bb01b795893f6b8dd61d1bb56.pdf",
+    "author_list": [
+      {
+        "name": "Susmit Agrawal",
+        "openreview_id": "~Susmit_Agrawal1",
+        "affiliation_name": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen",
+        "affiliation_domain": "uni-tuebingen.de",
+        "affiliation_country": "DE"
+      },
+      {
+        "name": "Saksham Mittal",
+        "openreview_id": "~Saksham_Mittal1",
+        "affiliation_name": "Indian Institute of Technology, Hyderabad",
+        "affiliation_domain": "iith.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Swarnim Maheshwari",
+        "openreview_id": "~Swarnim_Maheshwari1",
+        "affiliation_name": "Indian Institute of Technology, Hyderabad",
+        "affiliation_domain": "iith.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Vineeth N. Balasubramanian",
+        "openreview_id": "~Vineeth_N._Balasubramanian2",
+        "affiliation_name": "Research, Microsoft",
+        "affiliation_domain": "research.microsoft.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks",
+    "paper_id": "jP59rz1bZk",
+    "pdf_url": "https://openreview.net/pdf/d2122a3a706c4c7cd0d382ee9b13da641bd1fe5a.pdf",
+    "author_list": [
+      {
+        "name": "Saurabh Jha",
+        "openreview_id": "~Saurabh_Jha3",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Rohan R. Arora",
+        "openreview_id": "~Rohan_R._Arora1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yuji Watanabe",
+        "openreview_id": "~Yuji_Watanabe1",
+        "affiliation_name": "IBM Research - Tokyo, International Business Machines",
+        "affiliation_domain": "jp.ibm.com",
+        "affiliation_country": "JP"
+      },
+      {
+        "name": "Takumi Yanagawa",
+        "openreview_id": "~Takumi_Yanagawa1",
+        "affiliation_name": "IBM Research - Tokyo, International Business Machines",
+        "affiliation_domain": "jp.ibm.com",
+        "affiliation_country": "JP"
+      },
+      {
+        "name": "Yinfang Chen",
+        "openreview_id": "~Yinfang_Chen1",
+        "affiliation_name": "UIUC",
+        "affiliation_domain": "cs.illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Jackson Clark",
+        "openreview_id": "~Jackson_Clark1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Bhavya Bhavya",
+        "openreview_id": "~Bhavya_Bhavya2",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Mudit Verma",
+        "openreview_id": "~Mudit_Verma3",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Harshit_Kumar1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Hirokuni Kitahara",
+        "openreview_id": "~Hirokuni_Kitahara1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "JP"
+      },
+      {
+        "name": "Noah Zheutlin",
+        "openreview_id": "~Noah_Zheutlin1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Saki Takano",
+        "openreview_id": "~Saki_Takano1",
+        "affiliation_name": "IBM Research - Tokyo, International Business Machines",
+        "affiliation_domain": "jp.ibm.com",
+        "affiliation_country": "JP"
+      },
+      {
+        "name": "Divya Pathak",
+        "openreview_id": "~Divya_Pathak1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Felix George",
+        "openreview_id": "~Felix_George1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Xinbo Wu",
+        "openreview_id": "~Xinbo_Wu1",
+        "affiliation_name": "University of Illinois, Urbana Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Bekir O Turkkan",
+        "openreview_id": "~Bekir_O_Turkkan1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Gerard Vanloo",
+        "openreview_id": "~Gerard_Vanloo1",
+        "affiliation_name": "IBM, International Business Machines",
+        "affiliation_domain": "us.ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Michael Nidd",
+        "openreview_id": "~Michael_Nidd1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "CH"
+      },
+      {
+        "name": "Ting Dai",
+        "openreview_id": "~Ting_Dai2",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Oishik Chatterjee",
+        "openreview_id": "~Oishik_Chatterjee1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Pranjal Gupta",
+        "openreview_id": "~Pranjal_Gupta2",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Suranjana_Samanta1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Pooja Aggarwal",
+        "openreview_id": "~Pooja_Aggarwal1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Rong Lee",
+        "openreview_id": "~Rong_Lee1",
+        "affiliation_name": "IBM, International Business Machines",
+        "affiliation_domain": "us.ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Jae-wook Ahn",
+        "openreview_id": "~Jae-wook_Ahn2",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Debanjana Kar",
+        "openreview_id": "~Debanjana_Kar1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Amit Paradkar",
+        "openreview_id": "~Amit_Paradkar1",
+        "affiliation_name": "IBM, International Business Machines",
+        "affiliation_domain": "us.ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yu Deng",
+        "openreview_id": "~Yu_Deng4",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Pratibha Moogi",
+        "openreview_id": "~Pratibha_Moogi1",
+        "affiliation_name": "IBM TJ Watson Research Center",
+        "affiliation_domain": "researcher.watson.ibm.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Prateeti Mohapatra",
+        "openreview_id": "~Prateeti_Mohapatra1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Naoki_Abe1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Chandrasekhar_Narayanaswami1",
+        "affiliation_name": "IBM Research",
+        "affiliation_domain": "research.ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Tianyin Xu",
+        "openreview_id": "~Tianyin_Xu1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Lav_R._Varshney1",
+        "affiliation_name": "University of Illinois at Urbana-Champaign",
+        "affiliation_domain": "illinois.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Ruchi_Mahindru1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Anca Sailer",
+        "openreview_id": "~Anca_Sailer1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Nicholas C. M. Fuller",
+        "openreview_id": "~Nicholas_C._M._Fuller1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Ruchir Puri",
+        "openreview_id": "~Ruchir_Puri1",
+        "affiliation_name": "International Business Machines",
+        "affiliation_domain": "ibm.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "The Parameterized Complexity of Computing the VC-Dimension",
+    "paper_id": "kLAwT8G3Q1",
+    "pdf_url": "https://openreview.net/pdf/3b01de20e25f42378b831f288b4fa4aa7ee39435.pdf",
+    "author_list": [
+      {
+        "name": "Florent Foucaud",
+        "openreview_id": "~Florent_Foucaud1",
+        "affiliation_name": "Universit\u00e9 Clermont Auvergne",
+        "affiliation_domain": "uca.fr",
+        "affiliation_country": "FR"
+      },
+      {
+        "name": "Harmender Gahlawat",
+        "openreview_id": "~Harmender_Gahlawat1",
+        "affiliation_name": "Universit\u00e9 Clermont Auvergne",
+        "affiliation_domain": "uca.fr",
+        "affiliation_country": "FR"
+      },
+      {
+        "name": "Fionn Mc Inerney",
+        "openreview_id": "~Fionn_Mc_Inerney1",
+        "affiliation_name": "Telefonica Scientific Research",
+        "affiliation_domain": "telefonica.com",
+        "affiliation_country": "ES"
+      },
+      {
+        "name": "Prafullkumar Tale",
+        "openreview_id": "~Prafullkumar_Tale1",
+        "affiliation_name": "IISER-Pune",
+        "affiliation_domain": "iiserp.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting",
+    "paper_id": "kcUNMKqrCg",
+    "pdf_url": "https://openreview.net/pdf/5c81653c5ead22b0df4e9244f3e68f3788b9d885.pdf",
+    "author_list": [
+      {
+        "name": "J Rishi",
+        "openreview_id": "~J_Rishi1",
+        "affiliation_name": "Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "GVS Mothish",
+        "openreview_id": "~GVS_Mothish1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Deepak N. Subramani",
+        "openreview_id": "~Deepak_Subramani1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
+    "paper_id": "klmc4fwPLd",
+    "pdf_url": "https://openreview.net/pdf/f12828f6d272d5491dbcabbe3074297e131f7056.pdf",
+    "author_list": [
+      {
+        "name": "Ayan Sengupta",
+        "openreview_id": "~Ayan_Sengupta1",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Siddhant Chaudhary",
+        "openreview_id": "~Siddhant_Chaudhary1",
+        "affiliation_name": "University of Utah",
+        "affiliation_domain": "utah.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Tanmoy Chakraborty",
+        "openreview_id": "~Tanmoy_Chakraborty2",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
+    "paper_id": "lClK4uBxSG",
+    "pdf_url": "https://openreview.net/pdf/e8b0a7733f128946bbbf4c9b65ec1c7014eb64b0.pdf",
+    "author_list": [
+      {
+        "name": "Pranav K Nayak",
+        "openreview_id": "~Pranav_K_Nayak1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "csa.iisc.ernet.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Tanay Narshana",
+        "openreview_id": "~Tanay_Narshana1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Chiranjib Bhattacharyya",
+        "openreview_id": "~Chiranjib_Bhattacharyya2",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
+    "paper_id": "lDh9wSb9nP",
+    "pdf_url": "https://openreview.net/pdf/68cce8466b627543e61381a508d033022d2e51f6.pdf",
+    "author_list": [
+      {
+        "name": "Utkarsh U. Chavan",
+        "openreview_id": "~Utkarsh_U._Chavan1",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Prashant Trivedi",
+        "openreview_id": "~Prashant_Trivedi1",
+        "affiliation_name": "University of Petroleum and Energy Studies",
+        "affiliation_domain": "upes.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning",
+    "paper_id": "m3huAdsaGI",
+    "pdf_url": "https://openreview.net/pdf/acc974ee27273887dafd6ff29e70fca7be46ceb4.pdf",
+    "author_list": [
+      {
+        "name": "Ali Taghibakhshi",
+        "openreview_id": "~Ali_Taghibakhshi1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sharath Turuvekere Sreenivas",
+        "openreview_id": "~Sharath_Turuvekere_Sreenivas1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Saurav Muralidharan",
+        "openreview_id": "~Saurav_Muralidharan1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Marcin Chochowski",
+        "openreview_id": "~Marcin_Chochowski1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yashaswi Karnati",
+        "openreview_id": "~Yashaswi_Karnati1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Raviraj Bhuminand Joshi",
+        "openreview_id": "~Raviraj_Bhuminand_Joshi1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Ameya Sunil Mahabaleshwarkar",
+        "openreview_id": "~Ameya_Sunil_Mahabaleshwarkar1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "ZIJIA CHEN",
+        "openreview_id": "~ZIJIA_CHEN1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Yoshi Suhara",
+        "openreview_id": "~Yoshi_Suhara1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Oluwatobi Olabiyi",
+        "openreview_id": "~Oluwatobi_Olabiyi1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Daniel Korzekwa",
+        "openreview_id": "~Daniel_Korzekwa1",
+        "affiliation_name": "Amazon",
+        "affiliation_domain": "amazon.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Mostofa Patwary",
+        "openreview_id": "~Mostofa_Patwary1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Mohammad_Shoeybi1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Jan_Kautz1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Bryan_Catanzaro1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Ashwath Aithal",
+        "openreview_id": "~Ashwath_Aithal1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Nima_Tajbakhsh1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Pavlo Molchanov",
+        "openreview_id": "~Pavlo_Molchanov1",
+        "affiliation_name": "NVIDIA Research",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models",
+    "paper_id": "m7zEbdAMsh",
+    "pdf_url": "https://openreview.net/pdf/61f3e5fea73432106db1873ad51154fa4bb90f9b.pdf",
+    "author_list": [
+      {
+        "name": "Donghoon Ahn",
+        "openreview_id": "~Donghoon_Ahn1",
+        "affiliation_name": "University of California, Berkeley",
+        "affiliation_domain": "berkeley.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Jiwon Kang",
+        "openreview_id": "~Jiwon_Kang2",
+        "affiliation_name": "Korea Advanced Institute of Science & Technology",
+        "affiliation_domain": "kaist.ac.kr",
+        "affiliation_country": "KR"
+      },
+      {
+        "name": "Sanghyun Lee",
+        "openreview_id": "~Sanghyun_Lee3",
+        "affiliation_name": "Korea Advanced Institute of Science & Technology",
+        "affiliation_domain": "kaist.ac.kr",
+        "affiliation_country": "KR"
+      },
+      {
+        "name": "Minjae Kim",
+        "openreview_id": "~Minjae_Kim10",
+        "affiliation_name": "Korea Advanced Institute of Science & Technology",
+        "affiliation_domain": "kaist.ac.kr",
+        "affiliation_country": "KR"
+      },
+      {
+        "name": "Wooseok Jang",
+        "openreview_id": "~Wooseok_Jang2",
+        "affiliation_name": "Korea Advanced Institute of Science & Technology",
+        "affiliation_domain": "kaist.edu",
+        "affiliation_country": "KR"
+      },
+      {
+        "name": "Jaewon Min",
+        "openreview_id": "~Jaewon_Min1",
+        "affiliation_name": "Korea Advanced Institute of Science & Technology",
+        "affiliation_domain": "kaist.ac.kr",
+        "affiliation_country": "KR"
+      },
+      {
+        "name": "Sangwu Lee",
+        "openreview_id": "~Sangwu_Lee1",
+        "affiliation_name": "Krea",
+        "affiliation_domain": "krea.ai",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Sayak Paul",
+        "openreview_id": "~Sayak_Paul1",
+        "affiliation_name": "Hugging Face",
+        "affiliation_domain": "huggingface.co",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Seungryong_Kim1",
+        "affiliation_name": "Korea Advanced Institute of Science & Technology",
+        "affiliation_domain": "kaist.ac.kr",
+        "affiliation_country": "KR"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
+    "paper_id": "oVLNtTT2l4",
+    "pdf_url": "https://openreview.net/pdf/94b9123e40346b6451de0438645727def322abfa.pdf",
+    "author_list": [
+      {
+        "name": "Gokul Rajaraman",
+        "openreview_id": "~Gokul_Rajaraman1",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Debasish Chatterjee",
+        "openreview_id": "~Debasish_Chatterjee1",
+        "affiliation_name": "Indian Institute of Technology Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Matryoshka Quantization",
+    "paper_id": "phVWcUSGYP",
+    "pdf_url": "https://openreview.net/pdf/707f6b06951b55656d1fbc37f5948ca546251459.pdf",
+    "author_list": [
+      {
+        "name": "Puranjay Datta",
+        "openreview_id": "~Puranjay_Datta1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Jeff_Dean1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Prateek_Jain1",
+        "affiliation_name": "Google",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Aditya Kusupati",
+        "openreview_id": "~Aditya_Kusupati1",
+        "affiliation_name": "Google DeepMind",
+        "affiliation_domain": "google.com",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "STAMP Your Content: Proving Dataset Membership via Watermarked Rephrasings",
+    "paper_id": "qF6mxani2X",
+    "pdf_url": "https://openreview.net/pdf/77b2fbf41e73f784d273d228037d6ee0d19a52be.pdf",
+    "author_list": [
+      {
+        "name": "Saksham Rastogi",
+        "openreview_id": "~Saksham_Rastogi2",
+        "affiliation_name": "Research, Microsoft",
+        "affiliation_domain": "research.microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Pratyush Maini",
+        "openreview_id": "~Pratyush_Maini1",
+        "affiliation_name": "Carnegie Mellon University",
+        "affiliation_domain": "cmu.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Danish Pruthi",
+        "openreview_id": "~Danish_Pruthi1",
+        "affiliation_name": "Indian Institute of Science, Bangalore ",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Improved Coresets for Vertical Federated Learning: Regularized Linear and Logistic Regressions",
+    "paper_id": "rCJNbDXkvC",
+    "pdf_url": "https://openreview.net/pdf/8d9a143fa6e19a714e894b04ba5ca44fd59e0481.pdf",
+    "author_list": [
+      {
+        "name": "Supratim Shit",
+        "openreview_id": "~Supratim_Shit1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Gurmehak kaur chadha",
+        "openreview_id": "~Gurmehak_kaur_chadha1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Surendra kumar",
+        "openreview_id": "~Surendra_kumar1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Bapi Chatterjee",
+        "openreview_id": "~Bapi_Chatterjee1",
+        "affiliation_name": "Indraprastha Institute of Information Technology, Delhi",
+        "affiliation_domain": "iiitd.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Learning Condensed Graph via Differentiable Atom Mapping for Reaction Yield Prediction",
+    "paper_id": "sqjQ6p56GR",
+    "pdf_url": "https://openreview.net/pdf/8ed2edcb4d1c67b609b9a3092caeb9244f289c25.pdf",
+    "author_list": [
+      {
+        "name": "Ankit Ghosh",
+        "openreview_id": "~Ankit_Ghosh2",
+        "affiliation_name": "Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Sarthak Mittal",
+        "openreview_id": "~Sarthak_Mittal2",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Nupur Jain",
+        "openreview_id": "~Nupur_Jain1",
+        "affiliation_name": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "cse.iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Raghavan B Sunoj",
+        "openreview_id": "~Raghavan_B_Sunoj1",
+        "affiliation_name": "Department of Chemistry and Centre for Machine Intelligence and Data Science, Indian Institute of Technology, Bombay",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Abir De",
+        "openreview_id": "~Abir_De1",
+        "affiliation_name": "Indian Institute of Technology Bombay,",
+        "affiliation_domain": "iitb.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "A Sharper Global Convergence Analysis for Average Reward Reinforcement Learning via an Actor-Critic Approach",
+    "paper_id": "stfnyxnhAm",
+    "pdf_url": "https://openreview.net/pdf/aaae06e63817537a558b6755fd2634173ca914cf.pdf",
+    "author_list": [
+      {
+        "name": "Swetha Ganesh",
+        "openreview_id": "~Swetha_Ganesh1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Washim Uddin Mondal",
+        "openreview_id": "~Washim_Uddin_Mondal1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Vaneet Aggarwal",
+        "openreview_id": "~Vaneet_Aggarwal1",
+        "affiliation_name": "Purdue University",
+        "affiliation_domain": "purdue.edu",
+        "affiliation_country": "US"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Discovering a Zero  (Zero-Vector Class of Machine Learning)",
+    "paper_id": "u3n5wuRGTa",
+    "pdf_url": "https://openreview.net/pdf/2e564d1f8180315c69556a1e534547226e87ae3f.pdf",
+    "author_list": [
+      {
+        "name": "Harikrishna Metta",
+        "openreview_id": "~Harikrishna_Metta1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Venkatesh Babu Radhakrishnan",
+        "openreview_id": "~Venkatesh_Babu_Radhakrishnan2",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "MOGIC: Metadata-infused Oracle Guidance for Improved Extreme Classification",
+    "paper_id": "uxA0GI240s",
+    "pdf_url": "https://openreview.net/pdf/dd099495628592a06f4ad9fcac174de441c27701.pdf",
+    "author_list": [
+      {
+        "name": "Suchith Chidananda Prabhu",
+        "openreview_id": "~Suchith_Chidananda_Prabhu1",
+        "affiliation_name": "Indian Institute of Technology, Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Bhavyajeet Singh",
+        "openreview_id": "~Bhavyajeet_Singh1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Anshul Mittal",
+        "openreview_id": "~Anshul_Mittal2",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Siddarth Asokan",
+        "openreview_id": "~Siddarth_Asokan1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Shikhar Mohan",
+        "openreview_id": "~Shikhar_Mohan1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Deepak Saini",
+        "openreview_id": "~Deepak_Saini2",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Lakshya_Kumar1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Jian Jiao",
+        "openreview_id": "~Jian_Jiao2",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Amit S",
+        "openreview_id": "~Amit_S1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Niket Tandon",
+        "openreview_id": "~Niket_Tandon2",
+        "affiliation_name": "Research, Microsoft",
+        "affiliation_domain": "research.microsoft.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "Manish Gupta",
+        "openreview_id": "~Manish_Gupta1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Sumeet_Agarwal1",
+        "affiliation_name": "Indian Institute of Technology Delhi",
+        "affiliation_domain": "iitd.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Manik_Varma1",
+        "affiliation_name": "Research, Microsoft",
+        "affiliation_domain": "research.microsoft.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Sequential Attention-based Sampling for Histopathological Analysis",
+    "paper_id": "wlqoUpuQrv",
+    "pdf_url": "https://openreview.net/pdf/f31ebcf7b75787f348cc871ea204f8711098d65d.pdf",
+    "author_list": [
+      {
+        "name": "Tarun Gogisetty",
+        "openreview_id": "~Tarun_G1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Naman Malpani",
+        "openreview_id": "~Naman_Malpani1",
+        "affiliation_name": "Indian Institute of Science, Indian institute of science, Bangalore",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Gugan_Thoppe1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Devarajan_Sridharan1",
+        "affiliation_name": "Indian Institute of Science, Bangalore (IISc)",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Distribution Learning Meets Graph Structure Sampling",
+    "paper_id": "x6pqrvXgfY",
+    "pdf_url": "https://openreview.net/pdf/9a20732c21706d2552d97b30c4264fd67fc720d8.pdf",
+    "author_list": [
+      {
+        "name": "Arnab Bhattacharyya",
+        "openreview_id": "~Arnab_Bhattacharyya1",
+        "affiliation_name": "The University of Warwick",
+        "affiliation_domain": "warwick.ac.uk",
+        "affiliation_country": "GB"
+      },
+      {
+        "name": "Sutanu Gayen",
+        "openreview_id": "~Sutanu_Gayen1",
+        "affiliation_name": "Indian Institute of Technology, Kanpur",
+        "affiliation_domain": "iitk.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Philips George John",
+        "openreview_id": "~Philips_George_John1",
+        "affiliation_name": "National University of Singapore",
+        "affiliation_domain": "nus.edu",
+        "affiliation_country": "SG"
+      },
+      {
+        "name": "Sayantan Sen",
+        "openreview_id": "~Sayantan_Sen1",
+        "affiliation_name": "National University of Singapore",
+        "affiliation_domain": "nus.edu.sg",
+        "affiliation_country": "SG"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "FlexiClip: Locality-Preserving Free-Form Character Animation",
+    "paper_id": "xtxCM4XZ82",
+    "pdf_url": "https://openreview.net/pdf/0d392ccf879852f539617733eae90936bc21902c.pdf",
+    "author_list": [
+      {
+        "name": "Anant Khandelwal",
+        "openreview_id": "~Anant_Khandelwal1",
+        "affiliation_name": "Microsoft",
+        "affiliation_domain": "microsoft.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
+    "paper_id": "yK4Xu7DDd6",
+    "pdf_url": "https://openreview.net/pdf/7a1b5c9889e7f4de7db8ebb94d87080146f331f8.pdf",
+    "author_list": [
+      {
+        "name": "Abhishek Sinha",
+        "openreview_id": "~Abhishek_Sinha3",
+        "affiliation_name": "Tata Institute of Fundamental Research",
+        "affiliation_domain": "tifr.res.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Rahul Vaze",
+        "openreview_id": "~Rahul_Vaze1",
+        "affiliation_name": "Tata Institute of Fundamental Research, Mumbai",
+        "affiliation_domain": "tifr.res.in",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Policy Gradient with Tree Expansion",
+    "paper_id": "yiZtLtvW9S",
+    "pdf_url": "https://openreview.net/pdf/146d9520812993f136bb2a2946e5066d53b624ff.pdf",
+    "author_list": [
+      {
+        "name": "Gal Dalal",
+        "openreview_id": "~Gal_Dalal2",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "US"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Assaf_Hallak1",
+        "affiliation_name": "NVIDIA",
+        "affiliation_domain": "nvidia.com",
+        "affiliation_country": "IL"
+      },
+      {
+        "name": "",
+        "openreview_id": "~Gugan_Thoppe1",
+        "affiliation_name": "Indian Institute of Science",
+        "affiliation_domain": "iisc.ac.in",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Shie Mannor",
+        "openreview_id": "~Shie_Mannor2",
+        "affiliation_name": "Technion - Israel Institute of Technology, Technion",
+        "affiliation_domain": "technion.il",
+        "affiliation_country": "IL"
+      },
+      {
+        "name": "Gal Chechik",
+        "openreview_id": "~Gal_Chechik1",
+        "affiliation_name": "Bar Ilan University",
+        "affiliation_domain": "biu.ac.il",
+        "affiliation_country": "IL"
+      }
+    ],
+    "top_author_from_india": false,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features",
+    "paper_id": "yl9LxRL5tj",
+    "pdf_url": "https://openreview.net/pdf/d3bca7ee504d58ece195c2245a3667f4cd1eaf1c.pdf",
+    "author_list": [
+      {
+        "name": "Thummaluru Siddartha Reddy",
+        "openreview_id": "~Thummaluru_Siddartha_Reddy1",
+        "affiliation_name": "Fujitsu Research India Private Limited",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Vempalli Naga Sai Saketh",
+        "openreview_id": "~Vempalli_Naga_Sai_Saketh1",
+        "affiliation_name": "Fujitsu Research and Development Center Co. Ltm.",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Mahesh Chandran",
+        "openreview_id": "~Mahesh_Chandran1",
+        "affiliation_name": "Fujitsu Research and Development Center Co. Ltm.",
+        "affiliation_domain": "fujitsu.com",
+        "affiliation_country": "IN"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": true,
+    "paper_content": "Error generating summary."
+  },
+  {
+    "paper_title": "Alberta Wells Dataset: Pinpointing Oil and Gas Wells from Satellite Imagery",
+    "paper_id": "zLHn677EMS",
+    "pdf_url": "https://openreview.net/pdf/3ed8fc8695d79c7da1420a830aca8f2461f5347b.pdf",
+    "author_list": [
+      {
+        "name": "Pratinav Seth",
+        "openreview_id": "~Pratinav_Seth1",
+        "affiliation_name": "Lexsi.ai",
+        "affiliation_domain": "lexsi.ai",
+        "affiliation_country": "IN"
+      },
+      {
+        "name": "Michelle Lin",
+        "openreview_id": "~Michelle_Lin1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "BREFO DWAMENA YAW",
+        "openreview_id": "~BREFO_DWAMENA_YAW1",
+        "affiliation_name": "Unknown",
+        "affiliation_domain": "unknown.edu",
+        "affiliation_country": "UNK"
+      },
+      {
+        "name": "Jade Boutot",
+        "openreview_id": "~Jade_Boutot1",
+        "affiliation_name": "McGill University, McGill University",
+        "affiliation_domain": "mail.mcgill.ca",
+        "affiliation_country": "CA"
+      },
+      {
+        "name": "Mary Kang",
+        "openreview_id": "~Mary_Kang1",
+        "affiliation_name": "McGill University",
+        "affiliation_domain": "mcgill.ca",
+        "affiliation_country": "CA"
+      },
+      {
+        "name": "",
+        "openreview_id": "~David_Rolnick1",
+        "affiliation_name": "McGill University",
+        "affiliation_domain": "cs.mcgill.ca",
+        "affiliation_country": "CA"
+      }
+    ],
+    "top_author_from_india": true,
+    "majority_authors_from_india": false,
+    "paper_content": "Error generating summary."
+  }
+]
