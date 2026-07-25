@@ -20,6 +20,14 @@ VENUE_CONFIGS: List[VenueConfig] = [
         adapter_class="NeurIPSAdapter"
     ),
     VenueConfig(
+        conference="NeurIPS",
+        year=2025,
+        track="Conference",
+        source_adapter="openreview",
+        source_id="NeurIPS.cc/2025/Conference",
+        adapter_class="NeurIPSAdapter"
+    ),
+    VenueConfig(
         conference="ICML",
         year=2024,
         track="Conference",

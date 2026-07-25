@@ -58,6 +58,8 @@ def main_flow(configs: List[VenueConfig], only_accepted: bool = True, cache_dir:
     for cfg in configs:
         logger.info(f"Starting processing for venue: {cfg.conference} {cfg.year} {cfg.track}")
         papers = fetch_paper_metadata(cfg)
+        if only_accepted:
+            papers = [paper for paper in papers if paper.status == "accepted"]
         if not papers:
             logger.warning(f"No papers fetched for {cfg.source_id}.")
             continue

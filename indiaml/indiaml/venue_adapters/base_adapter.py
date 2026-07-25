@@ -1,9 +1,11 @@
 # adapters/base_adapter.py
 
 from abc import ABC, abstractmethod
+from pathlib import Path
 from typing import List, Optional
 from pydantic import BaseModel, Field
 import openreview
+from dotenv import load_dotenv
 
 from ..models.dto import AuthorDTO
 
@@ -33,6 +35,7 @@ class PaperRecord(BaseModel):
 
 class BaseAdapter(ABC):
     def __init__(self, config):
+        load_dotenv(Path(__file__).resolve().parents[1] / ".env")
         self.config = config
         self.client = openreview.api.OpenReviewClient(baseurl='https://api2.openreview.net')
 
