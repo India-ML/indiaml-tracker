@@ -4,163 +4,163 @@
   "track": "Conference",
   "focus_country": "India",
   "focus_country_code": "IN",
-  "generated_at": "2026-07-25T21:25:46.073405",
+  "generated_at": "2026-07-25T23:07:22.865103",
   "globalStats": {
-    "totalPapers": 6212,
-    "totalAuthors": 27081,
-    "totalCountries": 56,
+    "totalPapers": 5812,
+    "totalAuthors": 25642,
+    "totalCountries": 55,
     "countries": [
       {
-        "affiliation_country": "UNK",
-        "paper_count": 2489,
-        "author_count": 4581,
-        "spotlights": 317,
-        "orals": 38
-      },
-      {
         "affiliation_country": "CN",
-        "paper_count": 2488,
-        "author_count": 9152,
+        "paper_count": 2380,
+        "author_count": 8853,
         "spotlights": 257,
         "orals": 31
       },
       {
+        "affiliation_country": "UNK",
+        "paper_count": 2322,
+        "author_count": 4296,
+        "spotlights": 317,
+        "orals": 38
+      },
+      {
         "affiliation_country": "US",
-        "paper_count": 2317,
-        "author_count": 7056,
+        "paper_count": 2194,
+        "author_count": 6748,
         "spotlights": 330,
         "orals": 34
       },
       {
         "affiliation_country": "GB",
-        "paper_count": 380,
-        "author_count": 916,
+        "paper_count": 358,
+        "author_count": 862,
         "spotlights": 41,
         "orals": 14
       },
       {
         "affiliation_country": "DE",
-        "paper_count": 291,
-        "author_count": 718,
+        "paper_count": 268,
+        "author_count": 664,
         "spotlights": 42,
         "orals": 9
       },
       {
         "affiliation_country": "SG",
-        "paper_count": 278,
-        "author_count": 537,
+        "paper_count": 266,
+        "author_count": 516,
         "spotlights": 31,
         "orals": 5
       },
       {
         "affiliation_country": "KR",
-        "paper_count": 271,
-        "author_count": 795,
+        "paper_count": 253,
+        "author_count": 728,
         "spotlights": 24,
         "orals": 3
       },
       {
         "affiliation_country": "CA",
-        "paper_count": 219,
-        "author_count": 545,
+        "paper_count": 200,
+        "author_count": 492,
         "spotlights": 36,
         "orals": 0
       },
       {
         "affiliation_country": "CH",
-        "paper_count": 169,
-        "author_count": 400,
+        "paper_count": 160,
+        "author_count": 376,
         "spotlights": 25,
         "orals": 6
       },
       {
         "affiliation_country": "FR",
-        "paper_count": 160,
-        "author_count": 331,
+        "paper_count": 137,
+        "author_count": 270,
         "spotlights": 17,
         "orals": 6
       },
       {
         "affiliation_country": "AU",
-        "paper_count": 139,
-        "author_count": 280,
+        "paper_count": 132,
+        "author_count": 268,
         "spotlights": 10,
         "orals": 0
       },
       {
         "affiliation_country": "JP",
-        "paper_count": 112,
-        "author_count": 304,
+        "paper_count": 96,
+        "author_count": 251,
         "spotlights": 14,
         "orals": 0
       },
       {
         "affiliation_country": "IL",
-        "paper_count": 97,
-        "author_count": 196,
+        "paper_count": 92,
+        "author_count": 187,
         "spotlights": 15,
         "orals": 1
       },
       {
         "affiliation_country": "IT",
-        "paper_count": 82,
-        "author_count": 199,
+        "paper_count": 73,
+        "author_count": 179,
         "spotlights": 10,
         "orals": 1
       },
       {
         "affiliation_country": "NL",
-        "paper_count": 63,
-        "author_count": 150,
+        "paper_count": 58,
+        "author_count": 130,
         "spotlights": 7,
         "orals": 1
       },
       {
-        "affiliation_country": "IN",
-        "paper_count": 51,
-        "author_count": 132,
-        "spotlights": 4,
-        "orals": 1
-      },
-      {
         "affiliation_country": "AE",
-        "paper_count": 50,
-        "author_count": 107,
+        "paper_count": 44,
+        "author_count": 96,
         "spotlights": 6,
         "orals": 0
       },
       {
+        "affiliation_country": "IN",
+        "paper_count": 38,
+        "author_count": 104,
+        "spotlights": 4,
+        "orals": 1
+      },
+      {
         "affiliation_country": "AT",
-        "paper_count": 39,
-        "author_count": 81,
+        "paper_count": 35,
+        "author_count": 76,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "SE",
-        "paper_count": 29,
-        "author_count": 60,
+        "paper_count": 26,
+        "author_count": 55,
         "spotlights": 2,
         "orals": 1
       },
       {
-        "affiliation_country": "DK",
-        "paper_count": 29,
-        "author_count": 69,
-        "spotlights": 5,
-        "orals": 1
-      },
-      {
         "affiliation_country": "ES",
-        "paper_count": 27,
-        "author_count": 56,
+        "paper_count": 26,
+        "author_count": 54,
         "spotlights": 3,
         "orals": 1
       },
       {
+        "affiliation_country": "DK",
+        "paper_count": 25,
+        "author_count": 49,
+        "spotlights": 5,
+        "orals": 1
+      },
+      {
         "affiliation_country": "BE",
-        "paper_count": 26,
-        "author_count": 61,
+        "paper_count": 24,
+        "author_count": 53,
         "spotlights": 3,
         "orals": 0
       },
@@ -172,20 +172,6 @@
         "orals": 0
       },
       {
-        "affiliation_country": "RU",
-        "paper_count": 17,
-        "author_count": 58,
-        "spotlights": 2,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "FI",
-        "paper_count": 17,
-        "author_count": 37,
-        "spotlights": 2,
-        "orals": 1
-      },
-      {
         "affiliation_country": "PL",
         "paper_count": 16,
         "author_count": 43,
@@ -193,38 +179,45 @@
         "orals": 1
       },
       {
-        "affiliation_country": "VN",
-        "paper_count": 12,
-        "author_count": 29,
-        "spotlights": 1,
+        "affiliation_country": "FI",
+        "paper_count": 16,
+        "author_count": 32,
+        "spotlights": 2,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "RU",
+        "paper_count": 11,
+        "author_count": 43,
+        "spotlights": 2,
         "orals": 0
       },
       {
         "affiliation_country": "IR",
-        "paper_count": 12,
-        "author_count": 46,
+        "paper_count": 10,
+        "author_count": 40,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "GR",
-        "paper_count": 11,
-        "author_count": 22,
+        "paper_count": 10,
+        "author_count": 18,
         "spotlights": 1,
         "orals": 1
       },
       {
-        "affiliation_country": "UNK",
-        "paper_count": 10,
-        "author_count": 16,
-        "spotlights": 3,
+        "affiliation_country": "VN",
+        "paper_count": 9,
+        "author_count": 25,
+        "spotlights": 1,
         "orals": 0
       },
       {
-        "affiliation_country": "NO",
+        "affiliation_country": "UNK",
         "paper_count": 8,
-        "author_count": 16,
-        "spotlights": 2,
+        "author_count": 14,
+        "spotlights": 3,
         "orals": 0
       },
       {
@@ -235,17 +228,17 @@
         "orals": 0
       },
       {
-        "affiliation_country": "CZ",
-        "paper_count": 7,
-        "author_count": 15,
-        "spotlights": 0,
+        "affiliation_country": "NO",
+        "paper_count": 6,
+        "author_count": 11,
+        "spotlights": 2,
         "orals": 0
       },
       {
-        "affiliation_country": "NZ",
+        "affiliation_country": "CZ",
         "paper_count": 5,
-        "author_count": 12,
-        "spotlights": 1,
+        "author_count": 11,
+        "spotlights": 0,
         "orals": 0
       },
       {
@@ -263,13 +256,6 @@
         "orals": 1
       },
       {
-        "affiliation_country": "RO",
-        "paper_count": 4,
-        "author_count": 16,
-        "spotlights": 1,
-        "orals": 0
-      },
-      {
         "affiliation_country": "PT",
         "paper_count": 4,
         "author_count": 7,
@@ -284,6 +270,13 @@
         "orals": 0
       },
       {
+        "affiliation_country": "NZ",
+        "paper_count": 3,
+        "author_count": 7,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
         "affiliation_country": "HU",
         "paper_count": 3,
         "author_count": 6,
@@ -291,16 +284,16 @@
         "orals": 0
       },
       {
-        "affiliation_country": "BG",
-        "paper_count": 3,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
         "affiliation_country": "UA",
         "paper_count": 2,
         "author_count": 2,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "RO",
+        "paper_count": 2,
+        "author_count": 9,
         "spotlights": 1,
         "orals": 0
       },
@@ -312,13 +305,6 @@
         "orals": 0
       },
       {
-        "affiliation_country": "LI",
-        "paper_count": 2,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
         "affiliation_country": "IE",
         "paper_count": 2,
         "author_count": 4,
@@ -326,23 +312,9 @@
         "orals": 0
       },
       {
-        "affiliation_country": "CY",
-        "paper_count": 2,
-        "author_count": 9,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
         "affiliation_country": "AR",
         "paper_count": 2,
         "author_count": 2,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "TH",
-        "paper_count": 1,
-        "author_count": 1,
         "spotlights": 0,
         "orals": 0
       },
@@ -375,6 +347,13 @@
         "orals": 0
       },
       {
+        "affiliation_country": "LI",
+        "paper_count": 1,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
         "affiliation_country": "KE",
         "paper_count": 1,
         "author_count": 1,
@@ -396,6 +375,20 @@
         "orals": 0
       },
       {
+        "affiliation_country": "CY",
+        "paper_count": 1,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "BG",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
         "affiliation_country": "AM",
         "paper_count": 1,
         "author_count": 1,
@@ -407,42 +400,24 @@
   "focusCountrySummary": {
     "country": "India",
     "country_code": "IN",
-    "rank": 16,
-    "paper_count": 51,
-    "author_count": 132,
-    "percentage": 0.82,
+    "rank": 17,
+    "paper_count": 38,
+    "author_count": 104,
+    "percentage": 0.65,
     "spotlights": 4,
     "orals": 1,
-    "institution_count": 57,
-    "academic_institutions": 51,
-    "corporate_institutions": 6
+    "institution_count": 44,
+    "academic_institutions": 39,
+    "corporate_institutions": 5
   },
   "focusCountry": {
     "authorship": {
       "at_least_one": {
-        "count": 51,
+        "count": 38,
         "papers": [
           {
             "id": "1wmP48quNb",
             "title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "2Ri68h7bD1",
-            "title": "Dale's Law Meets Geometric Brownian Motion: Multiplicative Updates for Sampling",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "4FUM2hlyYx",
-            "title": "GraphFLEx: Structure Learning $\\underline{\\text{F}}$ramework for $\\underline{\\text{L}}$arge $\\underline{\\text{Ex}}$panding $\\underline{\\text{Graph}}$s",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "71jdC8ti5h",
-            "title": "Randomness Helps Rigor: A Probabilistic Learning Rate Scheduler Bridging Theory and Deep Learning Practice",
             "isSpotlight": false,
             "isOral": false
           },
@@ -471,12 +446,6 @@
             "isOral": false
           },
           {
-            "id": "9dtSxhfk7w",
-            "title": "Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in Brain",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "A4JiifkTzq",
             "title": "SPRO: Improving Image Generation via Self-Play",
             "isSpotlight": false,
@@ -491,12 +460,6 @@
           {
             "id": "BGwZsFLJFU",
             "title": "Contextual Tokenization for Graph Inverted Indices",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "CO57FDVLhA",
-            "title": "Quantization vs Pruning: Insights from the Strong Lottery Ticket Hypothesis",
             "isSpotlight": false,
             "isOral": false
           },
@@ -531,20 +494,8 @@
             "isOral": false
           },
           {
-            "id": "IQ3382JnQl",
-            "title": "AH-UGC: $\\underline{\\text{A}}$daptive and $\\underline{\\text{H}}$eterogeneous-$\\underline{\\text{U}}$niversal $\\underline{\\text{G}}$raph $\\underline{\\text{C}}$oarsening",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "Jj4NdJtXwp",
             "title": "Geometry of Decision Making in Language Models",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "LPUr2CexmX",
-            "title": "DO-EM: Density Operator Expectation Maximization",
             "isSpotlight": false,
             "isOral": false
           },
@@ -615,12 +566,6 @@
             "isOral": false
           },
           {
-            "id": "hdwccZL6L3",
-            "title": "SENSE: $\\underline{\\text{SEN}}$sing Similarity $\\underline{\\text{SE}}$eing Structure",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "hwEhsFLPh1",
             "title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
             "isSpotlight": false,
@@ -645,12 +590,6 @@
             "isOral": false
           },
           {
-            "id": "wEVqNPwG1i",
-            "title": "Improved Algorithms for Clustering with Distance Oracles",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "wlqoUpuQrv",
             "title": "Sequential Attention-based Sampling for Histopathological Analysis",
             "isSpotlight": false,
@@ -665,12 +604,6 @@
           {
             "id": "yK4Xu7DDd6",
             "title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "z8rQHF8OOt",
-            "title": "CoSimGen: Controllable diffusion model for simultaneous image and segmentation mask generation",
             "isSpotlight": false,
             "isOral": false
           },
@@ -699,18 +632,6 @@
             "isOral": false
           },
           {
-            "id": "hP51x6lXMH",
-            "title": "KCIF: Knowledge-Conditioned Instruction Following",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "oyjdyS7hBZ",
-            "title": "OrgAccess: A Benchmark for Role‑Based Access Control in Organization Scale LLMs",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "qL8M2dOY4L",
             "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
             "isSpotlight": false,
@@ -721,39 +642,15 @@
             "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
             "isSpotlight": false,
             "isOral": false
-          },
-          {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
-            "isSpotlight": false,
-            "isOral": false
           }
         ]
       },
       "majority": {
-        "count": 28,
+        "count": 21,
         "papers": [
           {
             "id": "1wmP48quNb",
             "title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "2Ri68h7bD1",
-            "title": "Dale's Law Meets Geometric Brownian Motion: Multiplicative Updates for Sampling",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "4FUM2hlyYx",
-            "title": "GraphFLEx: Structure Learning $\\underline{\\text{F}}$ramework for $\\underline{\\text{L}}$arge $\\underline{\\text{Ex}}$panding $\\underline{\\text{Graph}}$s",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "71jdC8ti5h",
-            "title": "Randomness Helps Rigor: A Probabilistic Learning Rate Scheduler Bridging Theory and Deep Learning Practice",
             "isSpotlight": false,
             "isOral": false
           },
@@ -794,12 +691,6 @@
             "isOral": false
           },
           {
-            "id": "IQ3382JnQl",
-            "title": "AH-UGC: $\\underline{\\text{A}}$daptive and $\\underline{\\text{H}}$eterogeneous-$\\underline{\\text{U}}$niversal $\\underline{\\text{G}}$raph $\\underline{\\text{C}}$oarsening",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "Jj4NdJtXwp",
             "title": "Geometry of Decision Making in Language Models",
             "isSpotlight": false,
@@ -828,12 +719,6 @@
             "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
             "isSpotlight": false,
             "isOral": true
-          },
-          {
-            "id": "hdwccZL6L3",
-            "title": "SENSE: $\\underline{\\text{SEN}}$sing Similarity $\\underline{\\text{SE}}$eing Structure",
-            "isSpotlight": false,
-            "isOral": false
           },
           {
             "id": "hwEhsFLPh1",
@@ -884,49 +769,19 @@
             "isOral": false
           },
           {
-            "id": "oyjdyS7hBZ",
-            "title": "OrgAccess: A Benchmark for Role‑Based Access Control in Organization Scale LLMs",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "qL8M2dOY4L",
             "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
             "isSpotlight": false,
             "isOral": false
           }
         ]
       },
       "first_author": {
-        "count": 37,
+        "count": 26,
         "papers": [
           {
             "id": "1wmP48quNb",
             "title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "2Ri68h7bD1",
-            "title": "Dale's Law Meets Geometric Brownian Motion: Multiplicative Updates for Sampling",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "4FUM2hlyYx",
-            "title": "GraphFLEx: Structure Learning $\\underline{\\text{F}}$ramework for $\\underline{\\text{L}}$arge $\\underline{\\text{Ex}}$panding $\\underline{\\text{Graph}}$s",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "71jdC8ti5h",
-            "title": "Randomness Helps Rigor: A Probabilistic Learning Rate Scheduler Bridging Theory and Deep Learning Practice",
             "isSpotlight": false,
             "isOral": false
           },
@@ -961,12 +816,6 @@
             "isOral": false
           },
           {
-            "id": "CO57FDVLhA",
-            "title": "Quantization vs Pruning: Insights from the Strong Lottery Ticket Hypothesis",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "DI2AAFnLrc",
             "title": "SegMASt3R: Geometry Grounded Segment Matching",
             "isSpotlight": true,
@@ -979,20 +828,8 @@
             "isOral": false
           },
           {
-            "id": "IQ3382JnQl",
-            "title": "AH-UGC: $\\underline{\\text{A}}$daptive and $\\underline{\\text{H}}$eterogeneous-$\\underline{\\text{U}}$niversal $\\underline{\\text{G}}$raph $\\underline{\\text{C}}$oarsening",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "Jj4NdJtXwp",
             "title": "Geometry of Decision Making in Language Models",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "LPUr2CexmX",
-            "title": "DO-EM: Density Operator Expectation Maximization",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1039,12 +876,6 @@
             "isOral": false
           },
           {
-            "id": "hdwccZL6L3",
-            "title": "SENSE: $\\underline{\\text{SEN}}$sing Similarity $\\underline{\\text{SE}}$eing Structure",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "hwEhsFLPh1",
             "title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
             "isSpotlight": false,
@@ -1065,12 +896,6 @@
           {
             "id": "oVLNtTT2l4",
             "title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "wEVqNPwG1i",
-            "title": "Improved Algorithms for Clustering with Distance Oracles",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1105,26 +930,8 @@
             "isOral": false
           },
           {
-            "id": "hP51x6lXMH",
-            "title": "KCIF: Knowledge-Conditioned Instruction Following",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "oyjdyS7hBZ",
-            "title": "OrgAccess: A Benchmark for Role‑Based Access Control in Organization Scale LLMs",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "qL8M2dOY4L",
             "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
             "isSpotlight": false,
             "isOral": false
           }
@@ -1134,9 +941,9 @@
     "institutions": [
       {
         "institute": "Indian Institute of Technology Bombay",
-        "total_paper_count": 9,
-        "unique_paper_count": 9,
-        "author_count": 18,
+        "total_paper_count": 8,
+        "unique_paper_count": 8,
+        "author_count": 17,
         "spotlights": 1,
         "orals": 0,
         "type": "academic",
@@ -1178,12 +985,6 @@
             "isOral": false
           },
           {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "lDh9wSb9nP",
             "title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
             "isSpotlight": false,
@@ -1211,129 +1012,9 @@
           "Atharv Kshirsagar",
           "Ganesh Ramakrishnan",
           "Parthe Pandit",
-          "Lokesh Nagalapatti",
           "Utkarsh U. Chavan",
           "Gokul Rajaraman",
           "Debasish Chatterjee"
-        ]
-      },
-      {
-        "institute": "Indian Institute of Technology Delhi",
-        "total_paper_count": 6,
-        "unique_paper_count": 6,
-        "author_count": 11,
-        "spotlights": 0,
-        "orals": 1,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "4FUM2hlyYx",
-            "title": "GraphFLEx: Structure Learning $\\underline{\\text{F}}$ramework for $\\underline{\\text{L}}$arge $\\underline{\\text{Ex}}$panding $\\underline{\\text{Graph}}$s",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "IQ3382JnQl",
-            "title": "AH-UGC: $\\underline{\\text{A}}$daptive and $\\underline{\\text{H}}$eterogeneous-$\\underline{\\text{U}}$niversal $\\underline{\\text{G}}$raph $\\underline{\\text{C}}$oarsening",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "hdwccZL6L3",
-            "title": "SENSE: $\\underline{\\text{SEN}}$sing Similarity $\\underline{\\text{SE}}$eing Structure",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "9dtSxhfk7w",
-            "title": "Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in Brain",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "klmc4fwPLd",
-            "title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "eafIjoZAHm",
-            "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
-            "isSpotlight": false,
-            "isOral": true
-          }
-        ],
-        "authors": [
-          "Mohit Kataria",
-          "Nikita Malik",
-          "Sandeep Kumar",
-          "Jayadeva Jayadeva",
-          "Prachi Jindal",
-          "Tanmoy Chakraborty",
-          "Shreyash Bhilwade",
-          "Burouj Armgaan",
-          "Eshan Jain",
-          "Sayan Ranu",
-          "Ayan Sengupta"
-        ]
-      },
-      {
-        "institute": "Indian Institute of Science",
-        "total_paper_count": 5,
-        "unique_paper_count": 5,
-        "author_count": 16,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "2Ri68h7bD1",
-            "title": "Dale's Law Meets Geometric Brownian Motion: Multiplicative Updates for Sampling",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "6vI3OOYddm",
-            "title": "MolVision: Molecular Property Prediction with Vision Language Models",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "LPUr2CexmX",
-            "title": "DO-EM: Density Operator Expectation Maximization",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "qL8M2dOY4L",
-            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "wlqoUpuQrv",
-            "title": "Sequential Attention-based Sampling for Histopathological Analysis",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Nishanth Shetty",
-          "Chandra Sekhar Seelamantula",
-          "Deepan Adak",
-          "Adit Vishnu",
-          "Abhay Shastry",
-          "Saurabh Kumar",
-          "Abhayjeet Singh",
-          "DEEKSHITHA G",
-          "Amartyaveer",
-          "Jesuraj Bandekar",
-          "Savitha Murthy",
-          "Sumit Sharma",
-          "Amala Nagireddi",
-          "Tarun G",
-          "Naman Malpani",
-          "Gugan Thoppe"
         ]
       },
       {
@@ -1425,6 +1106,49 @@
         ]
       },
       {
+        "institute": "Indian Institute of Science",
+        "total_paper_count": 3,
+        "unique_paper_count": 3,
+        "author_count": 12,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "6vI3OOYddm",
+            "title": "MolVision: Molecular Property Prediction with Vision Language Models",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "wlqoUpuQrv",
+            "title": "Sequential Attention-based Sampling for Histopathological Analysis",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Deepan Adak",
+          "Saurabh Kumar",
+          "Abhayjeet Singh",
+          "DEEKSHITHA G",
+          "Amartyaveer",
+          "Jesuraj Bandekar",
+          "Savitha Murthy",
+          "Sumit Sharma",
+          "Amala Nagireddi",
+          "Tarun G",
+          "Naman Malpani",
+          "Gugan Thoppe"
+        ]
+      },
+      {
         "institute": "Indian Institute of Technology Kanpur",
         "total_paper_count": 2,
         "unique_paper_count": 2,
@@ -1480,34 +1204,6 @@
         ]
       },
       {
-        "institute": "International Institute of Information Technology, Hyderabad",
-        "total_paper_count": 2,
-        "unique_paper_count": 2,
-        "author_count": 3,
-        "spotlights": 1,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "DI2AAFnLrc",
-            "title": "SegMASt3R: Geometry Grounded Segment Matching",
-            "isSpotlight": true,
-            "isOral": false
-          },
-          {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Rohit Jayanti",
-          "Vansh Garg",
-          "Ashutosh Srivastava"
-        ]
-      },
-      {
         "institute": "Tata Institute of Fundamental Research",
         "total_paper_count": 2,
         "unique_paper_count": 2,
@@ -1535,6 +1231,36 @@
         ]
       },
       {
+        "institute": "Indian Institute of Technology Delhi",
+        "total_paper_count": 2,
+        "unique_paper_count": 2,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 1,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "eafIjoZAHm",
+            "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+            "isSpotlight": false,
+            "isOral": true
+          },
+          {
+            "id": "klmc4fwPLd",
+            "title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Burouj Armgaan",
+          "Eshan Jain",
+          "Sayan Ranu",
+          "Ayan Sengupta",
+          "Tanmoy Chakraborty"
+        ]
+      },
+      {
         "institute": "Microsoft",
         "total_paper_count": 1,
         "unique_paper_count": 1,
@@ -1552,67 +1278,6 @@
         ],
         "authors": [
           "Zuhair Hasan Shaik"
-        ]
-      },
-      {
-        "institute": "RMD Engineering College",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "2Ri68h7bD1",
-            "title": "Dale's Law Meets Geometric Brownian Motion: Multiplicative Updates for Sampling",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Madhava Prasath"
-        ]
-      },
-      {
-        "institute": "Indian Institute of Technology Madras",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 2,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "71jdC8ti5h",
-            "title": "Randomness Helps Rigor: A Probabilistic Learning Rate Scheduler Bridging Theory and Deep Learning Practice",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Dahlia Devapriya",
-          "Sheetal Kalyani"
-        ]
-      },
-      {
-        "institute": "Indian Institute of Technology,Madras",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "71jdC8ti5h",
-            "title": "Randomness Helps Rigor: A Probabilistic Learning Rate Scheduler Bridging Theory and Deep Learning Practice",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Janani Suresh"
         ]
       },
       {
@@ -1634,26 +1299,6 @@
         "authors": [
           "Arijit Ghosh",
           "Manmatha Roy"
-        ]
-      },
-      {
-        "institute": "Spector Inc",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "9dtSxhfk7w",
-            "title": "Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in Brain",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Maneesh Kumar Singh"
         ]
       },
       {
@@ -1698,26 +1343,6 @@
         ]
       },
       {
-        "institute": "Indian Institute of Science Education and Research",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "CO57FDVLhA",
-            "title": "Quantization vs Pruning: Insights from the Strong Lottery Ticket Hypothesis",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Aakash Kumar"
-        ]
-      },
-      {
         "institute": "Indian Institute of Science",
         "total_paper_count": 1,
         "unique_paper_count": 1,
@@ -1735,6 +1360,27 @@
         ],
         "authors": [
           "Himanshu Tyagi"
+        ]
+      },
+      {
+        "institute": "International Institute of Information Technology, Hyderabad",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 2,
+        "spotlights": 1,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "DI2AAFnLrc",
+            "title": "SegMASt3R: Geometry Grounded Segment Matching",
+            "isSpotlight": true,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Rohit Jayanti",
+          "Vansh Garg"
         ]
       },
       {
@@ -1984,26 +1630,6 @@
         ]
       },
       {
-        "institute": "NISER, Bhubaneswar",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "wEVqNPwG1i",
-            "title": "Improved Algorithms for Clustering with Distance Oracles",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Pinki Pradhan"
-        ]
-      },
-      {
         "institute": "Indian Institute of Science, Bangalore (IISc)",
         "total_paper_count": 1,
         "unique_paper_count": 1,
@@ -2021,26 +1647,6 @@
         ],
         "authors": [
           "Devarajan Sridharan"
-        ]
-      },
-      {
-        "institute": "University of Strasbourg",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "z8rQHF8OOt",
-            "title": "CoSimGen: Controllable diffusion model for simultaneous image and segmentation mask generation",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "CHINEDU NWOYE"
         ]
       },
       {
@@ -2185,88 +1791,6 @@
         "authors": [
           "Shardul Junagade",
           "Nipun Batra"
-        ]
-      },
-      {
-        "institute": "IBM",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "corporate",
-        "papers": [
-          {
-            "id": "hP51x6lXMH",
-            "title": "KCIF: Knowledge-Conditioned Instruction Following",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Rudra Murthy"
-        ]
-      },
-      {
-        "institute": "Kalinga Institute of Industrial Technology",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 3,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "oyjdyS7hBZ",
-            "title": "OrgAccess: A Benchmark for Role‑Based Access Control in Organization Scale LLMs",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Debdeep Sanyal",
-          "Umakanta Maharana",
-          "Murari Mandal"
-        ]
-      },
-      {
-        "institute": "national university of singapore",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "oyjdyS7hBZ",
-            "title": "OrgAccess: A Benchmark for Role‑Based Access Control in Organization Scale LLMs",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Hong Ming Tan"
-        ]
-      },
-      {
-        "institute": "National University of Singapore",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "oyjdyS7hBZ",
-            "title": "OrgAccess: A Benchmark for Role‑Based Access Control in Organization Scale LLMs",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Mohan Kankanhalli"
         ]
       },
       {
@@ -2469,46 +1993,6 @@
         "authors": [
           "Jebish Purbey"
         ]
-      },
-      {
-        "institute": "Birla Institute of Technology and Science",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Gautam Jajoo"
-        ]
-      },
-      {
-        "institute": "International Institute of Information Technology Hyderabad",
-        "total_paper_count": 1,
-        "unique_paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0,
-        "type": "academic",
-        "papers": [
-          {
-            "id": "j0h4glzL2F",
-            "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
-            "isSpotlight": false,
-            "isOral": false
-          }
-        ],
-        "authors": [
-          "Parameswari Krishnamurthy"
-        ]
       }
     ]
   },
@@ -2610,17 +2094,17 @@
     "summary": {
       "title": "Research Impact Overview",
       "content": [
-        "India contributed 51 research papers to NeurIPS 2025, representing 0.8% of the conference's total accepted works and ranking 16 globally among contributing nations.",
-        "India researchers demonstrated strong research leadership with 72.5% of papers featuring India first authors, indicating significant intellectual contribution to the global machine learning discourse.",
-        "The research quality is evidenced by a 7.8% spotlight acceptance rate, with 4 paper(s) receiving this prestigious recognition among the conference's most impactful contributions.",
-        "India's machine learning ecosystem comprises 132 unique researchers across 57 institutions, with a balanced representation of 51 academic institutions and 6 corporate research entities."
+        "India contributed 38 research papers to NeurIPS 2025, representing 0.7% of the conference's total accepted works and ranking 17 globally among contributing nations.",
+        "India researchers demonstrated strong research leadership with 68.4% of papers featuring India first authors, indicating significant intellectual contribution to the global machine learning discourse.",
+        "The research quality is evidenced by a 10.5% spotlight acceptance rate, with 4 paper(s) receiving this prestigious recognition among the conference's most impactful contributions.",
+        "India's machine learning ecosystem comprises 104 unique researchers across 44 institutions, with a balanced representation of 39 academic institutions and 5 corporate research entities."
       ]
     },
     "context": {
       "title": "Global Research Landscape",
       "content": [
-        "The global research landscape is led by the United States (37.3% of papers) and China (40.1%), followed by the United Kingdom (6.1%) and Germany (4.7%), with India contributing 0.8% of total research output.",
-        "India ranks 16 globally in research volume, positioning it as an emerging contributor in the international machine learning research ecosystem with substantial growth potential.",
+        "The global research landscape is led by the United States (37.7% of papers) and China (40.9%), followed by the United Kingdom (6.2%) and Germany (4.6%), with India contributing 0.7% of total research output.",
+        "India ranks 17 globally in research volume, positioning it as an emerging contributor in the international machine learning research ecosystem with substantial growth potential.",
         "Within the Asia-Pacific region, India trails China, South Korea, Singapore, and Hong Kong in absolute research contributions, highlighting opportunities for enhanced regional collaboration and capacity building."
       ],
       "subtitle": "India's position within the international machine learning research community and comparative analysis with leading nations."
@@ -2628,9 +2112,9 @@
     "focusCountry": {
       "title": "India Research Ecosystem Analysis",
       "content": [
-        "India researchers exhibit strong research independence with 54.9% of papers having majority India authorship, indicating substantial domestic research capacity and reduced dependence on international collaboration.",
-        "The 72.5% first authorship rate demonstrates India researchers' leadership in conceptualizing and driving research projects, reflecting growing confidence and expertise in the field.",
-        "With 132 unique authors contributing across 51 papers, India maintains an efficient author-to-paper ratio of 0.39, suggesting productive individual contributions and effective research mentorship."
+        "India researchers exhibit strong research independence with 55.3% of papers having majority India authorship, indicating substantial domestic research capacity and reduced dependence on international collaboration.",
+        "The 68.4% first authorship rate demonstrates India researchers' leadership in conceptualizing and driving research projects, reflecting growing confidence and expertise in the field.",
+        "With 104 unique authors contributing across 38 papers, India maintains an efficient author-to-paper ratio of 0.37, suggesting productive individual contributions and effective research mentorship."
       ],
       "subtitle": "Detailed examination of authorship patterns, collaboration dynamics, and research leadership within India's machine learning community."
     },
@@ -2638,7 +2122,7 @@
       "title": "Institutional Research Excellence",
       "content": [
         "The Unknown emerges as the national leader with 0 papers and 0 authors, including the country's 4 spotlight papers, demonstrating exceptional research quality and productivity.",
-        "Academic institutions dominate India's research landscape with 89.5% representation (51 of 57 institutions), while corporate research centers contribute 10.5%, indicating strong university-led research culture.",
+        "Academic institutions dominate India's research landscape with 88.6% representation (39 of 44 institutions), while corporate research centers contribute 11.4%, indicating strong university-led research culture.",
         "The institutional diversity spans premier engineering institutes (IITs), specialized research universities (IISc), and corporate R&D centers, creating a robust ecosystem for sustained machine learning research growth."
       ],
       "subtitle": "Comprehensive evaluation of India's academic and corporate institutions contributing to machine learning research excellence."
