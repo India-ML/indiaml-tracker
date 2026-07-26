@@ -586,93 +586,30 @@
   },
   "indiaStats": {
     "affiliation_country": "IN",
-    "paper_count": 95,
-    "author_count": 180,
+    "paper_count": 59,
+    "author_count": 130,
     "spotlights": 0,
     "orals": 0
   },
   "topInstitutions": [
     {
-      "institution": "Microsoft",
-      "paper_count": 10,
-      "author_count": 16,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
       "institution": "Indian Institute of Technology, Kanpur",
-      "paper_count": 8,
-      "author_count": 5,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Science, Indian institute of science, Bangalore",
-      "paper_count": 8,
-      "author_count": 11,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Science",
-      "paper_count": 8,
-      "author_count": 7,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology, Bombay",
-      "paper_count": 7,
-      "author_count": 8,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
       "paper_count": 6,
-      "author_count": 9,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Google",
-      "paper_count": 6,
-      "author_count": 7,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Research, Microsoft",
-      "paper_count": 5,
-      "author_count": 4,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Microsoft Research",
-      "paper_count": 5,
-      "author_count": 2,
+      "author_count": 6,
       "spotlights": 0,
       "orals": 0
     },
     {
       "institution": "Indraprastha Institute of Information Technology, Delhi",
-      "paper_count": 5,
-      "author_count": 9,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology, Delhi",
       "paper_count": 4,
       "author_count": 7,
       "spotlights": 0,
       "orals": 0
     },
     {
-      "institution": "Indian Institute of Technology Delhi",
+      "institution": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
       "paper_count": 4,
-      "author_count": 4,
+      "author_count": 7,
       "spotlights": 0,
       "orals": 0
     },
@@ -684,51 +621,114 @@
       "orals": 0
     },
     {
-      "institution": "Tata Institute of Fundamental Research",
-      "paper_count": 3,
-      "author_count": 2,
+      "institution": "Indian Institute of Science",
+      "paper_count": 4,
+      "author_count": 11,
       "spotlights": 0,
       "orals": 0
     },
     {
-      "institution": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
-      "paper_count": 3,
+      "institution": "Indian Institute of Science, Indian institute of science, Bangalore",
+      "paper_count": 4,
       "author_count": 6,
       "spotlights": 0,
       "orals": 0
     },
     {
-      "institution": "Indian Statistical Institute",
-      "paper_count": 3,
+      "institution": "Indian Institute of Technology, Bombay",
+      "paper_count": 4,
       "author_count": 4,
       "spotlights": 0,
       "orals": 0
     },
     {
-      "institution": "Indian Institute of Technology Bombay,",
-      "paper_count": 3,
-      "author_count": 1,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Google DeepMind",
+      "institution": "Google",
       "paper_count": 3,
       "author_count": 3,
       "spotlights": 0,
       "orals": 0
     },
     {
-      "institution": "Fujitsu Research and Development Center Co. Ltm.",
+      "institution": "Tata Institute of Fundamental Research",
       "paper_count": 3,
-      "author_count": 4,
+      "author_count": 3,
       "spotlights": 0,
       "orals": 0
     },
     {
       "institution": "Zaheer",
       "paper_count": 2,
-      "author_count": 1,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "IIT Kanpur",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology",
+      "paper_count": 2,
+      "author_count": 3,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Statistical Institute",
+      "paper_count": 2,
+      "author_count": 3,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Statistical Institute, Kolkata",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Adobe Systems",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology Bombay,",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Adobe Research",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Microsoft",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Tata Institute of Fundamental Research, Mumbai",
+      "paper_count": 2,
+      "author_count": 2,
+      "spotlights": 0,
+      "orals": 0
+    },
+    {
+      "institution": "Indian Institute of Technology, Delhi",
+      "paper_count": 2,
+      "author_count": 3,
       "spotlights": 0,
       "orals": 0
     }
