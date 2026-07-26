@@ -3,454 +3,447 @@
     "name": "NeurIPS",
     "year": 2025,
     "track": "Conference",
-    "totalAcceptedPapers": 8544,
-    "totalAcceptedAuthors": 29564
+    "totalAcceptedPapers": 5823,
+    "totalAcceptedAuthors": 25680
   },
   "globalStats": {
     "countries": [
       {
         "affiliation_country": "US",
-        "paper_count": 3825,
-        "author_count": 8734,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 2617,
+        "author_count": 10077,
+        "spotlights": 402,
+        "orals": 49
       },
       {
         "affiliation_country": "CN",
-        "paper_count": 3427,
-        "author_count": 10549,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 2464,
+        "author_count": 12910,
+        "spotlights": 267,
+        "orals": 32
       },
       {
         "affiliation_country": "GB",
-        "paper_count": 756,
-        "author_count": 1063,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "UNK",
-        "paper_count": 743,
-        "author_count": 744,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 552,
+        "author_count": 1212,
+        "spotlights": 64,
+        "orals": 12
       },
       {
         "affiliation_country": "HK",
-        "paper_count": 682,
-        "author_count": 803,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 546,
+        "author_count": 1163,
+        "spotlights": 59,
+        "orals": 4
       },
       {
         "affiliation_country": "SG",
-        "paper_count": 654,
-        "author_count": 735,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 486,
+        "author_count": 1056,
+        "spotlights": 51,
+        "orals": 8
+      },
+      {
+        "affiliation_country": "UNK",
+        "paper_count": 385,
+        "author_count": 459,
+        "spotlights": 45,
+        "orals": 6
       },
       {
         "affiliation_country": "DE",
-        "paper_count": 534,
-        "author_count": 982,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 381,
+        "author_count": 1052,
+        "spotlights": 56,
+        "orals": 12
       },
       {
         "affiliation_country": "CA",
-        "paper_count": 494,
-        "author_count": 825,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 350,
+        "author_count": 886,
+        "spotlights": 55,
+        "orals": 3
       },
       {
         "affiliation_country": "KR",
-        "paper_count": 408,
-        "author_count": 1035,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 294,
+        "author_count": 1058,
+        "spotlights": 32,
+        "orals": 3
       },
       {
         "affiliation_country": "CH",
-        "paper_count": 356,
-        "author_count": 520,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 251,
+        "author_count": 586,
+        "spotlights": 38,
+        "orals": 7
       },
       {
         "affiliation_country": "FR",
-        "paper_count": 312,
-        "author_count": 534,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 220,
+        "author_count": 501,
+        "spotlights": 27,
+        "orals": 9
       },
       {
         "affiliation_country": "AU",
-        "paper_count": 274,
-        "author_count": 371,
-        "spotlights": 0,
+        "paper_count": 215,
+        "author_count": 487,
+        "spotlights": 18,
         "orals": 0
       },
       {
         "affiliation_country": "JP",
-        "paper_count": 216,
-        "author_count": 348,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 152,
+        "author_count": 359,
+        "spotlights": 20,
+        "orals": 2
       },
       {
         "affiliation_country": "IL",
-        "paper_count": 172,
-        "author_count": 298,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "IT",
-        "paper_count": 145,
-        "author_count": 240,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 112,
+        "author_count": 311,
+        "spotlights": 18,
+        "orals": 2
       },
       {
         "affiliation_country": "AE",
-        "paper_count": 128,
-        "author_count": 118,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 105,
+        "author_count": 204,
+        "spotlights": 13,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "IT",
+        "paper_count": 104,
+        "author_count": 260,
+        "spotlights": 15,
+        "orals": 2
       },
       {
         "affiliation_country": "NL",
-        "paper_count": 123,
-        "author_count": 191,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "UK",
-        "paper_count": 122,
-        "author_count": 90,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 91,
+        "author_count": 183,
+        "spotlights": 9,
+        "orals": 1
       },
       {
         "affiliation_country": "IN",
-        "paper_count": 95,
-        "author_count": 180,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 71,
+        "author_count": 167,
+        "spotlights": 7,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "UK",
+        "paper_count": 69,
+        "author_count": 83,
+        "spotlights": 11,
+        "orals": 3
       },
       {
         "affiliation_country": "AT",
-        "paper_count": 91,
-        "author_count": 111,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "DK",
-        "paper_count": 59,
-        "author_count": 76,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "SE",
-        "paper_count": 57,
-        "author_count": 98,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 61,
+        "author_count": 144,
+        "spotlights": 4,
+        "orals": 1
       },
       {
         "affiliation_country": "ES",
-        "paper_count": 49,
-        "author_count": 69,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 44,
+        "author_count": 74,
+        "spotlights": 6,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "SE",
+        "paper_count": 35,
+        "author_count": 81,
+        "spotlights": 3,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "DK",
+        "paper_count": 34,
+        "author_count": 60,
+        "spotlights": 8,
+        "orals": 1
       },
       {
         "affiliation_country": "BE",
-        "paper_count": 42,
-        "author_count": 65,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "TW",
-        "paper_count": 41,
-        "author_count": 93,
-        "spotlights": 0,
+        "paper_count": 32,
+        "author_count": 60,
+        "spotlights": 5,
         "orals": 0
       },
       {
         "affiliation_country": "SA",
-        "paper_count": 38,
+        "paper_count": 30,
+        "author_count": 54,
+        "spotlights": 5,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "TW",
+        "paper_count": 28,
+        "author_count": 86,
+        "spotlights": 5,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PL",
+        "paper_count": 25,
+        "author_count": 60,
+        "spotlights": 0,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "FI",
+        "paper_count": 24,
+        "author_count": 40,
+        "spotlights": 3,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "VN",
+        "paper_count": 22,
+        "author_count": 49,
+        "spotlights": 3,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "MO",
+        "paper_count": 20,
+        "author_count": 27,
+        "spotlights": 1,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "GR",
+        "paper_count": 18,
+        "author_count": 33,
+        "spotlights": 1,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "RU",
+        "paper_count": 14,
+        "author_count": 54,
+        "spotlights": 2,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IE",
+        "paper_count": 13,
+        "author_count": 20,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "BR",
+        "paper_count": 12,
+        "author_count": 32,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "IR",
+        "paper_count": 11,
         "author_count": 40,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "PL",
-        "paper_count": 38,
-        "author_count": 68,
-        "spotlights": 0,
-        "orals": 0
+        "affiliation_country": "CZ",
+        "paper_count": 11,
+        "author_count": 18,
+        "spotlights": 1,
+        "orals": 1
       },
       {
-        "affiliation_country": "FI",
-        "paper_count": 33,
-        "author_count": 50,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "VN",
-        "paper_count": 31,
-        "author_count": 43,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "RU",
-        "paper_count": 31,
-        "author_count": 78,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "GR",
-        "paper_count": 26,
-        "author_count": 31,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "MO",
-        "paper_count": 23,
-        "author_count": 23,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "IR",
-        "paper_count": 17,
-        "author_count": 39,
+        "affiliation_country": "BG",
+        "paper_count": 9,
+        "author_count": 25,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "TR",
-        "paper_count": 16,
-        "author_count": 21,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "BR",
-        "paper_count": 16,
-        "author_count": 36,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "KP",
-        "paper_count": 14,
-        "author_count": 12,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "CL",
-        "paper_count": 14,
-        "author_count": 26,
-        "spotlights": 0,
+        "paper_count": 9,
+        "author_count": 15,
+        "spotlights": 3,
         "orals": 0
       },
       {
         "affiliation_country": "NO",
-        "paper_count": 13,
-        "author_count": 17,
-        "spotlights": 0,
+        "paper_count": 9,
+        "author_count": 13,
+        "spotlights": 3,
         "orals": 0
       },
       {
-        "affiliation_country": "BG",
-        "paper_count": 11,
-        "author_count": 18,
+        "affiliation_country": "CL",
+        "paper_count": 9,
+        "author_count": 25,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "AI",
-        "paper_count": 11,
-        "author_count": 10,
-        "spotlights": 0,
+        "paper_count": 8,
+        "author_count": 11,
+        "spotlights": 2,
         "orals": 0
       },
       {
-        "affiliation_country": "PT",
-        "paper_count": 10,
-        "author_count": 18,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "IE",
-        "paper_count": 9,
-        "author_count": 14,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "CZ",
-        "paper_count": 9,
-        "author_count": 15,
+        "affiliation_country": "KP",
+        "paper_count": 8,
+        "author_count": 8,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "NZ",
         "paper_count": 7,
-        "author_count": 12,
-        "spotlights": 0,
+        "author_count": 13,
+        "spotlights": 1,
         "orals": 0
       },
       {
-        "affiliation_country": "ZW",
+        "affiliation_country": "CO",
         "paper_count": 6,
-        "author_count": 1,
-        "spotlights": 0,
+        "author_count": 25,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PT",
+        "paper_count": 6,
+        "author_count": 12,
+        "spotlights": 1,
         "orals": 0
       },
       {
         "affiliation_country": "ZA",
-        "paper_count": 6,
-        "author_count": 13,
-        "spotlights": 0,
-        "orals": 0
+        "paper_count": 5,
+        "author_count": 21,
+        "spotlights": 1,
+        "orals": 1
       },
       {
-        "affiliation_country": "UA",
-        "paper_count": 5,
-        "author_count": 8,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "HU",
-        "paper_count": 5,
+        "affiliation_country": "LU",
+        "paper_count": 4,
         "author_count": 10,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "ZW",
+        "paper_count": 4,
+        "author_count": 4,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "AM",
+        "paper_count": 3,
+        "author_count": 4,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "EU",
-        "paper_count": 5,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "UM",
-        "paper_count": 4,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "RO",
-        "paper_count": 4,
+        "paper_count": 3,
         "author_count": 3,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "QA",
-        "paper_count": 4,
-        "author_count": 5,
+        "affiliation_country": "HU",
+        "paper_count": 3,
+        "author_count": 6,
+        "spotlights": 3,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "PH",
+        "paper_count": 3,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 1
+      },
+      {
+        "affiliation_country": "AX",
+        "paper_count": 2,
+        "author_count": 2,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "MY",
-        "paper_count": 4,
-        "author_count": 10,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "LU",
-        "paper_count": 4,
-        "author_count": 9,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "CY",
-        "paper_count": 4,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "TN",
-        "paper_count": 3,
-        "author_count": 3,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "HR",
-        "paper_count": 3,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "AR",
-        "paper_count": 3,
-        "author_count": 3,
+        "paper_count": 2,
+        "author_count": 8,
         "spotlights": 0,
         "orals": 0
       },
       {
         "affiliation_country": "TD",
         "paper_count": 2,
-        "author_count": 1,
+        "author_count": 2,
         "spotlights": 0,
         "orals": 0
+      },
+      {
+        "affiliation_country": "UA",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 1,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "HR",
+        "paper_count": 2,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "RO",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "QA",
+        "paper_count": 2,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "TN",
+        "paper_count": 2,
+        "author_count": 6,
+        "spotlights": 0,
+        "orals": 1
       },
       {
         "affiliation_country": "RW",
         "paper_count": 2,
-        "author_count": 1,
+        "author_count": 2,
         "spotlights": 0,
-        "orals": 0
+        "orals": 1
       },
       {
-        "affiliation_country": "PH",
-        "paper_count": 2,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "MX",
+        "affiliation_country": "CY",
         "paper_count": 2,
         "author_count": 2,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "MA",
-        "paper_count": 2,
-        "author_count": 2,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "KZ",
+        "affiliation_country": "AR",
         "paper_count": 2,
         "author_count": 2,
         "spotlights": 0,
@@ -464,52 +457,38 @@
         "orals": 0
       },
       {
-        "affiliation_country": "GE",
+        "affiliation_country": "UM",
         "paper_count": 2,
         "author_count": 2,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "CO",
+        "affiliation_country": "MA",
         "paper_count": 2,
-        "author_count": 5,
+        "author_count": 2,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "AM",
-        "paper_count": 2,
+        "affiliation_country": "MX",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "SN",
+        "paper_count": 1,
         "author_count": 3,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "TH",
+        "affiliation_country": "MK",
         "paper_count": 1,
         "author_count": 1,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "SI",
-        "paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "RS",
-        "paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "PR",
-        "paper_count": 1,
-        "author_count": 1,
-        "spotlights": 0,
+        "spotlights": 1,
         "orals": 0
       },
       {
@@ -520,7 +499,7 @@
         "orals": 0
       },
       {
-        "affiliation_country": "PE",
+        "affiliation_country": "AF",
         "paper_count": 1,
         "author_count": 1,
         "spotlights": 0,
@@ -548,7 +527,42 @@
         "orals": 0
       },
       {
-        "affiliation_country": "EE",
+        "affiliation_country": "RS",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "SI",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "LB",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "EG",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "GE",
+        "paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0
+      },
+      {
+        "affiliation_country": "JO",
         "paper_count": 1,
         "author_count": 1,
         "spotlights": 0,
@@ -562,176 +576,2417 @@
         "orals": 0
       },
       {
-        "affiliation_country": "BD",
-        "paper_count": 1,
-        "author_count": 4,
-        "spotlights": 0,
-        "orals": 0
-      },
-      {
-        "affiliation_country": "AX",
+        "affiliation_country": "KZ",
         "paper_count": 1,
         "author_count": 1,
         "spotlights": 0,
         "orals": 0
       },
       {
-        "affiliation_country": "AS",
+        "affiliation_country": "TH",
         "paper_count": 1,
         "author_count": 1,
-        "spotlights": 0,
+        "spotlights": 1,
         "orals": 0
       }
     ]
   },
-  "indiaStats": {
-    "affiliation_country": "IN",
-    "paper_count": 59,
-    "author_count": 130,
-    "spotlights": 0,
-    "orals": 0
+  "focusCountry": {
+    "country_code": "IN",
+    "country_name": "India",
+    "total_authors": 167,
+    "total_spotlights": 7,
+    "total_orals": 1,
+    "institution_types": {
+      "corporate": 12,
+      "academic": 32
+    },
+    "at_least_one_focus_country_author": {
+      "count": 71,
+      "papers": [
+        {
+          "id": "yl9LxRL5tj",
+          "title": "Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "yK4Xu7DDd6",
+          "title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "x6pqrvXgfY",
+          "title": "Distribution Learning Meets Graph Structure Sampling",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "wlqoUpuQrv",
+          "title": "Sequential Attention-based Sampling for Histopathological Analysis",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "tKPqbamNb9",
+          "title": "Does Thinking More Always Help? Mirage of Test-Time Scaling in Reasoning Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "oVLNtTT2l4",
+          "title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "o4zN34ahEK",
+          "title": "Spark Transformer: Reactivating Sparsity in Transformer FFN and Attention",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "m7zEbdAMsh",
+          "title": "Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "m3huAdsaGI",
+          "title": "Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "lDh9wSb9nP",
+          "title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "lClK4uBxSG",
+          "title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "klmc4fwPLd",
+          "title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "kLAwT8G3Q1",
+          "title": "The Parameterized Complexity of Computing the VC-Dimension",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "hwEhsFLPh1",
+          "title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "hNh3V1DXs5",
+          "title": "On the Sample Complexity Bounds of Bilevel Reinforcement Learning",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "gQ8kIhu8JA",
+          "title": "Model Selection for Off-policy Evaluation: New Algorithms and Experimental Protocol",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "erwwuMhTJX",
+          "title": "Cyclic Counterfactuals under Shift–Scale Interventions",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "eafIjoZAHm",
+          "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+          "isSpotlight": false,
+          "isOral": true
+        },
+        {
+          "id": "dopfjQFr65",
+          "title": "Efficient Adaptive Federated Optimization",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "cGmcHJEFnY",
+          "title": "BlockDecoder: Boosting ASR Decoders with Context and Merger Modules",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "a7hHwWnZey",
+          "title": "Fast Training of Large Kernel Models with Delayed Projections",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "YmbQ0qnQ76",
+          "title": "$O(\\sqrt{T})$ Static Regret and Instance Dependent Constraint Violation for Constrained Online Convex Optimization",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Y1UVWWWGKB",
+          "title": "Bandit Guided Submodular Curriculum for Adaptive Subset Selection",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Xx0cJGXU7n",
+          "title": "Non-rectangular Robust MDPs with Normed  Uncertainty Sets",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "W8xcKoJcrl",
+          "title": "Strategic Costs of Perceived Bias in Fair Selection",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "SiBVbL7rsX",
+          "title": "Localizing Knowledge in Diffusion Transformers",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "SXCjvhEQZO",
+          "title": "On Optimal Steering to Achieve Exact Fairness",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "RwfrdKSgCE",
+          "title": "AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "RSSk1SHxrH",
+          "title": "Monotone and Separable Set Functions: Characterizations and Neural Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "QfKpJ00t2L",
+          "title": "Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "PdKhoj6goO",
+          "title": "Handling Missing Responses under Cluster Dependence with Applications to Language Model Evaluation",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "PNU2mPauvd",
+          "title": "Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and Reliability",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "LuGevcG5IB",
+          "title": "Parameter-free Algorithms for the Stochastically Extended Adversarial Model",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "KstkQi6e7q",
+          "title": "Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Jj4NdJtXwp",
+          "title": "Geometry of Decision Making in Language Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "JPogehP8By",
+          "title": "Brain-Informed Fine-Tuning for Improved Multilingual Understanding in Language Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "I822ZIRtms",
+          "title": "Characterizing control between interacting subsystems with deep Jacobian estimation",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "HXFvNkNt0n",
+          "title": "Geometry Aware Operator Transformer as an efficient and accurate neural surrogate for PDEs on arbitrary domains",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "FZp6cheXt2",
+          "title": "Better Language Model Inversion by Compactly Representing Next-Token Distributions",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "F7BpMMN01x",
+          "title": "Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Emwu0jyOBg",
+          "title": "CAMILA: Context-Aware Masking for Image Editing with Language Alignment",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "E6gwPtWjb1",
+          "title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "DI2AAFnLrc",
+          "title": "SegMASt3R: Geometry Grounded Segment Matching",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "CwXyUdqFqW",
+          "title": "MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "CRyOyiVvvJ",
+          "title": "Scalable Fingerprinting of Large Language Models",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "BGwZsFLJFU",
+          "title": "Contextual Tokenization for Graph Inverted Indices",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "B4NT8TexNS",
+          "title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "A4JiifkTzq",
+          "title": "SPRO: Improving Image Generation via Self-Play",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "9I1XjEEtsh",
+          "title": "Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7bCPXHq8xV",
+          "title": "Price of Parsimony: Complexity of Fourier Sparsity Testing",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7WgYEIOLdv",
+          "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7UbXEQNny7",
+          "title": "Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "3p06mDUV5O",
+          "title": "Dimension-free Score Matching and Time Bootstrapping for Diffusion Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "2XelsPmKV1",
+          "title": "Path-specific effects for pulse-oximetry guided decisions in critical care",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "2VX79YLT9s",
+          "title": "Understanding Outer Optimizers in Local SGD: Learning Rates, Momentum, and Acceleration",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "1wmP48quNb",
+          "title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "0fBQAckQK3",
+          "title": "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "yG4Fj0voJZ",
+          "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "w98hMEjzu8",
+          "title": "The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "qL8M2dOY4L",
+          "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "efGzsxVSEC",
+          "title": "SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "aqr5pyOQpf",
+          "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "ZONgHRsAbl",
+          "title": "SMMILE: An expert-driven benchmark for multimodal medical in-context learning",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "XwqawBglmv",
+          "title": "LC-Opt: Benchmarking Reinforcement Learning and Agentic AI for End-to-End Liquid Cooling Optimization in Data Centers",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "VUz3Jcomsv",
+          "title": "AutoOpt: A Dataset and a Unified Framework for Automating Optimization Problem Solving",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "JxuFBB5OpD",
+          "title": "FEEL: Quantifying Heterogeneity in Physiological Signals for Generalizable Emotion Recognition",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "AgTASkryb6",
+          "title": "DCcluster-Opt: Benchmarking Dynamic Multi-Objective Optimization for Geo-Distributed Data Center Workloads",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "9KfkMAy2ut",
+          "title": "FailureSensorIQ: A Multi-Choice QA Dataset for Understanding Sensor Relationships and Failure Modes",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "6vI3OOYddm",
+          "title": "MolVision: Molecular Property Prediction with Vision Language Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "5YQAo0S3Hm",
+          "title": "PHANTOM: A Benchmark for Hallucination Detection in Financial Long-Context QA",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "4Ae8edNqm0",
+          "title": "The Leaderboard Illusion",
+          "isSpotlight": false,
+          "isOral": false
+        }
+      ]
+    },
+    "majority_focus_country_authors": {
+      "count": 29,
+      "papers": [
+        {
+          "id": "yl9LxRL5tj",
+          "title": "Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "yK4Xu7DDd6",
+          "title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "wlqoUpuQrv",
+          "title": "Sequential Attention-based Sampling for Histopathological Analysis",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "oVLNtTT2l4",
+          "title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "lDh9wSb9nP",
+          "title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "lClK4uBxSG",
+          "title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "klmc4fwPLd",
+          "title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "hwEhsFLPh1",
+          "title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "erwwuMhTJX",
+          "title": "Cyclic Counterfactuals under Shift–Scale Interventions",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "eafIjoZAHm",
+          "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+          "isSpotlight": false,
+          "isOral": true
+        },
+        {
+          "id": "cGmcHJEFnY",
+          "title": "BlockDecoder: Boosting ASR Decoders with Context and Merger Modules",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "YmbQ0qnQ76",
+          "title": "$O(\\sqrt{T})$ Static Regret and Instance Dependent Constraint Violation for Constrained Online Convex Optimization",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Y1UVWWWGKB",
+          "title": "Bandit Guided Submodular Curriculum for Adaptive Subset Selection",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "SXCjvhEQZO",
+          "title": "On Optimal Steering to Achieve Exact Fairness",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "PNU2mPauvd",
+          "title": "Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and Reliability",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Jj4NdJtXwp",
+          "title": "Geometry of Decision Making in Language Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "E6gwPtWjb1",
+          "title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "DI2AAFnLrc",
+          "title": "SegMASt3R: Geometry Grounded Segment Matching",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "BGwZsFLJFU",
+          "title": "Contextual Tokenization for Graph Inverted Indices",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "B4NT8TexNS",
+          "title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "A4JiifkTzq",
+          "title": "SPRO: Improving Image Generation via Self-Play",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7bCPXHq8xV",
+          "title": "Price of Parsimony: Complexity of Fourier Sparsity Testing",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7WgYEIOLdv",
+          "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7UbXEQNny7",
+          "title": "Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "qL8M2dOY4L",
+          "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "efGzsxVSEC",
+          "title": "SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "aqr5pyOQpf",
+          "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "VUz3Jcomsv",
+          "title": "AutoOpt: A Dataset and a Unified Framework for Automating Optimization Problem Solving",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "JxuFBB5OpD",
+          "title": "FEEL: Quantifying Heterogeneity in Physiological Signals for Generalizable Emotion Recognition",
+          "isSpotlight": false,
+          "isOral": false
+        }
+      ]
+    },
+    "first_focus_country_author": {
+      "count": 33,
+      "papers": [
+        {
+          "id": "yl9LxRL5tj",
+          "title": "Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "yK4Xu7DDd6",
+          "title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "wlqoUpuQrv",
+          "title": "Sequential Attention-based Sampling for Histopathological Analysis",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "tKPqbamNb9",
+          "title": "Does Thinking More Always Help? Mirage of Test-Time Scaling in Reasoning Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "oVLNtTT2l4",
+          "title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "lDh9wSb9nP",
+          "title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "lClK4uBxSG",
+          "title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "klmc4fwPLd",
+          "title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "erwwuMhTJX",
+          "title": "Cyclic Counterfactuals under Shift–Scale Interventions",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "eafIjoZAHm",
+          "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+          "isSpotlight": false,
+          "isOral": true
+        },
+        {
+          "id": "cGmcHJEFnY",
+          "title": "BlockDecoder: Boosting ASR Decoders with Context and Merger Modules",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "YmbQ0qnQ76",
+          "title": "$O(\\sqrt{T})$ Static Regret and Instance Dependent Constraint Violation for Constrained Online Convex Optimization",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Y1UVWWWGKB",
+          "title": "Bandit Guided Submodular Curriculum for Adaptive Subset Selection",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "SXCjvhEQZO",
+          "title": "On Optimal Steering to Achieve Exact Fairness",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "RSSk1SHxrH",
+          "title": "Monotone and Separable Set Functions: Characterizations and Neural Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "PNU2mPauvd",
+          "title": "Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and Reliability",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "Jj4NdJtXwp",
+          "title": "Geometry of Decision Making in Language Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "FZp6cheXt2",
+          "title": "Better Language Model Inversion by Compactly Representing Next-Token Distributions",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "E6gwPtWjb1",
+          "title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "DI2AAFnLrc",
+          "title": "SegMASt3R: Geometry Grounded Segment Matching",
+          "isSpotlight": true,
+          "isOral": false
+        },
+        {
+          "id": "BGwZsFLJFU",
+          "title": "Contextual Tokenization for Graph Inverted Indices",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "B4NT8TexNS",
+          "title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "A4JiifkTzq",
+          "title": "SPRO: Improving Image Generation via Self-Play",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7bCPXHq8xV",
+          "title": "Price of Parsimony: Complexity of Fourier Sparsity Testing",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "7WgYEIOLdv",
+          "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "0fBQAckQK3",
+          "title": "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "qL8M2dOY4L",
+          "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "efGzsxVSEC",
+          "title": "SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "aqr5pyOQpf",
+          "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "VUz3Jcomsv",
+          "title": "AutoOpt: A Dataset and a Unified Framework for Automating Optimization Problem Solving",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "JxuFBB5OpD",
+          "title": "FEEL: Quantifying Heterogeneity in Physiological Signals for Generalizable Emotion Recognition",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "6vI3OOYddm",
+          "title": "MolVision: Molecular Property Prediction with Vision Language Models",
+          "isSpotlight": false,
+          "isOral": false
+        },
+        {
+          "id": "4Ae8edNqm0",
+          "title": "The Leaderboard Illusion",
+          "isSpotlight": false,
+          "isOral": false
+        }
+      ]
+    },
+    "institutions": [
+      {
+        "institute": "IIT Bombay",
+        "total_paper_count": 10,
+        "unique_paper_count": 7,
+        "author_count": 18,
+        "spotlights": 2,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "lDh9wSb9nP",
+            "title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "7WgYEIOLdv",
+            "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "cGmcHJEFnY",
+            "title": "BlockDecoder: Boosting ASR Decoders with Context and Merger Modules",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "oVLNtTT2l4",
+            "title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "Emwu0jyOBg",
+            "title": "CAMILA: Context-Aware Masking for Image Editing with Language Alignment",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "Y1UVWWWGKB",
+            "title": "Bandit Guided Submodular Curriculum for Adaptive Subset Selection",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "a7hHwWnZey",
+            "title": "Fast Training of Large Kernel Models with Delayed Projections",
+            "isSpotlight": true,
+            "isOral": false
+          },
+          {
+            "id": "BGwZsFLJFU",
+            "title": "Contextual Tokenization for Graph Inverted Indices",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "W8xcKoJcrl",
+            "title": "Strategic Costs of Perceived Bias in Fair Selection",
+            "isSpotlight": true,
+            "isOral": false
+          },
+          {
+            "id": "PNU2mPauvd",
+            "title": "Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and Reliability",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "",
+          "Utkarsh U. Chavan",
+          "Gokul Rajaraman",
+          "Pritish Chakraborty",
+          "Atharv Kshirsagar",
+          "Debasish Chatterjee",
+          "Vaibhav Rathore",
+          "Milind Sohoni",
+          "Saral Sureka",
+          "Lokesh Reddy Polu",
+          "Divya Jyoti Bajpai",
+          "Biplab Banerjee",
+          "Darshan Prabhu",
+          "Indradyumna Roy",
+          "Manjesh Kumar Hanawal",
+          "Prayas Agrawal",
+          "Nandyala Hemachandra",
+          "Prateek Chanda"
+        ]
+      },
+      {
+        "institute": "IIT Kanpur",
+        "total_paper_count": 6,
+        "unique_paper_count": 1,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "7UbXEQNny7",
+            "title": "Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "F7BpMMN01x",
+            "title": "Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "hNh3V1DXs5",
+            "title": "On the Sample Complexity Bounds of Bilevel Reinforcement Learning",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "x6pqrvXgfY",
+            "title": "Distribution Learning Meets Graph Structure Sampling",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "Jj4NdJtXwp",
+            "title": "Geometry of Decision Making in Language Models",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "9I1XjEEtsh",
+            "title": "Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Sutanu Gayen",
+          "Abhinav Joshi",
+          "Utsav Singh",
+          "Washim Uddin Mondal",
+          "Ashutosh Modi"
+        ]
+      },
+      {
+        "institute": "IIIT Delhi",
+        "total_paper_count": 5,
+        "unique_paper_count": 3,
+        "author_count": 9,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "SXCjvhEQZO",
+            "title": "On Optimal Steering to Achieve Exact Fairness",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "JxuFBB5OpD",
+            "title": "FEEL: Quantifying Heterogeneity in Physiological Signals for Generalizable Emotion Recognition",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "1wmP48quNb",
+            "title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "gQ8kIhu8JA",
+            "title": "Model Selection for Off-policy Evaluation: New Algorithms and Experimental Protocol",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "A4JiifkTzq",
+            "title": "SPRO: Improving Image Generation via Self-Play",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "",
+          "Shivangi Agarwal",
+          "Md Shad Akhtar",
+          "Mohit Sharma",
+          "Pragya Singh",
+          "Abdullah Mazhar",
+          "Ankush Gupta",
+          "Somay Jalan",
+          "Ritika Jha"
+        ]
+      },
+      {
+        "institute": "IISc Bangalore",
+        "total_paper_count": 5,
+        "unique_paper_count": 4,
+        "author_count": 16,
+        "spotlights": 2,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "lClK4uBxSG",
+            "title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
+            "isSpotlight": true,
+            "isOral": false
+          },
+          {
+            "id": "SXCjvhEQZO",
+            "title": "On Optimal Steering to Achieve Exact Fairness",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "CRyOyiVvvJ",
+            "title": "Scalable Fingerprinting of Large Language Models",
+            "isSpotlight": true,
+            "isOral": false
+          },
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "wlqoUpuQrv",
+            "title": "Sequential Attention-based Sampling for Histopathological Analysis",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "",
+          "Savitha Murthy",
+          "Abhayjeet Singh",
+          "Naman Malpani",
+          "Tarun Gogisetty",
+          "Himanshu Tyagi",
+          "Saurabh Kumar",
+          "Amartyaveer",
+          "Jesuraj Bandekar",
+          "Amala Nagireddi",
+          "Sumit Sharma",
+          "Dhruva Kashyap",
+          "Pranav K Nayak",
+          "DEEKSHITHA G",
+          "Chiranjib Bhattacharyya",
+          "Prasanta Kumar Ghosh"
+        ]
+      },
+      {
+        "institute": "Hugging Face",
+        "total_paper_count": 3,
+        "unique_paper_count": 0,
+        "author_count": 4,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "DIELgiqdvJ",
+            "title": "The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "m7zEbdAMsh",
+            "title": "Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "USqNoPVhxx",
+            "title": "Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Elie Bakouch",
+          "Loubna Ben allal",
+          "Sayak Paul",
+          "Margaret Mitchell"
+        ]
+      },
+      {
+        "institute": "TIFR",
+        "total_paper_count": 3,
+        "unique_paper_count": 2,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "YmbQ0qnQ76",
+            "title": "$O(\\sqrt{T})$ Static Regret and Instance Dependent Constraint Violation for Constrained Online Convex Optimization",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "HXFvNkNt0n",
+            "title": "Geometry Aware Operator Transformer as an efficient and accurate neural surrogate for PDEs on arbitrary domains",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "yK4Xu7DDd6",
+            "title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Rahul Vaze",
+          "Abhishek Sinha",
+          "Praveen Chandrashekar"
+        ]
+      },
+      {
+        "institute": "IIT Delhi",
+        "total_paper_count": 3,
+        "unique_paper_count": 2,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 1,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "eafIjoZAHm",
+            "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+            "isSpotlight": false,
+            "isOral": true
+          },
+          {
+            "id": "klmc4fwPLd",
+            "title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "LuGevcG5IB",
+            "title": "Parameter-free Algorithms for the Stochastically Extended Adversarial Model",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "",
+          "Eshan Jain",
+          "Tanmoy Chakraborty",
+          "Burouj Armgaan",
+          "Ayan Sengupta"
+        ]
+      },
+      {
+        "institute": "Fujitsu",
+        "total_paper_count": 3,
+        "unique_paper_count": 2,
+        "author_count": 7,
+        "spotlights": 0,
+        "orals": 1,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "yl9LxRL5tj",
+            "title": "Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "eafIjoZAHm",
+            "title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
+            "isSpotlight": false,
+            "isOral": true
+          },
+          {
+            "id": "O880k3JoC8",
+            "title": "Mamba Only Glances Once (MOGO): A Lightweight Framework for Efficient Video Action Detection",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Nan Zhang",
+          "Harsh Pandey",
+          "Vempalli Naga Sai Saketh",
+          "Thummaluru Siddartha Reddy",
+          "Fangjun Wang",
+          "Mahesh Chandran",
+          "Kengo Murata"
+        ]
+      },
+      {
+        "institute": "Zaheer",
+        "total_paper_count": 2,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "unknown",
+        "papers": [
+          {
+            "id": "2VX79YLT9s",
+            "title": "Understanding Outer Optimizers in Local SGD: Learning Rates, Momentum, and Acceleration",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "dopfjQFr65",
+            "title": "Efficient Adaptive Federated Optimization",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Manzil Zaheer"
+        ]
+      },
+      {
+        "institute": "ISI",
+        "total_paper_count": 2,
+        "unique_paper_count": 2,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "erwwuMhTJX",
+            "title": "Cyclic Counterfactuals under Shift–Scale Interventions",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "7bCPXHq8xV",
+            "title": "Price of Parsimony: Complexity of Fourier Sparsity Testing",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "",
+          "Saptarshi Saha",
+          "Arijit Ghosh",
+          "Dhruv Vansraj Rathore",
+          "Manmatha Roy"
+        ]
+      },
+      {
+        "institute": "IIT Hyderabad",
+        "total_paper_count": 2,
+        "unique_paper_count": 1,
+        "author_count": 9,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "aqr5pyOQpf",
+            "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "hwEhsFLPh1",
+            "title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Saksham Mittal",
+          "Konda Reddy Mopuri",
+          "Swarnim Maheshwari",
+          "Krishn Vishwas Kher",
+          "Shanawaj S Madarkar",
+          "Harsh Udai",
+          "Gandla Dilip Raj",
+          "Adarsh Kasturi",
+          "Madhumitha Venkatesh"
+        ]
+      },
+      {
+        "institute": "BITS Goa Campus",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "0fBQAckQK3",
+            "title": "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Advik Raj Basani"
+        ]
+      },
+      {
+        "institute": "Zenteiq.ai",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "6vI3OOYddm",
+            "title": "MolVision: Molecular Property Prediction with Vision Language Models",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Deepan Adak"
+        ]
+      },
+      {
+        "institute": "University of Pune",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "9KfkMAy2ut",
+            "title": "FailureSensorIQ: A Multi-Choice QA Dataset for Understanding Sensor Relationships and Failure Modes",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Sunil Dagajirao Patil"
+        ]
+      },
+      {
+        "institute": "Robert Bosch Centre for Data Science and AI",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "B4NT8TexNS",
+            "title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Vishnu Vinod"
+        ]
+      },
+      {
+        "institute": "IIT Madras",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "B4NT8TexNS",
+            "title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Krishna Pillutla"
+        ]
+      },
+      {
+        "institute": "IIIT Hyderabad",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 3,
+        "spotlights": 1,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "DI2AAFnLrc",
+            "title": "SegMASt3R: Geometry Grounded Segment Matching",
+            "isSpotlight": true,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Rohit Jayanti",
+          "Madhava Krishna",
+          "Vansh Garg"
+        ]
+      },
+      {
+        "institute": "IIT Kharagpur",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "E6gwPtWjb1",
+            "title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "",
+          "Subhojyoti Khastagir",
+          "KISHALAY DAS"
+        ]
+      },
+      {
+        "institute": "Indo-Korea Science and Technology Center",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "E6gwPtWjb1",
+            "title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Seung-Cheol Lee"
+        ]
+      },
+      {
+        "institute": "Perfios Software Solutions",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "FZp6cheXt2",
+            "title": "Better Language Model Inversion by Compactly Representing Next-Token Distributions",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Murtaza Nazir"
+        ]
+      },
+      {
+        "institute": "ICTS",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 1,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "I822ZIRtms",
+            "title": "Characterizing control between interacting subsystems with deep Jacobian estimation",
+            "isSpotlight": true,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Sarthak Chandra"
+        ]
+      },
+      {
+        "institute": "IIT Ropar",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "KstkQi6e7q",
+            "title": "Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Adinath Madhavrao Dukre"
+        ]
+      },
+      {
+        "institute": "Jio Institute",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "KstkQi6e7q",
+            "title": "Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Sudipta Roy"
+        ]
+      },
+      {
+        "institute": "ANRF",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "QfKpJ00t2L",
+            "title": "Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Shivkumar Kalyanaraman"
+        ]
+      },
+      {
+        "institute": "IIM Ahmedabad",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 3,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "VUz3Jcomsv",
+            "title": "AutoOpt: A Dataset and a Unified Framework for Automating Optimization Problem Solving",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Shobhit Arora",
+          "Dhaval Pujara",
+          "Ankur Sinha"
+        ]
+      },
+      {
+        "institute": "Finsyth AI",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "Xx0cJGXU7n",
+            "title": "Non-rectangular Robust MDPs with Normed  Uncertainty Sets",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Adarsh Gupta"
+        ]
+      },
+      {
+        "institute": "JIPMER",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "ZONgHRsAbl",
+            "title": "SMMILE: An expert-driven benchmark for multimodal medical in-context learning",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Subathra Adithan"
+        ]
+      },
+      {
+        "institute": "S R Patil Medical College",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "aqr5pyOQpf",
+            "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Mahajabeen Madarkar"
+        ]
+      },
+      {
+        "institute": "S Nijalingappa Medical College",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "aqr5pyOQpf",
+            "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "TELI PRAKASH"
+        ]
+      },
+      {
+        "institute": "Sri Chamundeshwari Medical College",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "aqr5pyOQpf",
+            "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Vinaykumar MV"
+        ]
+      },
+      {
+        "institute": "Gokaraju Lailavathi Engineering College",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 2,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "aqr5pyOQpf",
+            "title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Kota Venkata Lakshmi Sathwika",
+          "Padharthi Venkata Naga Supranitha"
+        ]
+      },
+      {
+        "institute": "IIT Gandhinagar",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "efGzsxVSEC",
+            "title": "SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Shardul Junagade",
+          "Shataxi Dubey",
+          "Rishabh Mondal",
+          "Nipun Batra",
+          "Heer Kubadia"
+        ]
+      },
+      {
+        "institute": "IIIT Surat",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "efGzsxVSEC",
+            "title": "SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Jeet Parab"
+        ]
+      },
+      {
+        "institute": "IISER Pune",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "kLAwT8G3Q1",
+            "title": "The Parameterized Complexity of Computing the VC-Dimension",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Prafullkumar Tale"
+        ]
+      },
+      {
+        "institute": "HP",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 1,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "lClK4uBxSG",
+            "title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
+            "isSpotlight": true,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Chaitanya Murti"
+        ]
+      },
+      {
+        "institute": "UPES",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "lDh9wSb9nP",
+            "title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Prashant Trivedi"
+        ]
+      },
+      {
+        "institute": "Navana Tech",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 5,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Srinivasa Raghavan K M",
+          "Raoul Nanavati",
+          "Rohan Saxena",
+          "Janani Sridharan",
+          "Karthika P"
+        ]
+      },
+      {
+        "institute": "HireGit",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Arjun Mehta"
+        ]
+      },
+      {
+        "institute": "HiFX IT & Media Services",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Ashish Khuraishi K S"
+        ]
+      },
+      {
+        "institute": "Turing",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Prashanthi Venkataramakrishnan"
+        ]
+      },
+      {
+        "institute": "TransPerfect",
+        "total_paper_count": 1,
+        "unique_paper_count": 1,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "qL8M2dOY4L",
+            "title": "RESPIN-S1.0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Gauri Date"
+        ]
+      },
+      {
+        "institute": "Heritage Institute of Technology",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "yG4Fj0voJZ",
+            "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Akash Kundu"
+        ]
+      },
+      {
+        "institute": "Aivar",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "corporate",
+        "papers": [
+          {
+            "id": "yG4Fj0voJZ",
+            "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Ram Mohan Rao Kadiyala"
+        ]
+      },
+      {
+        "institute": "IIT Roorkee",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "yG4Fj0voJZ",
+            "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Siddhant Gupta"
+        ]
+      },
+      {
+        "institute": "Vellore Institute of Technology",
+        "total_paper_count": 1,
+        "unique_paper_count": 0,
+        "author_count": 1,
+        "spotlights": 0,
+        "orals": 0,
+        "type": "academic",
+        "papers": [
+          {
+            "id": "yG4Fj0voJZ",
+            "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+            "isSpotlight": false,
+            "isOral": false
+          }
+        ],
+        "authors": [
+          "Chetan Talele"
+        ]
+      }
+    ]
   },
-  "topInstitutions": [
-    {
-      "institution": "Indian Institute of Technology, Kanpur",
-      "paper_count": 6,
-      "author_count": 6,
-      "spotlights": 0,
-      "orals": 0
+  "configuration": {
+    "countryMap": {
+      "AF": "Afghanistan",
+      "AX": "Aland Islands",
+      "AL": "Albania",
+      "DZ": "Algeria",
+      "AS": "American Samoa",
+      "AD": "Andorra",
+      "AO": "Angola",
+      "AI": "Anguilla",
+      "AQ": "Antarctica",
+      "AG": "Antigua And Barbuda",
+      "AR": "Argentina",
+      "AM": "Armenia",
+      "AW": "Aruba",
+      "AU": "Australia",
+      "AT": "Austria",
+      "AZ": "Azerbaijan",
+      "BS": "Bahamas",
+      "BH": "Bahrain",
+      "BD": "Bangladesh",
+      "BB": "Barbados",
+      "BY": "Belarus",
+      "BE": "Belgium",
+      "BZ": "Belize",
+      "BJ": "Benin",
+      "BM": "Bermuda",
+      "BT": "Bhutan",
+      "BO": "Bolivia",
+      "BA": "Bosnia And Herzegovina",
+      "BW": "Botswana",
+      "BV": "Bouvet Island",
+      "BR": "Brazil",
+      "IO": "British Indian Ocean Territory",
+      "BN": "Brunei Darussalam",
+      "BG": "Bulgaria",
+      "BF": "Burkina Faso",
+      "BI": "Burundi",
+      "KH": "Cambodia",
+      "CM": "Cameroon",
+      "CA": "Canada",
+      "CV": "Cape Verde",
+      "KY": "Cayman Islands",
+      "CF": "Central African Republic",
+      "TD": "Chad",
+      "CL": "Chile",
+      "CN": "China",
+      "CX": "Christmas Island",
+      "CC": "Cocos (Keeling) Islands",
+      "CO": "Colombia",
+      "KM": "Comoros",
+      "CG": "Congo",
+      "CD": "Congo, Democratic Republic",
+      "CK": "Cook Islands",
+      "CR": "Costa Rica",
+      "CI": "Cote D\"Ivoire",
+      "HR": "Croatia",
+      "CU": "Cuba",
+      "CY": "Cyprus",
+      "CZ": "Czech Republic",
+      "DK": "Denmark",
+      "DJ": "Djibouti",
+      "DM": "Dominica",
+      "DO": "Dominican Republic",
+      "EC": "Ecuador",
+      "EG": "Egypt",
+      "SV": "El Salvador",
+      "GQ": "Equatorial Guinea",
+      "ER": "Eritrea",
+      "EE": "Estonia",
+      "ET": "Ethiopia",
+      "FK": "Falkland Islands (Malvinas)",
+      "FO": "Faroe Islands",
+      "FJ": "Fiji",
+      "FI": "Finland",
+      "FR": "France",
+      "GF": "French Guiana",
+      "PF": "French Polynesia",
+      "TF": "French Southern Territories",
+      "GA": "Gabon",
+      "GM": "Gambia",
+      "GE": "Georgia",
+      "DE": "Germany",
+      "GH": "Ghana",
+      "GI": "Gibraltar",
+      "GR": "Greece",
+      "GL": "Greenland",
+      "GD": "Grenada",
+      "GP": "Guadeloupe",
+      "GU": "Guam",
+      "GT": "Guatemala",
+      "GG": "Guernsey",
+      "GN": "Guinea",
+      "GW": "Guinea-Bissau",
+      "GY": "Guyana",
+      "HT": "Haiti",
+      "HM": "Heard Island & Mcdonald Islands",
+      "VA": "Holy See (Vatican City State)",
+      "HN": "Honduras",
+      "HK": "Hong Kong",
+      "HU": "Hungary",
+      "IS": "Iceland",
+      "IN": "India",
+      "ID": "Indonesia",
+      "IR": "Iran, Islamic Republic Of",
+      "IQ": "Iraq",
+      "IE": "Ireland",
+      "IM": "Isle Of Man",
+      "IL": "Israel",
+      "IT": "Italy",
+      "JM": "Jamaica",
+      "JP": "Japan",
+      "JE": "Jersey",
+      "JO": "Jordan",
+      "KZ": "Kazakhstan",
+      "KE": "Kenya",
+      "KI": "Kiribati",
+      "KR": "South Korea",
+      "KP": "North Korea",
+      "KW": "Kuwait",
+      "KG": "Kyrgyzstan",
+      "LA": "Lao People\"s Democratic Republic",
+      "LV": "Latvia",
+      "LB": "Lebanon",
+      "LS": "Lesotho",
+      "LR": "Liberia",
+      "LY": "Libyan Arab Jamahiriya",
+      "LI": "Liechtenstein",
+      "LT": "Lithuania",
+      "LU": "Luxembourg",
+      "MO": "Macao",
+      "MK": "Macedonia",
+      "MG": "Madagascar",
+      "MW": "Malawi",
+      "MY": "Malaysia",
+      "MV": "Maldives",
+      "ML": "Mali",
+      "MT": "Malta",
+      "MH": "Marshall Islands",
+      "MQ": "Martinique",
+      "MR": "Mauritania",
+      "MU": "Mauritius",
+      "YT": "Mayotte",
+      "MX": "Mexico",
+      "FM": "Micronesia, Federated States Of",
+      "MD": "Moldova",
+      "MC": "Monaco",
+      "MN": "Mongolia",
+      "ME": "Montenegro",
+      "MS": "Montserrat",
+      "MA": "Morocco",
+      "MZ": "Mozambique",
+      "MM": "Myanmar",
+      "NA": "Namibia",
+      "NR": "Nauru",
+      "NP": "Nepal",
+      "NL": "Netherlands",
+      "AN": "Netherlands Antilles",
+      "NC": "New Caledonia",
+      "NZ": "New Zealand",
+      "NI": "Nicaragua",
+      "NE": "Niger",
+      "NG": "Nigeria",
+      "NU": "Niue",
+      "NF": "Norfolk Island",
+      "MP": "Northern Mariana Islands",
+      "NO": "Norway",
+      "OM": "Oman",
+      "PK": "Pakistan",
+      "PW": "Palau",
+      "PS": "Palestinian Territory, Occupied",
+      "PA": "Panama",
+      "PG": "Papua New Guinea",
+      "PY": "Paraguay",
+      "PE": "Peru",
+      "PH": "Philippines",
+      "PN": "Pitcairn",
+      "PL": "Poland",
+      "PT": "Portugal",
+      "PR": "Puerto Rico",
+      "QA": "Qatar",
+      "RE": "Reunion",
+      "RO": "Romania",
+      "RU": "Russian Federation",
+      "RW": "Rwanda",
+      "BL": "Saint Barthelemy",
+      "SH": "Saint Helena",
+      "KN": "Saint Kitts And Nevis",
+      "LC": "Saint Lucia",
+      "MF": "Saint Martin",
+      "PM": "Saint Pierre And Miquelon",
+      "VC": "Saint Vincent And Grenadines",
+      "WS": "Samoa",
+      "SM": "San Marino",
+      "ST": "Sao Tome And Principe",
+      "SA": "Saudi Arabia",
+      "SN": "Senegal",
+      "RS": "Serbia",
+      "SC": "Seychelles",
+      "SL": "Sierra Leone",
+      "SG": "Singapore",
+      "SK": "Slovakia",
+      "SI": "Slovenia",
+      "SB": "Solomon Islands",
+      "SO": "Somalia",
+      "ZA": "South Africa",
+      "GS": "South Georgia And Sandwich Isl.",
+      "ES": "Spain",
+      "LK": "Sri Lanka",
+      "SD": "Sudan",
+      "SR": "Suriname",
+      "SJ": "Svalbard And Jan Mayen",
+      "SZ": "Swaziland",
+      "SE": "Sweden",
+      "CH": "Switzerland",
+      "SY": "Syrian Arab Republic",
+      "TW": "Taiwan",
+      "TJ": "Tajikistan",
+      "TZ": "Tanzania",
+      "TH": "Thailand",
+      "TL": "Timor-Leste",
+      "TG": "Togo",
+      "TK": "Tokelau",
+      "TO": "Tonga",
+      "TT": "Trinidad And Tobago",
+      "TN": "Tunisia",
+      "TR": "Turkey",
+      "TM": "Turkmenistan",
+      "TC": "Turks And Caicos Islands",
+      "TV": "Tuvalu",
+      "UG": "Uganda",
+      "UA": "Ukraine",
+      "AE": "United Arab Emirates",
+      "GB": "United Kingdom",
+      "US": "United States",
+      "UM": "United States Outlying Islands",
+      "UY": "Uruguay",
+      "UZ": "Uzbekistan",
+      "VU": "Vanuatu",
+      "VE": "Venezuela",
+      "VN": "Vietnam",
+      "VG": "Virgin Islands, British",
+      "VI": "Virgin Islands, U.S.",
+      "WF": "Wallis And Futuna",
+      "EH": "Western Sahara",
+      "YE": "Yemen",
+      "ZM": "Zambia",
+      "ZW": "Zimbabwe",
+      "UK": "United Kingdom",
+      "UNK": "Unknown"
     },
-    {
-      "institution": "Indraprastha Institute of Information Technology, Delhi",
-      "paper_count": 4,
-      "author_count": 7,
-      "spotlights": 0,
-      "orals": 0
+    "apacCountries": [
+      "CN",
+      "IN",
+      "JP",
+      "KR",
+      "AU",
+      "SG",
+      "MY",
+      "TH",
+      "VN",
+      "ID"
+    ],
+    "colorScheme": {
+      "us": "hsl(221, 83%, 53%)",
+      "cn": "hsl(0, 84%, 60%)",
+      "focusCountry": "hsl(36, 96%, 50%)",
+      "primary": "hsl(var(--primary))",
+      "secondary": "hsl(var(--secondary-foreground))",
+      "academic": "hsl(221, 83%, 53%)",
+      "corporate": "hsl(330, 80%, 60%)",
+      "rest": "hsl(330, 60%, 30%)",
+      "spotlight": "hsl(48, 96%, 50%)",
+      "oral": "hsl(142, 71%, 45%)",
+      "papers": "hsl(200, 65%, 50%)",
+      "authors": "hsl(280, 55%, 55%)",
+      "US": "hsl(221, 83%, 53%)",
+      "CN": "hsl(0, 84%, 60%)",
+      "GB": "hsl(120, 70%, 45%)",
+      "HK": "hsl(300, 75%, 50%)",
+      "SG": "hsl(180, 80%, 50%)",
+      "CA": "hsl(15, 85%, 55%)",
+      "DE": "hsl(45, 90%, 50%)",
+      "KR": "hsl(270, 75%, 50%)",
+      "FR": "hsl(240, 80%, 55%)",
+      "CH": "hsl(135, 70%, 45%)",
+      "UK": "hsl(90, 65%, 50%)",
+      "AU": "hsl(315, 80%, 55%)",
+      "JP": "hsl(195, 85%, 50%)",
+      "UNK": "hsl(0, 0%, 60%)",
+      "IL": "hsl(210, 75%, 50%)",
+      "IT": "hsl(105, 70%, 50%)",
+      "NL": "hsl(255, 80%, 55%)",
+      "AE": "hsl(30, 85%, 55%)",
+      "TW": "hsl(165, 75%, 50%)",
+      "AI": "hsl(285, 80%, 55%)",
+      "IN": "hsl(36, 96%, 50%)",
+      "AT": "hsl(60, 85%, 50%)",
+      "RU": "hsl(330, 75%, 50%)",
+      "DK": "hsl(225, 80%, 55%)",
+      "SE": "hsl(75, 70%, 50%)",
+      "SA": "hsl(345, 85%, 55%)",
+      "BE": "hsl(150, 75%, 50%)",
+      "ES": "hsl(300, 70%, 50%)",
+      "FI": "hsl(120, 80%, 45%)",
+      "MO": "hsl(270, 85%, 55%)",
+      "GR": "hsl(195, 75%, 50%)",
+      "VN": "hsl(45, 80%, 55%)",
+      "BR": "hsl(105, 85%, 50%)",
+      "PL": "hsl(315, 75%, 50%)",
+      "CZ": "hsl(165, 80%, 50%)",
+      "NO": "hsl(240, 75%, 55%)",
+      "CL": "hsl(285, 70%, 50%)",
+      "TR": "hsl(15, 80%, 55%)",
+      "PT": "hsl(135, 75%, 50%)",
+      "EU": "hsl(210, 85%, 50%)",
+      "BG": "hsl(75, 80%, 50%)",
+      "LU": "hsl(330, 80%, 55%)",
+      "IR": "hsl(180, 75%, 50%)",
+      "NZ": "hsl(255, 85%, 55%)",
+      "PH": "hsl(60, 75%, 50%)",
+      "ZW": "hsl(120, 70%, 50%)",
+      "IE": "hsl(345, 80%, 55%)",
+      "CX": "hsl(195, 80%, 50%)",
+      "MY": "hsl(270, 75%, 55%)",
+      "CO": "hsl(30, 80%, 55%)",
+      "KP": "hsl(150, 80%, 50%)",
+      "SI": "hsl(285, 75%, 50%)",
+      "AC": "hsl(45, 85%, 55%)",
+      "TH": "hsl(105, 80%, 50%)",
+      "RE": "hsl(315, 85%, 55%)",
+      "UY": "hsl(165, 75%, 50%)",
+      "AM": "hsl(240, 80%, 55%)",
+      "IO": "hsl(75, 85%, 50%)",
+      "CY": "hsl(330, 75%, 50%)",
+      "TD": "hsl(195, 75%, 55%)",
+      "NA": "hsl(255, 80%, 50%)",
+      "HR": "hsl(60, 80%, 55%)",
+      "EG": "hsl(120, 85%, 45%)"
     },
-    {
-      "institution": "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
-      "paper_count": 4,
-      "author_count": 7,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology Bombay",
-      "paper_count": 4,
-      "author_count": 6,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Science",
-      "paper_count": 4,
-      "author_count": 11,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Science, Indian institute of science, Bangalore",
-      "paper_count": 4,
-      "author_count": 6,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology, Bombay",
-      "paper_count": 4,
-      "author_count": 4,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Google",
-      "paper_count": 3,
-      "author_count": 3,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Tata Institute of Fundamental Research",
-      "paper_count": 3,
-      "author_count": 3,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Zaheer",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "IIT Kanpur",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology",
-      "paper_count": 2,
-      "author_count": 3,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Statistical Institute",
-      "paper_count": 2,
-      "author_count": 3,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Statistical Institute, Kolkata",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Adobe Systems",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology Bombay,",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Adobe Research",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Microsoft",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Tata Institute of Fundamental Research, Mumbai",
-      "paper_count": 2,
-      "author_count": 2,
-      "spotlights": 0,
-      "orals": 0
-    },
-    {
-      "institution": "Indian Institute of Technology, Delhi",
-      "paper_count": 2,
-      "author_count": 3,
-      "spotlights": 0,
-      "orals": 0
+    "dashboardTitle": "India @ NeurIPS 2025",
+    "dashboardSubtitle": "India's Contributions, Global Context & Institutional Landscape",
+    "sections": {
+      "summary": {
+        "title": "Executive Summary: Impact at a Glance",
+        "insights": [
+          "India's ML researchers are making their mark with 71 papers at NeurIPS 2025, including 7 spotlight and 1 oral presentations that demonstrate the quality of research.",
+          "Positioned globally, India contributes 1.2% to the body of work at NeurIPS 2025.",
+          "Analysis of 33 first authorship and 29 majority authorship collaborations reveals trends in research leadership and international collaboration.",
+          "The India ML research landscape shows a mix of 32 academic and 12 corporate contributions, with leading institutions demonstrating significant research impact."
+        ]
+      },
+      "context": {
+        "title": "Global & APAC Context: India's Standing",
+        "subtitle": "Comparing India's research output with global and regional peers.",
+        "insights": [
+          "The top 5 contributing countries were: United States, China, GB, HK, SG."
+        ]
+      },
+      "focusCountry": {
+        "title": "India Deep Dive",
+        "subtitle": "Analyzing authorship, collaboration, and institutional contributions.",
+        "insights": [
+          "India had 167 unique authors contributing to NeurIPS 2025.",
+          "33 papers had a first author from India.",
+          "29 papers had a majority of authors from India."
+        ]
+      },
+      "institutions": {
+        "title": "Institutions: Internal Ecosystem",
+        "subtitle": "Analyzing the performance and impact of individual institutions within India.",
+        "insights": [
+          "IIT Bombay was the top contributing institution from India with 10 papers.",
+          "India had 32 academic and 12 corporate institutions contributing to NeurIPS 2025."
+        ]
+      }
     }
-  ],
-  "note": "spotlights and orals data not available for NeurIPS 2025"
+  },
+  "credits": [
+    {
+      "name": "Sohan",
+      "link": "https://x.com/HiSohan"
+    },
+    {
+      "name": "Paras",
+      "link": "https://x.com/paraschopra"
+    }
+  ]
 }
