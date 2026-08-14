@@ -1,28 +1,106 @@
 import json
 import os
 import sys
+import tempfile
 from io import BytesIO
+from pathlib import Path
 import requests
+import openreview
 import pymupdf4llm
 import openai
 from dotenv import load_dotenv
 import time
 from tqdm import tqdm
 
-# Load environment variables
+# Load environment variables. Load the package-local .env as well as any .env in
+# the current working directory, so the script works regardless of where it is
+# invoked from (matches base_adapter.py and db_config.py).
+load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 load_dotenv()
 
-# Set up OpenAI client with OpenRouter
-client = openai.OpenAI(
-    api_key=os.environ.get("OPENROUTER_API_KEY", "sk-or-v1-..."),
-    base_url="https://openrouter.ai/api/v1",
-)
+PLACEHOLDER_API_KEY = "sk-or-v1-..."
+
+
+def get_openrouter_key():
+    """Return the OpenRouter API key, or None if it is missing or a placeholder."""
+    key = os.environ.get("OPENROUTER_API_KEY")
+    if not key or key == PLACEHOLDER_API_KEY:
+        return None
+    return key
+
+
+# Set up OpenAI client with OpenRouter. Built lazily so that importing this
+# module (or reusing its download helpers) does not require an API key.
+_client = None
+
+
+def get_client():
+    global _client
+    if _client is None:
+        _client = openai.OpenAI(
+            api_key=get_openrouter_key() or PLACEHOLDER_API_KEY,
+            base_url="https://openrouter.ai/api/v1",
+        )
+    return _client
+
 
 # Function to download PDF
-def download_pdf(pdf_url):
-    """Download the PDF from the given URL."""
+_openreview_client = None
+
+
+def get_openreview_client():
+    """Return a cached, authenticated OpenReview client.
+
+    OpenReview returns HTTP 403 ("Access to this page is restricted") for
+    anonymous PDF requests, so downloading requires a logged-in client.
+    Returns None if credentials are absent or login fails, in which case the
+    caller falls back to an unauthenticated request.
+    """
+    global _openreview_client
+    if _openreview_client is not None:
+        return _openreview_client or None
+
+    username = os.environ.get("OPENREVIEW_USERNAME")
+    password = os.environ.get("OPENREVIEW_PASSWORD")
+    if not username or not password:
+        print(
+            "Warning: OPENREVIEW_USERNAME/OPENREVIEW_PASSWORD are not set. "
+            "OpenReview denies anonymous PDF downloads, so summaries will be skipped."
+        )
+        _openreview_client = False
+        return None
+
     try:
-        response = requests.get(pdf_url, timeout=30)
+        _openreview_client = openreview.api.OpenReviewClient(
+            baseurl="https://api2.openreview.net",
+            username=username,
+            password=password,
+        )
+    except Exception as e:
+        print(f"Error authenticating to OpenReview: {e}")
+        _openreview_client = False
+        return None
+
+    return _openreview_client
+
+
+def download_pdf(pdf_url, paper_id=None):
+    """Download the PDF for a paper, authenticating to OpenReview when possible."""
+    client = get_openreview_client()
+
+    # Preferred path: ask OpenReview for the attachment directly.
+    if client is not None and paper_id:
+        try:
+            return BytesIO(client.get_attachment(id=paper_id, field_name="pdf"))
+        except Exception as e:
+            print(f"Could not fetch attachment for {paper_id} ({e}); falling back to URL.")
+
+    headers = {}
+    if client is not None and getattr(client, "token", None):
+        headers["Authorization"] = f"Bearer {client.token.replace('Bearer ', '')}"
+
+    try:
+        response = requests.get(pdf_url, headers=headers, timeout=60)
         response.raise_for_status()
         return BytesIO(response.content)
     except requests.exceptions.RequestException as e:
@@ -58,7 +136,7 @@ def summarize_paper_goal(text):
         return "No text available for summarization."
     
     try:
-        response = client.chat.completions.create(
+        response = get_client().chat.completions.create(
             model="google/gemini-flash-1.5-8b",  # Change this to your desired model if needed
             messages=[
                 {"role": "system", "content": "You are extremely efficient and formal at writing summaries from papers. You try to write summaries intended to be read by an audience on a webpage."},
@@ -95,7 +173,7 @@ def process_venue_file(file_path, tracker_dir):
         pdf_url = paper["pdf_url"]
         
         # Step 1: Download the PDF
-        pdf_stream = download_pdf(pdf_url)
+        pdf_stream = download_pdf(pdf_url, paper.get("paper_id"))
         if pdf_stream is None:
             print(f"Skipping paper due to download failure: {paper['paper_title']}")
             continue
@@ -131,26 +209,43 @@ def process_venue_file(file_path, tracker_dir):
     return updated_count
 
 def main():
+    # Fail fast rather than downloading every PDF and then failing on each
+    # summarization call with an unusable key.
+    if get_openrouter_key() is None:
+        print(
+            "OPENROUTER_API_KEY is not set (or is still the placeholder value).\n"
+            "Set it in indiaml/indiaml/.env or export it, then re-run."
+        )
+        return 1
+
+    if get_openreview_client() is None:
+        print(
+            "Cannot authenticate to OpenReview. OpenReview refuses anonymous PDF\n"
+            "downloads (HTTP 403), so no summaries could be generated. Set\n"
+            "OPENREVIEW_USERNAME and OPENREVIEW_PASSWORD in indiaml/indiaml/.env."
+        )
+        return 1
+
     # Set tracker directory from CLI args or use default
     tracker_dir = sys.argv[1] if len(sys.argv) > 1 else "../ui/indiaml-tracker/public/tracker"
     
     # Ensure the tracker directory exists
     if not os.path.exists(tracker_dir):
         print(f"Tracker directory not found: {tracker_dir}")
-        return
+        return 1
     
     # Read the index.json file
     index_path = os.path.join(tracker_dir, "index.json")
     if not os.path.exists(index_path):
         print(f"Index file not found: {index_path}")
-        return
+        return 1
     
     try:
         with open(index_path, "r") as index_file:
             index_data = json.load(index_file)
     except Exception as e:
         print(f"Error reading index file: {e}")
-        return
+        return 1
     
     print(f"Found {len(index_data)} venue-year entries in the index")
     
@@ -169,7 +264,7 @@ def main():
         total_updated += updated
     
     print(f"\nSummary generation complete. Added summaries to {total_updated} papers across all venues.")
+    return 0
 
 if __name__ == "__main__":
-    import tempfile  # Import here to avoid namespace issues
-    main()
+    sys.exit(main() or 0)
