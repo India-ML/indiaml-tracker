@@ -1,34 +1,37 @@
-import React from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import React from "react";
+import { motion } from "framer-motion";
 import {
-  FaGithub,
-  FaChartLine,
-  FaUniversity,
-  FaIndustry,
-  FaMicroscope,
-  FaRobot,
-} from 'react-icons/fa';
+  FaTwitter,
+  FaHandshake,
+  FaLightbulb,
+  FaGlobeAsia,
+  FaCode,
+} from "react-icons/fa";
+import Tweet from "./Tweet";
 
-// Animation Variants
-const fadeInUp = {
+// Animation variants
+const containerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.3,
+      delayChildren: 0.2,
+    },
+  },
+};
+
+const itemVariants = {
   hidden: { opacity: 0, y: 20 },
   visible: {
     opacity: 1,
     y: 0,
-    transition: { duration: 0.6 },
+    transition: { duration: 0.5 },
   },
 };
 
-const fadeIn = {
-  hidden: { opacity: 0 },
-  visible: {
-    opacity: 1,
-    transition: { duration: 0.6 },
-  },
-};
-
-const timelineItemVariants = {
-  hidden: { opacity: 0, x: -20 },
+const storyCardVariants = {
+  hidden: { opacity: 0, x: -30 },
   visible: (i) => ({
     opacity: 1,
     x: 0,
@@ -36,240 +39,207 @@ const timelineItemVariants = {
   }),
 };
 
-// Key Highlights Data (for horizontal cards)
-const highlightsData = [
+// Story milestones
+const storyMilestones = [
   {
-    icon: <FaChartLine className="text-4xl text-indigo-400 mb-4" />,
-    title: "Huge Economic Impact",
-    description:
-      "AI is projected to add USD 967 billion to India's economy by 2035, reshaping industries and job markets.",
+    icon: <FaTwitter className="text-blue-400 text-2xl" />,
+    title: "The Tweet That Started It All",
+    content:
+      "Paras Chopra, Founder of Lossfunk, tweeted asking if anyone was interested in building a platform to track India's contributions to machine learning.",
   },
   {
-    icon: <FaRobot className="text-4xl text-indigo-400 mb-4" />,
-    title: "Rapid Adoption",
-    description:
-      "From healthcare to agriculture, machine learning solutions are transforming traditional practices.",
+    icon: <FaCode className="text-green-400 text-2xl" />,
+    title: "From Idea to Reality",
+    content:
+      "Sohan Basak, Loves tech and tinkering, building tech, responded to the challenge and quickly built the first version of the tracker.",
   },
   {
-    icon: <FaMicroscope className="text-4xl text-indigo-400 mb-4" />,
-    title: "Cutting-Edge Research",
-    description:
-      "Indian institutes and companies are publishing impactful papers and patents, contributing to global AI knowledge.",
+    icon: <FaHandshake className="text-yellow-400 text-2xl" />,
+    title: "Collaboration Begins",
+    content:
+      "After Paras retweeted the project, they exchanged contacts and formed a partnership to develop the platform further.",
   },
   {
-    icon: <FaIndustry className="text-4xl text-indigo-400 mb-4" />,
-    title: "Vibrant Startup Scene",
-    description:
-      "India's thriving AI startup ecosystem addresses diverse challenges, from language processing to supply-chain.",
-  },
-];
-
-// Expanded Timeline Data
-const timelineData = [
-  {
-    year: "1960s–1980s",
-    title: "Foundations & Early Institutions",
-    description:
-      "Development of TIFRAC laid groundwork in computing. IISc & early CS programs shaped AI research culture.",
-  },
-  {
-    year: "1990s",
-    title: "Growth & Acceleration",
-    description:
-      "Optical Character Recognition projects and Knowledge Based Systems signaled India's ML momentum.",
-  },
-  {
-    year: "2001",
-    title: "Big Data & Bioinformatics",
-    description:
-      "The Human Genome Project spurred breakthroughs in bioinformatics, leveraging India's IT expertise.",
-  },
-  {
-    year: "2019",
-    title: "Healthcare Innovations",
-    description:
-      "AI-driven screening for diabetic retinopathy at Madurai hospital showed real-world social impact.",
-  },
-  {
-    year: "Present",
-    title: "Global Leadership",
-    description:
-      "Indian startups, researchers, and government policies are shaping AI's future on the world stage.",
+    icon: <FaGlobeAsia className="text-purple-400 text-2xl" />,
+    title: "Focused on Local Innovation",
+    content:
+      "The team decided to specifically track ML research conducted within India, highlighting domestic innovation rather than diaspora contributions.",
   },
 ];
 
-// Sample Institutions (Cards Section)
-const institutionsData = [
-  {
-    icon: <FaUniversity className="text-indigo-400 text-3xl mb-4" />,
-    name: "Indian Institutes of Technology",
-    description:
-      "IITs across India house cutting-edge AI labs, training future ML experts and driving groundbreaking research.",
-  },
-  {
-    icon: <FaUniversity className="text-indigo-400 text-3xl mb-4" />,
-    name: "Indian Institute of Science (IISc)",
-    description:
-      "A premier research hub pushing boundaries in AI, data science, and computational biology.",
-  },
-  {
-    icon: <FaUniversity className="text-indigo-400 text-3xl mb-4" />,
-    name: "Google Research India",
-    description:
-      "Focusing on ML, computer vision, and NLP, with a diverse team tackling real-world problems.",
-  },
-  {
-    icon: <FaUniversity className="text-indigo-400 text-3xl mb-4" />,
-    name: "Microsoft Research India",
-    description:
-      "Innovations in AI for healthcare, agriculture, and accessibility, exemplifying social good.",
-  },
-];
-
-const MLPresentation = () => {
+const AboutUs = () => {
   return (
-    <section className="bg-gray-900 text-gray-200">
-      {/* GitHub Link at Top */}
+    <section className="dark:bg-gray-900 py-16 px-4">
       <motion.div
-        className="py-3 bg-gray-800 text-center"
-        variants={fadeIn}
-        initial="hidden"
-        animate="visible"
-      >
-        <a
-          href="https://github.com/lossfunk/indiaml-tracker/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md bg-indigo-600 hover:bg-indigo-500 transition-colors"
-        >
-          <FaGithub className="mr-2" />
-          View Research Data & Pipelines on GitHub
-        </a>
-        <p className="text-xs text-gray-400 mt-1">
-          Explore data pipelines and research materials for India's ML landscape
-        </p>
-      </motion.div>
-
-      {/* Hero / Intro Section */}
-      <motion.div
-        className="max-w-5xl mx-auto py-16 px-4 text-center"
-        variants={fadeInUp}
-        initial="hidden"
-        animate="visible"
-      >
-        <h1 className="text-4xl font-bold text-white">
-          India's Rise in Machine Learning
-        </h1>
-        <p className="mt-4 text-lg text-gray-400 max-w-3xl mx-auto">
-          Machine learning (ML) is rapidly transforming our world, with India
-          emerging as a key contributor to this technological revolution. From
-          pioneering research in the 1960s to cutting-edge innovations today,
-          India's AI journey is poised to shape the global future.
-        </p>
-      </motion.div>
-
-      {/* Horizontal Cards (previously Carousel) */}
-      <motion.div
-        className="max-w-6xl mx-auto px-4 py-8"
-        variants={fadeInUp}
+        className="max-w-5xl mx-auto"
+        variants={containerVariants}
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true }}
       >
-        <h2 className="text-2xl font-bold text-indigo-400 mb-8 text-center">
-          Key Highlights
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {highlightsData.map((item, index) => (
-            <motion.div
-              key={index}
-              className="bg-gray-800 rounded-lg p-6 flex flex-col items-center text-center h-full"
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: index * 0.1 }}
-              viewport={{ once: true }}
+        {/* Intro Section Header */}
+        <motion.div className="text-left mb-16 px-16" variants={itemVariants}>
+          <FaLightbulb className="text-yellow-400 text-4xl inline-block -ml-16 mb-4" />
+          <h2 className="text-3xl font-bold text-gray-900 inline-block ml-8 dark:text-white mb-4">
+            Why India@ML?
+          </h2>
+          <div className="w-24 h-1 bg-indigo-500  mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl ">
+            India@ML is envisioned as an initiative focused on understanding
+            India's contribution to the global ML landscape and working as a
+            catalyst to make us a dominant force globally. The idea is simple:
+            we cannot change what we cannot measure. By tracking and showcasing
+            research output from India, we aim to identify trends, gaps, and
+            opportunities so India can truly drive innovation in this AI centric
+            world.
+          </p>
+        </motion.div>
+
+        {/* Team Section Header */}
+        <motion.div className="text-left mb-16 px-16 relative" variants={itemVariants}>
+            <FaLightbulb className="text-yellow-400 inline-block relative -ml-16 text-4xl" />
+          <h2 className="text-3xl inline-block font-bold text-gray-900 ml-8 dark:text-white mb-4">
+            Meet The Team
+          </h2>
+          <div className="w-24 h-1 bg-indigo-500 mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl">
+            We are{" "}
+            <a
+              href="https://www.linkedin.com/in/sohanbasak"
+              className="text-blue-400 ml-1"
             >
-              {item.icon}
-              <h3 className="text-xl font-semibold mb-2">
-                {item.title}
-              </h3>
-              <p className="text-gray-400">
-                {item.description}
-              </p>
-            </motion.div>
-          ))}
+              Sohan Bask
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.linkedin.com/in/dhanshreea/"
+              className="text-blue-400 ml-1"
+            >
+              Dhanshree Arora
+            </a>
+            , two freinds and engineering nerds, who are passionate about
+            bringing <b>meaningful</b> and <b>measurable</b> change to the
+            Indian machine learning research ecosystem.
+          </p>
+        </motion.div>
+
+        {/* History Section Header */}
+        <motion.div className="text-left mb-16 px-16" variants={itemVariants}>
+          <FaLightbulb className="text-yellow-400 inline-block -ml-16 text-4xl mb-4" />
+          <h2 className="text-3xl font-bold text-gray-900 inline-block ml-8 dark:text-white mb-4">
+            Our History
+          </h2>
+          <div className="w-24 h-1 bg-indigo-500 mb-6"></div>
+          <p className="text-gray-700 dark:text-gray-300 text-lg max-w-3xl">
+            The India@ML tracker was born from a simple tweet and grew into a
+            mission to spotlight India's contributions to the global machine
+            learning landscape. What started as a weekend hack has evolved into
+            a fully graduated project from LossFunk's 4th batch.
+          </p>
+        </motion.div>
+
+        {/* Story Timeline with tweet in background */}
+        <div className="relative mb-16">
+          {/* Background Tweet (scaled down and positioned behind) */}
+          <div className="absolute opacity-10 transform scale-75 -rotate-2 blur-sm left-0 right-0 mx-auto w-full max-w-md pointer-events-none">
+            <Tweet />
+          </div>
+
+          {/* Main Story Timeline */}
+          <div className="relative z-10">
+            {storyMilestones.map((milestone, index) => (
+              <motion.div
+                key={index}
+                className="flex mb-12 md:mb-8 items-start"
+                variants={storyCardVariants}
+                custom={index}
+              >
+                <div className="mr-4 mt-1 bg-gray-800 p-3 rounded-full">
+                  {milestone.icon}
+                </div>
+                <div className="bg-gray-800 rounded-lg p-6 flex-1 shadow-lg transform hover:scale-105 transition-transform">
+                  <h3 className="text-xl font-semibold text-white mb-2">
+                    {milestone.title}
+                  </h3>
+                  <p className="text-gray-300">{milestone.content}</p>
+                </div>
+              </motion.div>
+            ))}
+          </div>
         </div>
-      </motion.div>
 
-      {/* Timeline Section */}
-      <motion.div
-        className="max-w-5xl mx-auto py-16 px-4"
-        variants={fadeInUp}
-        initial="hidden"
-        whileInView="visible"
-        viewport={{ once: true }}
-      >
-        <h2 className="text-2xl font-bold text-indigo-400 mb-8 text-center">
-          Historical Timeline
-        </h2>
-        <div className="relative border-l border-gray-700 ml-6">
-          {timelineData.map((item, index) => (
-            <motion.div
-              key={index}
-              className="relative pl-8 mb-10"
-              variants={timelineItemVariants}
-              custom={index}
-              initial="hidden"
-              whileInView="visible"
-              viewport={{ once: true }}
-            >
-              {/* Dot Indicator */}
-              <span className="absolute w-3 h-3 rounded-full bg-indigo-400 top-2 left-[-5px]" />
-              {/* Content */}
-              <time className="block text-sm font-medium text-gray-500 mb-1">
-                {item.year}
-              </time>
-              <h3 className="text-xl font-semibold text-gray-100">
-                {item.title}
-              </h3>
-              <p className="text-gray-400 mt-2">
-                {item.description}
+        {/* Tweet Callout (smaller version) */}
+        <motion.div className="mb-16 max-w-lg mx-auto" variants={itemVariants}>
+          <div className="bg-gray-800 rounded-lg p-6 border border-gray-700">
+            <div className="flex items-center mb-4">
+              <FaTwitter className="text-blue-400 mr-3 text-xl" />
+              <p className="text-gray-300 italic text-sm">
+                "i'm happy to fund this if someone builds a tracker"
+                <a
+                  href="https://x.com/paraschopra"
+                  className="text-blue-400 ml-1"
+                >
+                  @paraschopra
+                </a>
               </p>
-            </motion.div>
-          ))}
-        </div>
-      </motion.div>
-
-      {/* Institutions / Cards Section */}
-      <motion.div
-        className="max-w-5xl mx-auto px-4 pb-16"
-        variants={fadeInUp}
-        initial="hidden"
-        whileInView="visible"
-        viewport={{ once: true }}
-      >
-        <h2 className="text-2xl font-bold text-indigo-400 mb-8 text-center">
-          Leading Institutions & Labs
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {institutionsData.map((inst, idx) => (
-            <div
-              key={idx}
-              className="bg-gray-800 rounded-lg p-6 shadow hover:shadow-lg transition-shadow"
-            >
-              <div className="flex flex-col items-center text-center">
-                {inst.icon}
-                <h3 className="text-xl font-bold mb-2 text-gray-100">
-                  {inst.name}
-                </h3>
-                <p className="text-gray-400">{inst.description}</p>
-              </div>
             </div>
-          ))}
-        </div>
+            <div className="flex items-center">
+              <FaTwitter className="text-blue-400 mr-3 text-xl" />
+              <p className="text-gray-300 italic text-sm">
+                "Cool. Weekend project locked in if no one else has already done
+                so."
+                <a href="https://x.com/HiSohan" className="text-blue-400 ml-1">
+                  @HiSohan
+                </a>
+              </p>
+            </div>
+            <p className="text-gray-400 text-xs mt-4 text-right">
+              January 23, 2025
+            </p>
+          </div>
+        </motion.div>
+
+        {/* Mission Statement */}
+        <motion.div
+          className="bg-gradient-to-r from-indigo-900 to-purple-900 rounded-xl p-8 shadow-2xl"
+          variants={itemVariants}
+        >
+          <blockquote className="text-xl text-gray-100 italic relative">
+            <span className="text-5xl text-indigo-300 absolute top-0 left-0 opacity-20">
+              "
+            </span>
+            <p className="relative z-10 pl-6">
+              We're committed to showcasing the groundbreaking machine learning
+              research happening within India's borders. By spotlighting local
+              innovation, we aim to inspire the next generation of researchers
+              and position India as a global leader in AI advancement.
+            </p>
+            <footer className="mt-4 text-right">
+              <div className="font-medium text-indigo-300">
+                The IndiaML Tracker Team
+              </div>
+            </footer>
+          </blockquote>
+        </motion.div>
+
+        {/* Call to Action */}
+        {/* <motion.div 
+          className="text-center mt-16"
+          variants={itemVariants}
+        >
+          <h3 className="text-2xl font-semibold text-white mb-6">Join Us in Mapping India's ML Journey</h3>
+          <div className="flex flex-wrap justify-center gap-4">
+            <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-md transition-colors">
+              Submit Research 
+            </button>
+            <button className="bg-transparent border-2 border-indigo-500 text-indigo-300 hover:bg-indigo-900 px-6 py-3 rounded-md transition-colors">
+              Learn More
+            </button>
+          </div>
+        </motion.div> */}
       </motion.div>
     </section>
   );
 };
 
-export default MLPresentation;
+export default AboutUs;

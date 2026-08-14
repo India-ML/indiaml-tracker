@@ -11,14 +11,22 @@ class VenueConfig(BaseModel):
 
 # Define your venue configurations here
 VENUE_CONFIGS: List[VenueConfig] = [
-    VenueConfig(
-        conference="NeurIPS",
-        year=2024,
-        track="Conference",
-        source_adapter="openreview",
-        source_id="NeurIPS.cc/2024/Conference",
-        adapter_class="NeurIPSAdapter"
-    ),
+    # VenueConfig(
+    #     conference="NeurIPS",
+    #     year=2024,
+    #     track="Conference",
+    #     source_adapter="openreview",
+    #     source_id="NeurIPS.cc/2024/Conference",
+    #     adapter_class="NeurIPSAdapter"
+    # ),
+    # VenueConfig(
+    #     conference="ICML",
+    #     year=2024,
+    #     track="Conference",
+    #     source_adapter="openreview",
+    #     source_id="ICML.cc/2024/Conference",
+    #     adapter_class="ICMLAdapter"
+    # ),
     VenueConfig(
         conference="NeurIPS",
         year=2025,
@@ -29,18 +37,18 @@ VENUE_CONFIGS: List[VenueConfig] = [
     ),
     VenueConfig(
         conference="ICML",
-        year=2024,
+        year=2025,
         track="Conference",
         source_adapter="openreview",
-        source_id="ICML.cc/2024/Conference",
-        adapter_class="ICMLAdapter"
+        source_id="ICML.cc/2025/Conference",
+        adapter_class="ICAIAdapter"
     ),
     VenueConfig(
         conference="ICLR",
-        year=2024,
+        year=2025,
         track="Conference",
         source_adapter="openreview",
-        source_id="ICLR.cc/2024/Conference",
+        source_id="ICLR.cc/2025/Conference",
         adapter_class="ICAIAdapter"
     )
     # Add more VenueConfig instances as needed
