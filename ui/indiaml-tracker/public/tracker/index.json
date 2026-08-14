@@ -40,5 +40,12 @@
     "analytics": "neurips-2025-analytics.json",
     "venue": "neurips",
     "year": "2025"
+  },
+  {
+    "label": "ICLR 2026",
+    "file": "iclr-2026.json",
+    "analytics": "iclr-2026-analytics.json",
+    "venue": "iclr",
+    "year": "2026"
   }
 ]
