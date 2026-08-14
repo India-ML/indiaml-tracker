@@ -21,7 +21,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces GASP, a novel automated framework designed to efficiently generate human-readable jailbreak prompts for Large Language Models (LLMs) in a black-box setting. GASP leverages latent Bayesian optimization to craft adversarial suffixes, thereby improving attack efficacy while maintaining prompt coherence. The research demonstrates that GASP produces natural adversarial prompts, significantly outperforming baseline methods in jailbreak success, while also reducing training and inference times."
   },
   {
     "paper_title": "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation",
@@ -59,7 +59,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to address the challenge of toxic content generation by Large Language Models (LLMs). The study investigates more robust methods for toxicity mitigation by moving beyond single neuron interventions to layer-wise representations and introducing a novel technique called EigenShift. This new approach selectively targets components responsible for toxic generation, thereby suppressing toxicity without compromising the model's core language capabilities."
   },
   {
     "paper_title": "Understanding Outer Optimizers in Local SGD: Learning Rates, Momentum, and Acceleration",
@@ -111,7 +111,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper investigates the role and impact of outer optimizers within the Local Stochastic Gradient Descent (Local SGD) algorithm. The study aims to provide new theoretical convergence guarantees and practical insights for tuning outer optimizer hyperparameters, particularly the learning rate. The findings suggest that optimizing the outer learning rate can improve performance by balancing optimization error and stochastic gradient noise, and even compensate for suboptimal inner learning rates."
   },
   {
     "paper_title": "Path-specific effects for pulse-oximetry guided decisions in critical care",
@@ -156,7 +156,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This study causally investigates how racial discrepancies in pulse oximetry measurements impact invasive ventilation decisions in intensive care units. Using a novel path-specific effects approach with doubly robust estimators, the research aims to robustly assess fairness in healthcare by isolating the effect of bias on clinical decision-making."
   },
   {
     "paper_title": "Dimension-free Score Matching and Time Bootstrapping for Diffusion Models",
@@ -187,7 +187,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to establish nearly dimension-free sample complexity bounds for learning score functions in diffusion models. The authors introduce a novel approach called Bootstrapped Score Matching (BSM) that utilizes a single function approximator across noise levels and employs variance reduction techniques to improve accuracy."
   },
   {
     "paper_title": "Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits",
@@ -218,7 +218,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces a novel method to interpret transformer language models by decomposing functional components into singular directions, revealing that computations within a single attention head or MLP can be superposed and independent. By analyzing these fine-grained structures, the research demonstrates that meaningful computations reside in compact subspaces, offering a more nuanced understanding of how these models operate."
   },
   {
     "paper_title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery",
@@ -249,7 +249,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces HIDISC, a hyperbolic representation learning framework designed for Domain Generalization with Generalized Category Discovery (DG-GCD). The goal is to enable models to classify test-time samples into seen or novel categories, even when presented with shifts in both domain and categories, without requiring target domain data during training. HIDISC achieves this efficiently by avoiding episodic training and instead utilizing novel data augmentation and interpolation techniques within hyperbolic space."
   },
   {
     "paper_title": "Price of Parsimony: Complexity of Fourier Sparsity Testing",
@@ -273,7 +273,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper investigates the problem of testing Fourier sparsity for real-valued functions. The primary goal is to develop an efficient algorithm that can determine if a given function is close to being Fourier sparse, meaning it has at most a specified number of non-zero Fourier coefficients. The study also establishes theoretical bounds on the algorithm's performance, demonstrating its optimality."
   },
   {
     "paper_title": "Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm",
@@ -318,7 +318,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces a Primal-Dual Natural Actor-Critic algorithm designed for infinite-horizon average reward Constrained Markov Decision Processes (CMDPs) with parametrized policies. The algorithm achieves global convergence and constraint violation rates of $O(\\tilde{1}/\\sqrt{T})$ when the mixing time is known, and $O(\\tilde{1}/T^{0.5-\\epsilon})$ when it is unknown, establishing a new benchmark for this class of problems."
   },
   {
     "paper_title": "SPRO: Improving Image Generation via Self-Play",
@@ -370,7 +370,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces SPRO (Self-Play Reward Optimization), a novel framework designed to improve image generation models by aligning them with human preferences without requiring human annotations. SPRO utilizes a multimodal self-play approach to iteratively generate, evaluate, and refine outputs, achieving significant improvements in aesthetic and engagement metrics."
   },
   {
     "paper_title": "InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy",
@@ -401,7 +401,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces InvisibleInk, a novel framework for generating long-form text with differential privacy guarantees. The paper aims to enable safe and efficient incorporation of sensitive information into text generation processes, addressing concerns about potential data leakage."
   },
   {
     "paper_title": "Contextual Tokenization for Graph Inverted Indices",
@@ -439,7 +439,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces CORGII, a novel graph indexing framework designed to efficiently retrieve graphs containing a specific subgraph from large datasets. CORGII adapts techniques from text retrieval, transforming dense graph representations into discrete tokens that can be indexed using optimized inverted lists. This approach aims to significantly improve the accuracy-efficiency trade-off for graph retrieval tasks compared to existing methods."
   },
   {
     "paper_title": "Scalable Fingerprinting of Large Language Models",
@@ -498,7 +498,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces a novel method for embedding numerous \"fingerprints\" into large language models to verify their origin. The primary goal is to develop a scalable, persistent, and harmless fingerprinting technique that significantly increases the number of identifiable fingerprints without compromising the model's performance."
   },
   {
     "paper_title": "MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks",
@@ -564,7 +564,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces AVHaystacksQA, a novel task and benchmark for evaluating large multimodal models' ability to reason across multiple videos. The goal is to retrieve and link salient audio-visual segments from extensive video collections to generate informative answers, addressing limitations of existing benchmarks."
   },
   {
     "paper_title": "SegMASt3R: Geometry Grounded Segment Matching",
@@ -616,7 +616,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces SegMASt3R, a novel architecture designed for wide-baseline segment matching. The goal is to leverage the spatial understanding of 3D foundation models to establish correspondences between image segments even under extreme viewpoint shifts. The proposed method significantly outperforms existing state-of-the-art techniques on challenging datasets and demonstrates utility in downstream applications like 3D mapping."
   },
   {
     "paper_title": "LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation",
@@ -668,7 +668,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces CrysLLMGen, a novel hybrid framework designed to generate crystal materials by combining the strengths of Large Language Models (LLMs) and diffusion models. The goal is to overcome the limitations of existing methods, achieving a balanced performance in both structural and compositional validity, and generating more stable and novel materials."
   },
   {
     "paper_title": "CAMILA: Context-Aware Masking for Image Editing with Language Alignment",
@@ -720,7 +720,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces CAMILA (Context-Aware Masking for Image Editing with Language Alignment), a novel method designed to improve text-guided image editing. CAMILA aims to address the issue of models failing to follow infeasible or contradictory instructions by validating the contextual coherence between user prompts and images. The goal is to ensure only relevant and executable edits are applied, thereby enhancing editing accuracy and semantic alignment."
   },
   {
     "paper_title": "Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning",
@@ -751,7 +751,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper provides the first finite-sample analysis for policy evaluation in robust average-reward reinforcement learning. It addresses the lack of sample complexity guarantees in prior work by developing a novel stochastic approximation framework. The proposed method, leveraging Multi-Level Monte Carlo techniques and a geometric truncation mechanism, achieves order-optimal sample complexity for robust policy evaluation and average reward estimation."
   },
   {
     "paper_title": "Better Language Model Inversion by Compactly Representing Next-Token Distributions",
@@ -796,7 +796,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces a novel method, PILS, to improve language model inversion by effectively recovering hidden prompts from next-token probabilities. The core innovation lies in losslessly compressing the multi-step next-token probability distributions into a low-dimensional subspace, significantly enhancing prompt recovery accuracy and generalization."
   },
   {
     "paper_title": "Geometry Aware Operator Transformer as an efficient and accurate neural surrogate for PDEs on arbitrary domains",
@@ -855,7 +855,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces the Geometry Aware Operator Transformer (GAOT), a novel neural network designed for accurate and efficient learning of solutions to Partial Differential Equations (PDEs) on complex, arbitrary domains. GAOT addresses limitations in existing methods by integrating geometry awareness, multiscale attention, and transformer processors, achieving state-of-the-art performance on challenging industrial datasets."
   },
   {
     "paper_title": "Brain-Informed Fine-Tuning for Improved Multilingual Understanding in Language Models",
@@ -900,7 +900,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research investigates whether fine-tuning language models with bilingual brain data can enhance their multilingual understanding. The study successfully demonstrates that bilingual brain-informed fine-tuning improves language model performance across multiple languages, outperforming standard models in both brain encoding and downstream NLP tasks. This work bridges cognitive neuroscience and NLP research by showing improved multilingual capabilities through brain-inspired training."
   },
   {
     "paper_title": "Geometry of Decision Making in Language Models",
@@ -931,7 +931,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper investigates the geometric structure of internal representations within Large Language Models (LLMs) to understand their decision-making processes. The study focuses on the evolution of intrinsic dimension across LLM layers during multiple-choice question answering tasks. Findings suggest that LLMs implicitly project linguistic inputs onto structured, low-dimensional manifolds that align with task-specific decisions."
   },
   {
     "paper_title": "Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning",
@@ -997,7 +997,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces ViMaR, a novel two-stage inference framework for Vision-Language Models (VLMs) designed to improve captioning efficiency and accuracy. ViMaR combines a value model with margin-based reward adjustment to generate more reliable and factually accurate captions at a significantly faster speed."
   },
   {
     "paper_title": "Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and Reliability",
@@ -1021,7 +1021,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces UAT, a novel framework for Early-Exit Deep Neural Networks (EEDNNs). UAT addresses limitations of traditional greedy early exit strategies by employing a Multi-Armed Bandit approach for adaptive threshold adjustment. This method aims to improve risk control and reliability by dynamically balancing computational efficiency with prediction quality."
   },
   {
     "paper_title": "Handling Missing Responses under Cluster Dependence with Applications to Language Model Evaluation",
@@ -1073,7 +1073,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper addresses the challenges of missing human annotations and clustered dependence in GenAI model evaluation. The researchers analyze a common statistical method, the doubly robust estimator, to establish its theoretical properties and ensure unbiased estimation and accurate uncertainty quantification in such complex scenarios. Their findings, supported by simulations and real-world data, emphasize the critical need to account for cluster dependence when dealing with missing responses for valid statistical inference."
   },
   {
     "paper_title": "Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks",
@@ -1146,7 +1146,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research aims to bridge the gap between probabilistic Large Language Models (LLMs) and the deterministic requirements of formal verification. The paper introduces a novel Probabilistic Context-Free Grammar (PCFG) framework to quantify uncertainty in LLM-generated formal artifacts, enabling selective verification to significantly reduce errors."
   },
   {
     "paper_title": "Monotone and Separable Set Functions: Characterizations and Neural Models",
@@ -1184,7 +1184,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces Monotone and Separable (MAS) set functions, which preserve the subset relationship through element-wise vector comparison. The paper establishes theoretical bounds for MAS functions and proposes MASNET, a model for infinite ground sets that achieves a relaxed \"weakly MAS\" property and demonstrates utility in set containment tasks."
   },
   {
     "paper_title": "On Optimal Steering to Achieve Exact Fairness",
@@ -1222,7 +1222,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research aims to address the \"bias in, bias out\" problem in machine learning by steering data or model representations towards \"ideal\" distributions that guarantee fair outcomes. The paper proposes an optimization framework to find the nearest ideal distribution and offers efficient algorithms for parametric families, demonstrating improved fairness without compromising utility."
   },
   {
     "paper_title": "Localizing Knowledge in Diffusion Transformers",
@@ -1274,7 +1274,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces a novel method to identify where specific types of knowledge are stored within Diffusion Transformer (DiT) models, a class of generative models that has been largely unexplored in this context. The proposed approach is model- and knowledge-agnostic, enabling precise localization of information within DiT blocks and facilitating applications like efficient model personalization and knowledge unlearning."
   },
   {
     "paper_title": "Hyperbolic Fine-Tuning for Large Language Models",
@@ -1326,7 +1326,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research investigates the geometric properties of large language models (LLMs), revealing that token embeddings exhibit hyperbolic characteristics indicative of a latent tree-like structure. To better leverage this structure, the paper proposes HypLoRA, an efficient fine-tuning method that operates in hyperbolic space to enhance LLM performance on reasoning tasks."
   },
   {
     "paper_title": "Strategic Costs of Perceived Bias in Fair Selection",
@@ -1364,7 +1364,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper develops a game-theoretic model to understand how perceived differences in post-selection value, potentially influenced by AI tools, can lead to rational disparities in candidate effort. The study aims to quantify how these perception-driven biases contribute to representation gaps in meritocratic systems and proposes a framework to mitigate these disparities without compromising institutional goals."
   },
   {
     "paper_title": "Non-rectangular Robust MDPs with Normed  Uncertainty Sets",
@@ -1416,7 +1416,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper addresses the challenge of robust policy evaluation in Markov Decision Processes (MDPs) with non-rectangular uncertainty sets, which is generally NP-hard. The authors introduce a novel dual formulation for $L_p$-normed robust MDPs by identifying a class of $L_p$-bounded uncertainty sets that simplifies the problem. This formulation leads to the first polynomial-time algorithm for robust policy evaluation specifically for $L_1$-normed non-rectangular robust MDPs."
   },
   {
     "paper_title": "Bandit Guided Submodular Curriculum for Adaptive Subset Selection",
@@ -1468,7 +1468,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper aims to address the challenge of defining sample difficulty in curriculum learning. It proposes a novel approach that formulates adaptive subset selection as a multi-armed bandit problem, where different submodular functions act as \"arms\" to guide sample selection. The developed policy, ONLINESUBMOD, demonstrates superior performance compared to existing methods by optimizing a utility-driven reward and achieving no-regret outcomes."
   },
   {
     "paper_title": "$O(\\sqrt{T})$ Static Regret and Instance Dependent Constraint Violation for Constrained Online Convex Optimization",
@@ -1492,7 +1492,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper addresses the challenge of minimizing both static regret and cumulative constraint violation in constrained online convex optimization (COCO). The authors propose a new algorithm that achieves a static regret of $O(\\sqrt{T})$ and an instance-dependent cumulative constraint violation bound of $\\min\\{V, O(\\sqrt{T \\log T})\\}$. This instance-dependent bound, derived by leveraging the geometric properties of constraint sets, offers an improvement over existing universally bounded results."
   },
   {
     "paper_title": "Fast Training of Large Kernel Models with Delayed Projections",
@@ -1530,7 +1530,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces EigenPro 4, a novel algorithm for training kernel machines that addresses the historical scalability limitations of these models. By incorporating delayed projections into Preconditioned Stochastic Gradient Descent, EigenPro 4 enables the efficient training of significantly larger models on substantial datasets without sacrificing performance. The research demonstrates drastic speedups in training times compared to existing methods."
   },
   {
     "paper_title": "BlockDecoder: Boosting ASR Decoders with Context and Merger Modules",
@@ -1554,7 +1554,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces BLOCKDECODER, a novel architecture designed to enhance automatic speech recognition (ASR) decoders. By separating the decoder into a text encoder and a merger module, BLOCKDECODER efficiently utilizes contextual information from both audio and text encoders. This leads to a significant speedup in ASR processing without compromising performance, making it a more efficient and modular solution."
   },
   {
     "paper_title": "Efficient Adaptive Federated Optimization",
@@ -1592,7 +1592,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces FedAda[2] and FedAda[2]++, a new class of efficient adaptive optimization algorithms for federated learning. The primary goal is to enable effective joint adaptivity on both server and client sides without the high communication and memory overhead typically associated with such systems. The proposed algorithms achieve theoretical convergence guarantees while demonstrating significant empirical efficiency on large-scale datasets."
   },
   {
     "paper_title": "GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability",
@@ -1637,7 +1637,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces GNNXEMPLAR, a novel framework for global interpretability of Graph Neural Networks (GNNs). GNNXEMPLAR addresses the limitations of existing methods by identifying representative \"exemplar\" nodes in the GNN embedding space and deriving natural language rules from their neighborhoods to explain class predictions. Experiments demonstrate GNNXEMPLAR's superiority in fidelity, scalability, and human interpretability compared to current approaches."
   },
   {
     "paper_title": "Cyclic Counterfactuals under Shift\u2013Scale Interventions",
@@ -1668,7 +1668,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper investigates counterfactual inference in systems with cyclic dependencies, which are common in real-world phenomena like biological networks. The research extends existing frameworks to accommodate these cyclic structures and explore their implications under shift-scale interventions, a type of soft intervention that modifies a variable's mechanism without severing its causal links."
   },
   {
     "paper_title": "Model Selection for Off-policy Evaluation: New Algorithms and Experimental Protocol",
@@ -1727,7 +1727,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research addresses the challenge of selecting appropriate Off-Policy Evaluation (OPE) methods in offline reinforcement learning. The authors propose new algorithms for selecting both model-free and model-based OPE components, along with a novel experimental protocol designed for robust empirical evaluation."
   },
   {
     "paper_title": "On the Sample Complexity Bounds of Bilevel Reinforcement Learning",
@@ -1772,7 +1772,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to establish the first theoretical sample complexity bounds for Bilevel Reinforcement Learning (BRL) in continuous state-action spaces, achieving an improved $O(\\tilde{\\epsilon}^{-3})$ rate. The authors overcome the challenges posed by BRL's nested structure and non-convexity by utilizing the Polyak-\u0141ojasiewicz condition and MDP properties. This work also introduces a Hessian-free algorithm to address computational bottlenecks in large-scale BRL problems."
   },
   {
     "paper_title": "Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks",
@@ -1810,7 +1810,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces Memory-Integrated Reconfigurable Adapters (MIRA), a novel framework designed to enable AI systems to efficiently handle multiple tasks and adapt to changing environments. MIRA unifies domain generalization and continual learning by integrating associative memory modules with a shared backbone, allowing for rapid task switching and robust knowledge retention without catastrophic forgetting."
   },
   {
     "paper_title": "The Parameterized Complexity of Computing the VC-Dimension",
@@ -1848,7 +1848,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper investigates the computational complexity of determining the VC-dimension, a key measure in machine learning. The authors establish new theoretical bounds and algorithms, demonstrating that the problem is inherently difficult but can be efficiently approximated or solved for certain structural parameters."
   },
   {
     "paper_title": "Value-Guided KV Compression for LLMs via Approximated CUR Decomposition",
@@ -1879,7 +1879,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces CurDKV, a novel KV cache compression method for Large Language Models. It addresses limitations of existing methods by incorporating value vectors, not just attention scores, to select important cached tokens. CurDKV utilizes CUR matrix decomposition to approximate the attention output and minimize reconstruction loss, leading to improved accuracy and reduced latency."
   },
   {
     "paper_title": "ModHiFi: Identifying High Fidelity predictive components for Model Modification",
@@ -1910,7 +1910,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces ModHiFi, an algorithm designed to modify open-weight deep learning models without requiring access to their training data or loss function. ModHiFi identifies critical model components by quantifying their contribution to predictive performance using a novel metric called Subset Fidelity. This approach enables efficient model pruning and unlearning, demonstrating state-of-the-art performance on various benchmarks."
   },
   {
     "paper_title": "Regret Lower Bounds for Decentralized Multi-Agent Stochastic Shortest Path Problems",
@@ -1934,7 +1934,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper investigates the learning complexity of decentralized multi-agent Stochastic Shortest Path problems (Dec-MASSPs) under linear function approximation. The primary goal is to establish the first regret lower bound for this setting, demonstrating that any learning algorithm faces inherent difficulties, quantified by a lower bound of $\\Omega(\\sqrt{K})$ over $K$ episodes."
   },
   {
     "paper_title": "Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning",
@@ -2070,7 +2070,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces Minitron-SSM, a novel compression method for hybrid language models that combine Transformer and State Space Model (SSM) architectures. The goal is to significantly reduce the size of these models, specifically targeting Mamba layers, while preserving their accuracy and sequence modeling capabilities. Through a unified compression recipe involving group-aware SSM pruning and other techniques, the authors successfully compress a large model into a smaller one with substantially fewer training tokens and improved inference speed."
   },
   {
     "paper_title": "Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models",
@@ -2143,7 +2143,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper investigates how to strategically apply perturbations in diffusion models, specifically within Diffusion Transformer (DiT) architectures, to improve image generation quality. The authors propose \"HeadHunter,\" a framework that identifies and selects specific attention heads responsible for distinct visual concepts, enabling fine-grained control over generation attributes. They also introduce SoftPAG to manage perturbation strength and mitigate artifacts, demonstrating improved performance on text-to-image models."
   },
   {
     "paper_title": "A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems",
@@ -2167,7 +2167,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces a computationally efficient, gradient-based numerical technique to solve the optimal covering problem. The goal is to find the optimal placement of a pre-assigned number of Euclidean balls to cover a given compact set in R[N]. The proposed method leverages a foundational result on Lipschitz continuity and adapts a stochastically smoothed gradient algorithm to achieve global convergence."
   },
   {
     "paper_title": "Sequential Attention-based Sampling for Histopathological Analysis",
@@ -2205,7 +2205,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces SASHA (Sequential Attention-based Sampling for Histopathological Analysis), a novel deep reinforcement learning approach designed to efficiently analyze gigapixel-sized histopathological images. The goal is to achieve reliable diagnoses by intelligently sampling and zooming into a small fraction of high-resolution patches, thereby significantly reducing computational and memory costs compared to methods that analyze the entire slide."
   },
   {
     "paper_title": "Distribution Learning Meets Graph Structure Sampling",
@@ -2243,7 +2243,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research establishes a novel connection between learning high-dimensional graphical models and efficiently sampling graph structures. The paper introduces the first efficient algorithm for learning Bayes nets with a chordal skeleton, extending previous work on trees and polytrees."
   },
   {
     "paper_title": "Beyond $\\tilde{O}(\\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints",
@@ -2267,7 +2267,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to improve upon existing methods for Online Convex Optimization with adversarial constraints (COCO). The authors propose a novel online policy that achieves a significantly lower cumulative constraint violation (CCV) by strategically trading off regret. This new approach is particularly valuable for safety-critical applications where satisfying constraints is paramount."
   },
   {
     "paper_title": "Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features",
@@ -2298,7 +2298,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces Graph Neural Additive Model with Random Fourier Features (G-NAMRFF), a novel architecture designed to enhance interpretability in graph data analysis. The study aims to create a lightweight, self-interpretable model that achieves state-of-the-art performance on graph-related tasks without sacrificing accuracy. G-NAMRFF achieves this by representing node embeddings as sums of feature-wise contributions, modeled using Gaussian processes and approximated with Random Fourier Features."
   },
   {
     "paper_title": "DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research",

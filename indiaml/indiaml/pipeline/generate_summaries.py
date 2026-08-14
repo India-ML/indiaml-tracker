@@ -96,28 +96,29 @@ def get_openreview_client():
 
 
 class RateLimited(Exception):
-    """OpenReview refused the download because a rate limit was exhausted."""
-
-
-# Set once a rate limit is observed. The openreview client retries internally
-# before raising, which can block for 40+ minutes, so once the API route is
-# known to be exhausted we stop touching it.
-_api_route_exhausted = False
+    """OpenReview refused the download because every route was rate limited."""
 
 
 def download_pdf(pdf_url, paper_id=None):
     """Download the PDF for a paper, authenticating to OpenReview.
 
-    Prefers the paper_id-derived URL. Many stored pdf_url values use a
-    content-hash form (/pdf/<sha1>.pdf) that now returns 404, whereas
-    /pdf?id=<paper_id> still resolves.
+    Tries each known download route in turn, all via plain requests:
 
-    OpenReview meters its download routes separately with small budgets
-    (observed: 26/window for the web endpoint, 36/window for the API attachment
-    endpoint). Raises RateLimited when no route can serve the request, so the
-    caller can stop cleanly and keep the work already done.
+      1. https://openreview.net/pdf?id=<paper_id>            (26 per hour)
+      2. https://api2.openreview.net/attachment?id=..&name=pdf (36 per hour)
+      3. the stored pdf_url
+
+    OpenReview meters these routes separately, so using both roughly doubles the
+    hourly throughput. Route 1 is preferred over the stored pdf_url because most
+    stored values use a content-hash form (/pdf/<sha1>.pdf) that now 404s.
+
+    Everything goes through requests rather than openreview-py's get_attachment:
+    that helper retries internally before surfacing a 429, which blocks for tens
+    of minutes with no output.
+
+    Raises RateLimited only when every route reported 429, so the caller can
+    stop cleanly and keep the work already done.
     """
-    global _api_route_exhausted
     client = get_openreview_client()
 
     headers = {}
@@ -127,10 +128,13 @@ def download_pdf(pdf_url, paper_id=None):
     candidates = []
     if paper_id:
         candidates.append(f"https://openreview.net/pdf?id={paper_id}")
+        candidates.append(
+            f"https://api2.openreview.net/attachment?id={paper_id}&name=pdf"
+        )
     if pdf_url and pdf_url not in candidates:
         candidates.append(pdf_url)
 
-    rate_limited = False
+    saw_rate_limit = False
     for url in candidates:
         try:
             response = requests.get(url, headers=headers, timeout=90)
@@ -138,9 +142,10 @@ def download_pdf(pdf_url, paper_id=None):
             print(f"Error downloading PDF from {url}: {e}")
             continue
         if response.status_code == 429:
-            rate_limited = True
-            print(f"Rate limited on {url}.")
-            break
+            saw_rate_limit = True
+            retry_after = response.headers.get("retry-after", "?")
+            print(f"Rate limited on {url} (retry after {retry_after}s).")
+            continue
         if response.status_code == 404:
             print(f"PDF not found at {url}.")
             continue
@@ -151,23 +156,8 @@ def download_pdf(pdf_url, paper_id=None):
             continue
         return BytesIO(response.content)
 
-    # Stop as soon as the web route reports a rate limit. Do not fall through to
-    # the API attachment route here: openreview-py retries internally before
-    # raising, which blocks for tens of minutes with no output, and in practice
-    # both budgets reset at the same time anyway.
-    if rate_limited:
-        raise RateLimited(f"web download route rate limited for {paper_id}")
-
-    # The API attachment route has its own budget, and is worth trying when the
-    # web route failed for a reason other than rate limiting (e.g. 404).
-    if client is not None and paper_id and not _api_route_exhausted:
-        try:
-            return BytesIO(client.get_attachment(id=paper_id, field_name="pdf"))
-        except Exception as e:
-            if "RateLimitError" in str(e) or "429" in str(e):
-                _api_route_exhausted = True
-                raise RateLimited(str(e)) from e
-            print(f"Could not fetch attachment for {paper_id}: {e}")
+    if saw_rate_limit:
+        raise RateLimited(f"all download routes rate limited for {paper_id}")
 
     return None
 
