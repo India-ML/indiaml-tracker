@@ -12,13 +12,24 @@ from dotenv import load_dotenv
 import time
 from tqdm import tqdm
 
-# Load environment variables. Load the package-local .env as well as any .env in
-# the current working directory, so the script works regardless of where it is
-# invoked from (matches base_adapter.py and db_config.py).
-load_dotenv(Path(__file__).resolve().parents[1] / ".env")
-load_dotenv()
+# Load environment variables from every location the project uses, with
+# explicit paths. A bare load_dotenv() cannot be relied on here: it discovers
+# .env by walking up from the *calling frame's* file, so under "python -m" it
+# finds indiaml/indiaml/.env (OpenReview credentials) and stops, never reaching
+# indiaml/.env (OPENROUTER_API_KEY, per indiaml/.env.sample). Resolving both
+# explicitly makes this independent of how the script is invoked and of the CWD.
+_PKG_DIR = Path(__file__).resolve().parents[1]      # indiaml/indiaml
+_PROJECT_DIR = Path(__file__).resolve().parents[2]  # indiaml
+for _env_path in (_PKG_DIR / ".env", _PROJECT_DIR / ".env", Path.cwd() / ".env"):
+    if _env_path.is_file():
+        load_dotenv(_env_path)
 
 PLACEHOLDER_API_KEY = "sk-or-v1-..."
+
+# Model used for summarization. The previous default, google/gemini-flash-1.5-8b,
+# has been retired and now returns HTTP 404 "No endpoints found", so it is
+# overridable without editing the source.
+SUMMARY_MODEL = os.environ.get("OPENROUTER_MODEL", "google/gemini-2.5-flash-lite")
 
 
 def get_openrouter_key():
@@ -131,25 +142,52 @@ def convert_pdf_to_markdown(pdf_stream, num_pages=3):
             os.remove(temp_pdf_path)
 
 def summarize_paper_goal(text):
-    """Uses the OpenAI Chat API to summarize the paper's goal based on the extracted text."""
+    """Summarize the paper's goal. Returns None if no summary could be produced.
+
+    Returning None rather than a sentinel string matters: the caller writes this
+    value straight into paper_content and saves the file, so returning an error
+    message here would persist "Error generating summary." as though it were a
+    real summary and mark the paper as done.
+    """
     if not text.strip():
-        return "No text available for summarization."
-    
+        print("No text available for summarization.")
+        return None
+
     try:
         response = get_client().chat.completions.create(
-            model="google/gemini-flash-1.5-8b",  # Change this to your desired model if needed
+            model=SUMMARY_MODEL,
             messages=[
                 {"role": "system", "content": "You are extremely efficient and formal at writing summaries from papers. You try to write summaries intended to be read by an audience on a webpage."},
                 {"role": "user", "content": f"Based on the following excerpt from a research paper, summarize the paper's goal, keep it very brief, within 2 to 3 sentences:\n\n{text[:4000]}"}  # Limit text length to avoid token limits
             ]
         )
-        return response.choices[0].message.content
     except Exception as e:
         print(f"Error calling the API for summarization: {e}")
-        return "Error generating summary."
+        return None
+
+    summary = (response.choices[0].message.content or "").strip()
+    if not summary:
+        print("Model returned an empty summary.")
+        return None
+    return summary
+
+# Values that earlier versions of this script wrote into paper_content when a
+# step failed. They are truthy, so a naive "already has content" check treats
+# them as real summaries and skips those papers permanently.
+FAILURE_SENTINELS = frozenset({
+    "Error generating summary.",
+    "No text available for summarization.",
+})
+
+
+def needs_summary(paper):
+    """True if the paper has no usable summary yet."""
+    content = (paper.get("paper_content") or "").strip()
+    return not content or content in FAILURE_SENTINELS
+
 
 def process_venue_file(file_path, tracker_dir):
-    """Process a single venue JSON file and add summaries to papers that don't have them."""
+    """Process a venue JSON file, summarizing papers that lack a usable summary."""
     print(f"\nProcessing file: {file_path}")
     
     # Read the venue JSON file
@@ -165,8 +203,10 @@ def process_venue_file(file_path, tracker_dir):
     
     # Process each paper
     for paper in tqdm(papers, desc="Papers"):
-        # Skip if the paper already has content
-        if "paper_content" in paper and paper["paper_content"]:
+        # Skip if the paper already has a real summary. Failure sentinels written
+        # by earlier runs count as missing, not as content, otherwise they are
+        # truthy and would be skipped forever.
+        if not needs_summary(paper):
             continue
         
         print(f"\nProcessing paper: {paper['paper_title']}")
@@ -186,6 +226,9 @@ def process_venue_file(file_path, tracker_dir):
         
         # Step 3: Summarize the paper's goal using the API
         summary = summarize_paper_goal(extracted_text)
+        if not summary:
+            print(f"Skipping paper due to summarization failure: {paper['paper_title']}")
+            continue
         print(f"Summary generated: {summary}")
         
         # Step 4: Update the paper with the summary
