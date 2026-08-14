@@ -95,28 +95,82 @@ def get_openreview_client():
     return _openreview_client
 
 
-def download_pdf(pdf_url, paper_id=None):
-    """Download the PDF for a paper, authenticating to OpenReview when possible."""
-    client = get_openreview_client()
+class RateLimited(Exception):
+    """OpenReview refused the download because a rate limit was exhausted."""
 
-    # Preferred path: ask OpenReview for the attachment directly.
-    if client is not None and paper_id:
-        try:
-            return BytesIO(client.get_attachment(id=paper_id, field_name="pdf"))
-        except Exception as e:
-            print(f"Could not fetch attachment for {paper_id} ({e}); falling back to URL.")
+
+# Set once a rate limit is observed. The openreview client retries internally
+# before raising, which can block for 40+ minutes, so once the API route is
+# known to be exhausted we stop touching it.
+_api_route_exhausted = False
+
+
+def download_pdf(pdf_url, paper_id=None):
+    """Download the PDF for a paper, authenticating to OpenReview.
+
+    Prefers the paper_id-derived URL. Many stored pdf_url values use a
+    content-hash form (/pdf/<sha1>.pdf) that now returns 404, whereas
+    /pdf?id=<paper_id> still resolves.
+
+    OpenReview meters its download routes separately with small budgets
+    (observed: 26/window for the web endpoint, 36/window for the API attachment
+    endpoint). Raises RateLimited when no route can serve the request, so the
+    caller can stop cleanly and keep the work already done.
+    """
+    global _api_route_exhausted
+    client = get_openreview_client()
 
     headers = {}
     if client is not None and getattr(client, "token", None):
         headers["Authorization"] = f"Bearer {client.token.replace('Bearer ', '')}"
 
-    try:
-        response = requests.get(pdf_url, headers=headers, timeout=60)
-        response.raise_for_status()
+    candidates = []
+    if paper_id:
+        candidates.append(f"https://openreview.net/pdf?id={paper_id}")
+    if pdf_url and pdf_url not in candidates:
+        candidates.append(pdf_url)
+
+    rate_limited = False
+    for url in candidates:
+        try:
+            response = requests.get(url, headers=headers, timeout=90)
+        except requests.exceptions.RequestException as e:
+            print(f"Error downloading PDF from {url}: {e}")
+            continue
+        if response.status_code == 429:
+            rate_limited = True
+            print(f"Rate limited on {url}.")
+            break
+        if response.status_code == 404:
+            print(f"PDF not found at {url}.")
+            continue
+        try:
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print(f"Error downloading PDF from {url}: {e}")
+            continue
         return BytesIO(response.content)
-    except requests.exceptions.RequestException as e:
-        print(f"Error downloading PDF from {pdf_url}: {e}")
-        return None
+
+    # Stop as soon as the web route reports a rate limit. Do not fall through to
+    # the API attachment route here: openreview-py retries internally before
+    # raising, which blocks for tens of minutes with no output, and in practice
+    # both budgets reset at the same time anyway.
+    if rate_limited:
+        raise RateLimited(f"web download route rate limited for {paper_id}")
+
+    # The API attachment route has its own budget, and is worth trying when the
+    # web route failed for a reason other than rate limiting (e.g. 404).
+    if client is not None and paper_id and not _api_route_exhausted:
+        try:
+            return BytesIO(client.get_attachment(id=paper_id, field_name="pdf"))
+        except Exception as e:
+            if "RateLimitError" in str(e) or "429" in str(e):
+                _api_route_exhausted = True
+                raise RateLimited(str(e)) from e
+            print(f"Could not fetch attachment for {paper_id}: {e}")
+
+    return None
+
 
 # Function to convert PDF to Markdown using pymupdf4llm
 def convert_pdf_to_markdown(pdf_stream, num_pages=3):
@@ -186,8 +240,27 @@ def needs_summary(paper):
     return not content or content in FAILURE_SENTINELS
 
 
+def save_papers(file_path, papers):
+    """Write papers back to disk atomically, so an interrupted run cannot
+    truncate an existing venue file."""
+    tmp_path = f"{file_path}.tmp"
+    try:
+        with open(tmp_path, "w") as file:
+            json.dump(papers, file, indent=2)
+        os.replace(tmp_path, file_path)
+        return True
+    except Exception as e:
+        print(f"Error writing to file {file_path}: {e}")
+        if os.path.exists(tmp_path):
+            os.remove(tmp_path)
+        return False
+
+
 def process_venue_file(file_path, tracker_dir):
-    """Process a venue JSON file, summarizing papers that lack a usable summary."""
+    """Process a venue JSON file, summarizing papers that lack a usable summary.
+
+    Returns (updated_count, rate_limited).
+    """
     print(f"\nProcessing file: {file_path}")
     
     # Read the venue JSON file
@@ -196,10 +269,11 @@ def process_venue_file(file_path, tracker_dir):
             papers = json.load(file)
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
-        return 0
+        return 0, False
     
     # Counter for papers that were updated
     updated_count = 0
+    rate_limited = False
     
     # Process each paper
     for paper in tqdm(papers, desc="Papers"):
@@ -213,7 +287,12 @@ def process_venue_file(file_path, tracker_dir):
         pdf_url = paper["pdf_url"]
         
         # Step 1: Download the PDF
-        pdf_stream = download_pdf(pdf_url, paper.get("paper_id"))
+        try:
+            pdf_stream = download_pdf(pdf_url, paper.get("paper_id"))
+        except RateLimited as e:
+            print(f"\nOpenReview rate limit reached: {e}")
+            rate_limited = True
+            break
         if pdf_stream is None:
             print(f"Skipping paper due to download failure: {paper['paper_title']}")
             continue
@@ -231,25 +310,22 @@ def process_venue_file(file_path, tracker_dir):
             continue
         print(f"Summary generated: {summary}")
         
-        # Step 4: Update the paper with the summary
+        # Step 4: Update the paper with the summary, then persist immediately.
+        # Saving per paper rather than per file means a rate limit or crash
+        # cannot discard summaries that were already paid for.
         paper["paper_content"] = summary
         updated_count += 1
+        save_papers(file_path, papers)
         
         # Add a small delay to avoid rate limiting
         time.sleep(1)
     
-    # Save the updated papers back to the file
     if updated_count > 0:
-        try:
-            with open(file_path, "w") as file:
-                json.dump(papers, file, indent=2)
-            print(f"Updated {updated_count} papers in {file_path}")
-        except Exception as e:
-            print(f"Error writing to file {file_path}: {e}")
+        print(f"Updated {updated_count} papers in {file_path}")
     else:
         print(f"No papers needed updating in {file_path}")
     
-    return updated_count
+    return updated_count, rate_limited
 
 def main():
     # Fail fast rather than downloading every PDF and then failing on each
@@ -294,6 +370,7 @@ def main():
     
     # Process each venue-year file
     total_updated = 0
+    hit_rate_limit = False
     for entry in tqdm(index_data, desc="Venues"):
         file_name = entry["file"]
         file_path = os.path.join(tracker_dir, file_name)
@@ -303,11 +380,39 @@ def main():
             continue
         
         # Process the venue file
-        updated = process_venue_file(file_path, tracker_dir)
+        updated, rate_limited = process_venue_file(file_path, tracker_dir)
         total_updated += updated
+        if rate_limited:
+            hit_rate_limit = True
+            break
     
     print(f"\nSummary generation complete. Added summaries to {total_updated} papers across all venues.")
+
+    if hit_rate_limit:
+        remaining = count_remaining(tracker_dir, index_data)
+        print(
+            f"\nStopped early because OpenReview's download rate limit was reached.\n"
+            f"{remaining} papers still need a summary. Everything generated so far has\n"
+            f"been saved. Re-run this command after the limit resets (roughly an hour)\n"
+            f"and it will resume where it left off."
+        )
+        return 2
     return 0
+
+
+def count_remaining(tracker_dir, index_data):
+    """Count papers across all venue files that still need a summary."""
+    remaining = 0
+    for entry in index_data:
+        path = os.path.join(tracker_dir, entry["file"])
+        if not os.path.exists(path):
+            continue
+        try:
+            with open(path) as fh:
+                remaining += sum(1 for p in json.load(fh) if needs_summary(p))
+        except Exception:
+            pass
+    return remaining
 
 if __name__ == "__main__":
     sys.exit(main() or 0)
