@@ -66,7 +66,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces PEAR (Primitive Enabled Adaptive Relabeling), a novel two-phase approach designed to address the training challenges of hierarchical reinforcement learning (HRL). PEAR utilizes expert demonstrations to generate effective subgoal supervision, enabling joint optimization of HRL agents through reinforcement and imitation learning. The goal is to improve performance on complex, long-horizon tasks, particularly in robotic control scenarios with sparse rewards."
   },
   {
     "paper_title": "Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon",
@@ -160,7 +160,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper aims to move beyond a uniform view of memorization in language models. It proposes a taxonomy of memorization, categorizing it into recitation, reconstruction, and recollection, to better understand the diverse factors influencing this phenomenon. The researchers demonstrate the utility of this taxonomy by constructing a predictive model, revealing that different factors impact memorization likelihood based on the category."
   },
   {
     "paper_title": "Deep Networks Learn Features From Local Discontinuities in the Label Function",
@@ -198,7 +198,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper investigates how deep neural networks learn features during training by examining the relationship between discontinuities in the label function and the model's function. The researchers propose and test a novel architecture, the Deep Linearly Gated Network (DLGN), which demonstrates that model function discontinuities are attracted to label function discontinuities. This approach also allows for mechanistic interpretability, enabling the extraction of parameters from a high-accuracy decision tree."
   },
   {
     "paper_title": "You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning",
@@ -229,7 +229,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research proposes PruneNet, a novel model compression technique for large language models. PruneNet reformulates pruning as a policy learning process, eliminating the need for calibration datasets and allowing for compression based on intrinsic model properties. The method demonstrates significant efficiency and performance retention compared to existing techniques."
   },
   {
     "paper_title": "Charting the Design Space of Neural Graph Representations for Subgraph Matching",
@@ -274,7 +274,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to explore the vast, largely uncharted design space of neural graph representations for subgraph matching. The study systematically investigates various design choices, such as attention mechanisms, node/edge alignment, and scoring network configurations. The goal is to identify novel combinations that yield significant performance improvements and establish general design principles for more effective neural graph interaction."
   },
   {
     "paper_title": "Bonsai: Gradient-free Graph Condensation for Node Classification",
@@ -319,7 +319,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper addresses limitations in existing graph condensation techniques for training Graph Neural Networks (GNNs), particularly their reliance on full datasets and inflexibility. The authors introduce Bonsai, a novel gradient-free method that achieves efficient and model-agnostic graph condensation for node classification by selecting representative computation trees. Bonsai demonstrates superior accuracy and significantly faster performance compared to existing methods across multiple real-world datasets."
   },
   {
     "paper_title": "LevAttention: Time, Space and Streaming Efficient Algorithm for Heavy Attentions",
@@ -357,7 +357,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces LevAttention, an efficient algorithm for computing transformer attention mechanisms that addresses the quadratic time complexity bottleneck. The research demonstrates a method to identify \"large attention scores\" in linear time with respect to the context length, significantly improving scalability for long sequences. The proposed approach is shown to be effective in practice and offers theoretical guarantees without making restrictive assumptions on the input data."
   },
   {
     "paper_title": "Debiasing Federated Learning with Correlated Client Participation",
@@ -402,7 +402,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper addresses the challenge of biased model training in federated learning due to non-uniform and correlated client participation. The authors introduce a theoretical framework modeling client participation as a Markov chain to analyze convergence under realistic participation patterns, such as minimum rest periods between training rounds. Their work proposes a debiasing algorithm for Federated Averaging that converges to an unbiased optimal solution regardless of client availability distribution."
   },
   {
     "paper_title": "Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference",
@@ -454,7 +454,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to improve causal inference by addressing the limitations of using imperfect experts, such as LLMs, to infer causal graphs. Instead of directly inferring a graph, the study proposes utilizing \"causal order\" as a more stable output for expert knowledge. The paper introduces a novel \"triplet method\" for querying experts, which enhances accuracy and robustness in determining causal relationships, even with smaller LLMs."
   },
   {
     "paper_title": "Periodic Materials Generation using Text-Guided Joint Diffusion Model",
@@ -506,7 +506,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces TGDMat, a novel text-guided diffusion model for generating 3D periodic crystal materials. The model aims to overcome limitations of existing methods by jointly learning atom types, coordinates, and lattice structure within an end-to-end diffusion framework, while also incorporating global structural knowledge through textual descriptions. TGDMat demonstrates superior performance in both material generation and structure prediction tasks compared to baseline methods."
   },
   {
     "paper_title": "LR0.FM: LOW-RESOLUTION ZERO-SHOT CLASSIFICATION BENCHMARK FOR FOUNDATION MODELS",
@@ -582,7 +582,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces MXNET, a novel, end-to-end differentiable model for estimating the clique number of a graph. The model learns to predict clique sizes without needing explicit examples of actual cliques, offering improved accuracy and interpretability compared to existing methods. It achieves this by formulating the maximum clique problem as finding dense submatrices through differentiable permutation searches."
   },
   {
     "paper_title": "BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts",
@@ -606,7 +606,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces BEEM, a novel Early Exit (EE) technique designed to reduce inference latency in Deep Neural Networks (DNNs). BEEM treats intermediate classifiers as expert models that collectively aggregate confidence scores. The method achieves significant speed-up improvements, ranging from 1.5x to 2.1x, while maintaining comparable or improved accuracy compared to conventional inference methods."
   },
   {
     "paper_title": "LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently",
@@ -658,7 +658,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces LOIRE, a framework designed for lifelong learning in pre-trained language models (PLMs). LOIRE enables PLMs to efficiently grow their capacity by effectively incorporating incremental data, addressing limitations of existing model growth techniques. The framework aims to reduce computational costs while preserving or improving downstream performance, mitigating issues like catastrophic forgetting."
   },
   {
     "paper_title": "Glauber Generative Model: Discrete Diffusion Models via Binary Classification",
@@ -689,7 +689,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "The paper introduces the Glauber Generative Model (GGM), a novel discrete diffusion model for generating samples from discrete data distributions. GGM utilizes heat bath dynamics and frames the denoising process as a binary classification task to distinguish signal from noise. This approach demonstrates strong performance in language and image generation, and enables zero-shot control capabilities."
   },
   {
     "paper_title": "Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?",
@@ -734,7 +734,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research investigates whether Large Language Models (LLMs) that have undergone safety fine-tuning remain robust against naturally phrased prompts semantically related to toxic content. The study surprisingly finds that even advanced models like GPT-4 can be compromised by such prompts, suggesting current safety measures may not fully generalize to real-world usage. The paper introduces the Response Guided Question Augmentation (ReG-QA) method to systematically evaluate this vulnerability."
   },
   {
     "paper_title": "It Helps to Take a Second Opinion: Teaching Smaller LLMs To Deliberate Mutually via Selective Rationale Optimisation",
@@ -772,7 +772,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces COALITION, a framework designed to enhance the reasoning capabilities of smaller language models (SLMs). COALITION achieves this by enabling two variants of the same SLM to collaboratively generate and refine rationales through selective optimization, thereby improving performance on complex tasks without relying on larger, proprietary models."
   },
   {
     "paper_title": "Measuring And Improving Persuasiveness Of Large Language Models",
@@ -879,7 +879,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper investigates self-supervised methods for estimating covariance in deep heteroscedastic regression. The study addresses how to best supervise covariance learning when ground truth is available and proposes a novel heuristic for generating pseudo-labels in its absence. The findings suggest that a proposed 2-Wasserstein bound, combined with these pseudo-labels, offers a computationally efficient and accurate approach to deep heteroscedastic regression."
   },
   {
     "paper_title": "Surprising Effectiveness of pretraining Ternary  Language Model at Scale",
@@ -931,7 +931,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research investigates the effectiveness of pretraining Ternary Language Models (TriLMs) as a low-bitwidth alternative to traditional floating-point models. The study introduces the Spectra LLM suite and demonstrates that TriLMs exhibit superior scaling behavior, surprisingly outperforming post-training quantized and standard floating-point models at larger scales."
   },
   {
     "paper_title": "Measuring And Improving Engagement of Text-to-Image Generation Models",
@@ -990,7 +990,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper addresses the need to generate more engaging images, beyond just aesthetic appeal, for commercial applications. It introduces EngagingImageNet, a dataset of user engagement metrics, and EngageNet, a model trained on this data to predict viewer engagement. The research also explores methods for improving text-to-image models to generate more engaging outputs and proposes the Engagement Arena for benchmarking these models."
   },
   {
     "paper_title": "Efficient Causal Decision Making with One-sided Feedback",
@@ -1080,7 +1080,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "The research paper introduces GANDALF, a novel framework designed to improve personalized cancer treatment recommendations. GANDALF leverages generative attention to augment patient genomic data directly, accounting for domain-specific characteristics and outperforming existing state-of-the-art drug response prediction models."
   },
   {
     "paper_title": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
@@ -1118,7 +1118,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research aims to understand how pretraining data biases influence culture-conditioned generations in large language models. The study proposes the MEMOED framework to analyze whether model outputs for specific cultures stem from memorization of pretraining data patterns. Findings indicate that high-frequency cultures in pretraining data lead to more memorized outputs, while low-frequency cultures generate fewer or no such outputs."
   },
   {
     "paper_title": "ASTrA: Adversarial Self-supervised Training with Adaptive-Attacks",
@@ -1170,7 +1170,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces ASTrA, a novel framework for adversarial self-supervised training. ASTrA's primary goal is to enhance model robustness by employing an adaptive, learnable attack strategy network that automatically discovers optimal attack parameters without requiring labeled data. This approach aims to improve adversarial robustness and better align clean and adversarial data distributions compared to existing methods."
   },
   {
     "paper_title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
@@ -1498,7 +1498,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research introduces MotionAura, a novel text-to-video generation framework that employs discrete diffusion models to produce temporally coherent videos aligned with textual descriptions. The core goal is to address the complexities of spatio-temporal video processing, thereby enabling high-quality video generation and manipulation."
   },
   {
     "paper_title": "Teaching Human Behavior Improves Content Understanding Abilities Of VLMs",
@@ -1595,7 +1595,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper aims to develop a formal verification framework for feature sensitivity in additive decision tree ensembles, considering the model's confidence. The authors prove the problem's theoretical hardness and introduce a novel encoding using pseudo-Boolean constraints, leading to a tunable algorithm that balances precision and runtime."
   },
   {
     "paper_title": "EFFICIENT JAILBREAK ATTACK SEQUENCES ON LARGE LANGUAGE MODELS VIA MULTI-ARMED BANDIT-BASED CONTEXT SWITCHING",
@@ -1633,7 +1633,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces a novel \"Sequence of Context\" (SoC) attack that systematically weakens large language model (LLM) safety boundaries through strategically crafted context-switching queries. Formulated as a multi-armed bandit optimization problem, this method learns optimal query sequences to achieve high jailbreak success rates, highlighting critical vulnerabilities in current LLM safeguards."
   },
   {
     "paper_title": "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge",
@@ -2035,7 +2035,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research aims to address the performance disparities of large language models (LLMs) across different languages, which hinder their equitable deployment and societal value. To this end, the paper introduces INCLUDE, a new benchmark suite comprising over 197,000 question-answering pairs derived from local exam sources across 44 languages. This resource is designed to evaluate multilingual LLMs on their understanding and reasoning capabilities within their actual target language environments, moving beyond translated English resources."
   },
   {
     "paper_title": "Neural Wave Equation for Irregularly Sampled Sequence Data",
@@ -2066,7 +2066,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces the Neural Wave Equation, a novel deep learning approach for modeling irregularly sampled sequence data. The method extends existing continuous-time models by also treating model depth as continuous, allowing for greater flexibility and adaptability to varying data complexities. Experiments demonstrate its superior performance on sequence labeling tasks with irregular data."
   },
   {
     "paper_title": "Robust Root Cause Diagnosis using In-Distribution Interventions",
@@ -2104,7 +2104,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces In-Distribution Interventions (IDI), a novel algorithm for robust root cause diagnosis in complex interconnected systems. IDI addresses limitations of prior methods by utilizing \"in-distribution interventions\" rather than unreliable counterfactuals to identify root causes, leading to more accurate anomaly diagnosis. Experiments demonstrate IDI's superior performance compared to existing state-of-the-art methods on both synthetic and benchmark datasets."
   },
   {
     "paper_title": "ONLINE EPSILON NET & PIERCING SET FOR GEOMETRIC CONCEPTS",
@@ -2187,7 +2187,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces DarkBench, a new benchmark designed to detect and measure manipulative \"dark design patterns\" in large language models (LLMs). By evaluating 14 LLMs across six categories of dark patterns, the research reveals the prevalence of such techniques, highlighting the need for ethical AI development."
   },
   {
     "paper_title": "Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing",
@@ -2239,7 +2239,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research investigates bottlenecks in State Space Models (SSMs) that hinder their scalability. The paper identifies a fundamental dilemma between a \"recency bias\" and \"over-smoothing\" as SSMs increase in depth. To address this, a novel \"polarization\" technique is proposed to improve long-range recall and enable SSMs to benefit more from deeper architectures."
   },
   {
     "paper_title": "ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset",
@@ -2291,7 +2291,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "The paper introduces ILLUSION, a comprehensive multi-modal and multi-lingual deepfake dataset designed to address the limitations of existing resources. Its primary goal is to provide a more robust and diverse dataset for training and evaluating deepfake detection models, thereby advancing research in this critical area."
   },
   {
     "paper_title": "Consistency Checks for Language Model Forecasters",
@@ -2350,7 +2350,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper addresses the challenge of evaluating language model (LLM) forecasters, especially for long-term predictions where ground truth is unavailable. The authors propose a novel consistency-based evaluation framework that measures the logical coherence of LLM predictions across related questions, rather than their future accuracy. They introduce an \"arbitrage\" metric and an automated system to generate and assess these consistency checks, demonstrating that this instantaneous evaluation method correlates with future ground truth performance."
   },
   {
     "paper_title": "Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks",
@@ -2381,7 +2381,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research paper introduces a novel defense framework for Large Language Models (LLMs) against socially engineered attacks. The proposed method represents LLM prompts as hypergraphs within a metric space, enabling the classification of harmful versus benign inputs. This approach aims to significantly improve LLM safety by effectively detecting sophisticated, persuasion-based attacks."
   },
   {
     "paper_title": "LiveBench: A Challenging, Contamination-Limited LLM Benchmark",
@@ -2614,7 +2614,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces DISCOVERYBENCH, a comprehensive benchmark designed to evaluate the capabilities of Large Language Models (LLMs) in automating data-driven scientific discovery. The benchmark aims to systematically assess and improve LLM performance in complex, multi-step discovery tasks by formalizing the process and providing a diverse set of real-world and synthetic challenges."
   },
   {
     "paper_title": "SBSC: Step-by-Step Coding for Improving Mathematical Olympiad Performance",
@@ -2659,7 +2659,7 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces Step-by-Step Coding (SBSC), a multi-turn framework designed to improve Large Language Models' (LLMs) performance on Olympiad-level math problems. SBSC enables LLMs to generate a sequence of programs, using outputs from previous steps to guide the generation of subsequent sub-tasks and programs. This sequential approach allows for a more granular and precise problem-solving method, outperforming existing state-of-the-art strategies."
   },
   {
     "paper_title": "Computational Explorations of Total Variation Distance",
@@ -2704,7 +2704,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper explores computational aspects of Total Variation (TV) distance. It presents a deterministic polynomial-time algorithm for checking equivalence between mixtures of product distributions. Additionally, it proves that efficiently estimating the TV distance between arbitrary Ising models is computationally intractable unless NP is contained within RP."
   },
   {
     "paper_title": "Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)",
@@ -2770,7 +2770,7 @@
     ],
     "top_author_from_india": false,
     "majority_authors_from_india": false,
-    "paper_content": "Error generating summary."
+    "paper_content": "This research investigates whether instruction-tuned multimodal large language models (MLLMs) improve alignment with human brain activity during visual processing. The study measures how well MLLMs' responses, generated under various instructions, predict neural visual activity, finding significant improvements over vision-only models. The findings suggest that MLLMs effectively capture instruction-specific visual concepts, offering insights into how these models process information similarly to the brain."
   },
   {
     "paper_title": "MMTEB: Massive Multilingual Text Embedding Benchmark",
@@ -3357,6 +3357,6 @@
     ],
     "top_author_from_india": true,
     "majority_authors_from_india": true,
-    "paper_content": "Error generating summary."
+    "paper_content": "This paper introduces Columnar Stage Network (CoSNet), a novel and concise convolutional neural network architecture. CoSNet aims to improve utility in resource-constrained environments by reducing depth, parameter count, and FLOPs through unique parallel convolutional structures and minimal use of 1x1 convolutions. The research demonstrates that CoSNet achieves competitive performance compared to existing models under such constraints."
   }
 ]
