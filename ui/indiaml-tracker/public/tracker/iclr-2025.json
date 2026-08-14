@@ -41,7 +41,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false
+    "majority_authors_from_india": false,
+    "paper_content": "This research investigates the effectiveness of multi-modal Transformer models in predicting brain activity elicited by multi-modal stimuli, specifically movies with audio. The study aims to determine which type of multi-modal model (cross-modal or jointly pretrained) better aligns with fMRI brain activity and to understand the distinct processing of unimodal versus multi-modal information in the brain."
   },
   {
     "paper_title": "PEAR: Primitive Enabled Adaptive Relabeling for Boosting Hierarchical Reinforcement Learning",
@@ -542,7 +543,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false
+    "majority_authors_from_india": false,
+    "paper_content": "This paper introduces LR0.FM, a benchmark designed to evaluate the zero-shot classification performance of foundation models on low-resolution images. The research also proposes a new metric and a method to improve model robustness against low-resolution degradation without compromising pre-trained weights."
   },
   {
     "paper_title": "Clique Number Estimation via Differentiable Functions of Adjacency Matrix Permutations",
@@ -807,7 +809,8 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true
+    "majority_authors_from_india": true,
+    "paper_content": "This paper introduces PersuasionBench and PersuasionArena, the first comprehensive benchmarks for measuring the persuasive capabilities of Large Language Models (LLMs). The research assesses LLMs' abilities in generating persuasive content, finding that while their simulated persuasion is weak, their generative persuasion is significantly stronger, with models like GPT-4o showing competitive performance against humans. The study also highlights that model persuasiveness can be enhanced through targeted training, challenging the assumption that only larger models are more persuasive, and has important implications for AI regulation."
   },
   {
     "paper_title": "From Search to Sampling: Generative Models for Robust Algorithmic Recourse",
@@ -837,7 +840,8 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true
+    "majority_authors_from_india": true,
+    "paper_content": "This research introduces GenRe, a novel generative model for algorithmic recourse. GenRe aims to provide recommendations for individuals impacted by automated decisions by jointly training key objectives: proximity, plausibility, and validity. This approach leads to more robust and effective recourse suggestions than existing methods."
   },
   {
     "paper_title": "Towards Self-Supervised Covariance Estimation in Deep Heteroscedastic Regression",
@@ -1023,7 +1027,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false
+    "majority_authors_from_india": false,
+    "paper_content": "This paper addresses the challenge of making decisions when outcomes are only known for specific actions, such as approving bank loans. The researchers propose a novel value function to evaluate decision rules and develop efficient methods for decision evaluation and learning from observational data, even without assuming no unmeasured confounders."
   },
   {
     "paper_title": "GANDALF: Generative AttentioN based Data Augmentation and predictive modeLing Framework for personalized cancer treatment",
@@ -1447,7 +1452,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false
+    "majority_authors_from_india": false,
+    "paper_content": "This paper introduces BigDocs-7.5M, a large, open-access dataset designed to train multimodal AI models for document and code understanding tasks. It also presents BigDocs-Bench, a benchmark suite with novel tasks, demonstrating that training with this dataset significantly improves performance on document reasoning and structured output generation compared to proprietary models. The goal is to advance multimodal AI capabilities and facilitate open-source development in this domain."
   },
   {
     "paper_title": "MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion",
@@ -1550,7 +1556,8 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true
+    "majority_authors_from_india": true,
+    "paper_content": "This research aims to improve the content understanding abilities of Vision-Language Models (VLMs) by incorporating receiver behavior signals, such as likes and comments, into their training. The study demonstrates that training VLMs on this readily available, unannotated behavioral data significantly enhances their performance across various downstream tasks, offering a \"free lunch\" improvement in content comprehension."
   },
   {
     "paper_title": "Sensitivity Verification for Additive Decision Tree Ensembles",
@@ -2127,7 +2134,8 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true
+    "majority_authors_from_india": true,
+    "paper_content": "This paper addresses the online epsilon-net and piercing set problems for geometric concepts. The research introduces the first deterministic online algorithm with optimal competitive ratio for intervals in R and near-optimal randomized algorithms for axis-aligned boxes in R^d. Additionally, it develops new techniques for analyzing similar-sized objects and provides asymptotically optimal deterministic algorithms for boxes and ellipsoids in R^d for the continuous online piercing set problem."
   },
   {
     "paper_title": "DarkBench: Benchmarking Dark Patterns in Large Language Models",
@@ -2501,7 +2509,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false
+    "majority_authors_from_india": false,
+    "paper_content": "This paper introduces LiveBench, a novel benchmark designed to provide a more robust evaluation of Large Language Models (LLMs). Its primary goal is to overcome the limitations of existing benchmarks by being resistant to test set contamination and the biases inherent in human or LLM judging. LiveBench achieves this through frequently updated questions from recent sources and objective, automated scoring of answers across a diverse range of challenging tasks."
   },
   {
     "paper_title": "Quantum (Inspired)  $D^2$-sampling with Applications",
@@ -2524,7 +2533,8 @@
       }
     ],
     "top_author_from_india": true,
-    "majority_authors_from_india": true
+    "majority_authors_from_india": true,
+    "paper_content": "This paper introduces a quantum algorithm for D[2]-sampling, a crucial component of k-means++ clustering, aiming for a faster implementation. The research also presents a quantum-inspired classical algorithm derived from the quantum approach and discusses its experimental performance."
   },
   {
     "paper_title": "DiscoveryBench: Towards Data-Driven Discovery with Large Language Models",
@@ -3322,7 +3332,8 @@
       }
     ],
     "top_author_from_india": false,
-    "majority_authors_from_india": false
+    "majority_authors_from_india": false,
+    "paper_content": "The paper introduces the Massive Multilingual Text Embedding Benchmark (MMTEB), a comprehensive evaluation framework for text embedding models. MMTEB expands upon existing benchmarks by including over 500 tasks across more than 250 languages, encompassing novel challenges like instruction and long-document retrieval. This extensive collection enables a more thorough assessment of multilingual embedding model performance."
   },
   {
     "paper_title": "Designing Concise ConvNets with Columnar Stages",
