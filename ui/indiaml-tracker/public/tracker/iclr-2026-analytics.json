@@ -1322,44 +1322,14 @@
         "type": "academic",
         "papers": [
           {
-            "id": "wWkyL8D9xd",
-            "title": "FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "zzTDulLys0",
-            "title": "vAttention: Verified Sparse Attention via Sampling",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "mWN6cpA6Wr",
-            "title": "Contraction and Hourglass Persistence for Learning on Graphs, Simplices, and Cells",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "cUdODCFjUM",
-            "title": "A Dense Subset Index for Collective Query Coverage",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
             "id": "A8wfXZkoMs",
             "title": "Ads that Stick: Near-Optimal Ad Optimization through Psychological Behavior Models",
             "isSpotlight": false,
             "isOral": false
           },
           {
-            "id": "oEtrDiFOFF",
-            "title": "Riemannian Federated Learning via Averaging Gradient Streams",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "q8KqAvdfZK",
-            "title": "Data-Aware and Scalable Sensitivity Analysis for Decision Tree Ensembles",
+            "id": "KW3AD1u5bJ",
+            "title": "Non-Clashing Teaching in Graphs: Algorithms, Complexity, and Bounds",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1370,14 +1340,26 @@
             "isOral": false
           },
           {
-            "id": "HQcCd0laFq",
-            "title": "Exchangeability of GNN Representations  with Applications to Graph Retrieval",
+            "id": "zzTDulLys0",
+            "title": "vAttention: Verified Sparse Attention via Sampling",
             "isSpotlight": false,
-            "isOral": true
+            "isOral": false
           },
           {
-            "id": "KW3AD1u5bJ",
-            "title": "Non-Clashing Teaching in Graphs: Algorithms, Complexity, and Bounds",
+            "id": "oEtrDiFOFF",
+            "title": "Riemannian Federated Learning via Averaging Gradient Streams",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "cUdODCFjUM",
+            "title": "A Dense Subset Index for Collective Query Coverage",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "gv8R88PVEG",
+            "title": "FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1394,27 +1376,45 @@
             "isOral": false
           },
           {
-            "id": "gv8R88PVEG",
-            "title": "FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching",
+            "id": "mWN6cpA6Wr",
+            "title": "Contraction and Hourglass Persistence for Learning on Graphs, Simplices, and Cells",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "HQcCd0laFq",
+            "title": "Exchangeability of GNN Representations  with Applications to Graph Retrieval",
+            "isSpotlight": false,
+            "isOral": true
+          },
+          {
+            "id": "wWkyL8D9xd",
+            "title": "FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "q8KqAvdfZK",
+            "title": "Data-Aware and Scalable Sensitivity Analysis for Decision Tree Ensembles",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
           "",
-          "Divya Jyoti Bajpai",
+          "Pritish Chakraborty",
+          "Prateek Chanda",
+          "Aashay Sandansing",
+          "Mrinal Garg",
+          "Indradyumna Roy",
+          "Sujoy Bhore",
           "Namrita Varshney",
           "Aditya Desai",
-          "Manjesh Kumar Hanawal",
-          "Sujoy Bhore",
-          "Abir De",
-          "Pratik Jawanpuria",
-          "Indradyumna Roy",
-          "Aashay Sandansing",
-          "Prateek Chanda",
           "Arpit Agarwal",
-          "Pritish Chakraborty",
-          "Mrinal Garg"
+          "Manjesh Kumar Hanawal",
+          "Divya Jyoti Bajpai",
+          "Pratik Jawanpuria",
+          "Abir De"
         ]
       },
       {
@@ -1427,14 +1427,20 @@
         "type": "academic",
         "papers": [
           {
+            "id": "fWhRslwYri",
+            "title": "Scalable Random Wavelet Features: Efficient Non-Stationary Kernel Approximation with Convergence Guarantees",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
             "id": "zZyxHmId3w",
             "title": "MIRACLE: Model-free Imitation and Reinforcement Learning for Adaptive Cut-Selection",
             "isSpotlight": false,
             "isOral": false
           },
           {
-            "id": "HvOKarTubb",
-            "title": "Beyond Markovian Drifts: Action-Biased Geometric Walks with Memory for Personalized Summarization",
+            "id": "ziP9zetlLp",
+            "title": "Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1445,28 +1451,22 @@
             "isOral": false
           },
           {
-            "id": "fWhRslwYri",
-            "title": "Scalable Random Wavelet Features: Efficient Non-Stationary Kernel Approximation with Convergence Guarantees",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "ziP9zetlLp",
-            "title": "Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment",
+            "id": "HvOKarTubb",
+            "title": "Beyond Markovian Drifts: Action-Biased Geometric Walks with Memory for Personalized Summarization",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
           "",
-          "HARIPRASAD KODAMANA",
-          "Manojkumar Ramteke",
-          "Vijay Keswani",
-          "Agam Gupta",
           "Ronak Kalvani",
+          "Vijay Keswani",
+          "Manojkumar Ramteke",
           "Souvik Chakraborty",
-          "Tanmoy Chakraborty",
           "Arjun M.",
+          "Agam Gupta",
+          "Tanmoy Chakraborty",
+          "HARIPRASAD KODAMANA",
           "Sawan Kumar"
         ]
       },
@@ -1486,8 +1486,8 @@
             "isOral": false
           },
           {
-            "id": "WliHWqTfAb",
-            "title": "GeoDiv: Framework for Measuring Geographical Diversity in Text-to-Image Models",
+            "id": "cXo4vQudaa",
+            "title": "Enhancing Trustworthiness of Fine-Tuned LLMs via Regularized Subset Selection",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1504,25 +1504,25 @@
             "isOral": false
           },
           {
-            "id": "cXo4vQudaa",
-            "title": "Enhancing Trustworthiness of Fine-Tuned LLMs via Regularized Subset Selection",
+            "id": "WliHWqTfAb",
+            "title": "GeoDiv: Framework for Measuring Geographical Diversity in Text-to-Image Models",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
           "",
-          "Venkatesh Babu Radhakrishnan",
-          "Nishant Sharma",
           "Debangshu Banerjee",
-          "Subhodip Panda",
-          "Abhipsa Basu",
           "Kumar Shubham",
+          "Nirjhar Das",
           "Karn Tiwari",
-          "Aditya Gopalan",
+          "Abhipsa Basu",
+          "Subhodip Panda",
           "Prathosh AP",
           "Mohana Singh",
-          "Nirjhar Das"
+          "Nishant Sharma",
+          "Venkatesh Babu Radhakrishnan",
+          "Aditya Gopalan"
         ]
       },
       {
@@ -1547,24 +1547,24 @@
             "isOral": false
           },
           {
-            "id": "9WiPZy3Kro",
-            "title": "Grounding Computer Use Agents on Human Demonstrations",
+            "id": "zCYXhSy9UH",
+            "title": "Kaleidoscope: In-language Exams for Massively  Multilingual Vision Evaluation",
             "isSpotlight": false,
             "isOral": false
           },
           {
-            "id": "zCYXhSy9UH",
-            "title": "Kaleidoscope: In-language Exams for Massively  Multilingual Vision Evaluation",
+            "id": "9WiPZy3Kro",
+            "title": "Grounding Computer Use Agents on Human Demonstrations",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
           "",
-          "Sai Rajeswar",
           "Perouz Taslakian",
+          "Rishabh Maheshwary",
           "Krishnamurthy Dj Dvijotham",
-          "Rishabh Maheshwary"
+          "Sai Rajeswar"
         ]
       },
       {
@@ -1577,14 +1577,8 @@
         "type": "corporate",
         "papers": [
           {
-            "id": "HA0TnV8r7x",
-            "title": "TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation",
-            "isSpotlight": false,
-            "isOral": false
-          },
-          {
-            "id": "hrnSqERgPn",
-            "title": "THE PATH OF LEAST RESISTANCE: GUIDING LLM REASONING TRAJECTORIES WITH PREFIX CONSENSUS",
+            "id": "RVLMGPXt2i",
+            "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1595,20 +1589,26 @@
             "isOral": false
           },
           {
-            "id": "RVLMGPXt2i",
-            "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
+            "id": "HA0TnV8r7x",
+            "title": "TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation",
+            "isSpotlight": false,
+            "isOral": false
+          },
+          {
+            "id": "hrnSqERgPn",
+            "title": "THE PATH OF LEAST RESISTANCE: GUIDING LLM REASONING TRAJECTORIES WITH PREFIX CONSENSUS",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
+          "Minjong Yoo",
+          "Ingyu Seong",
+          "Yongkweon Jeon",
+          "Seungwoo Son",
           "SACHIN DEV SHARMA",
           "Jayant Taneja",
-          "Seungwoo Son",
           "Sai Prashanth Akuthota",
-          "Minjong Yoo",
-          "Yongkweon Jeon",
-          "Ingyu Seong",
           "Chungman Lee"
         ]
       },
@@ -1622,8 +1622,8 @@
         "type": "academic",
         "papers": [
           {
-            "id": "2q5CugVPoK",
-            "title": "BrowseNet: Graph-Based Associative Memory for Contextual Information Retrieval",
+            "id": "zZyxHmId3w",
+            "title": "MIRACLE: Model-free Imitation and Reinforcement Learning for Adaptive Cut-Selection",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1634,16 +1634,16 @@
             "isOral": false
           },
           {
-            "id": "zZyxHmId3w",
-            "title": "MIRACLE: Model-free Imitation and Reinforcement Learning for Adaptive Cut-Selection",
+            "id": "2q5CugVPoK",
+            "title": "BrowseNet: Graph-Based Associative Memory for Contextual Information Retrieval",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
           "Rijul Tandon",
-          "Kailash Gopal Darmasubramanian",
-          "Nirav Pravinbhai Bhatt"
+          "Nirav Pravinbhai Bhatt",
+          "Kailash Gopal Darmasubramanian"
         ]
       },
       {
@@ -1656,8 +1656,8 @@
         "type": "unknown",
         "papers": [
           {
-            "id": "D9bLUj7wUW",
-            "title": "Cite Pretrain: Retrieval-Free Knowledge Attribution for Large Language Models",
+            "id": "YnNIp38v1M",
+            "title": "CIMemories: A Compositional Benchmark For Contextual Integrity In LLMs",
             "isSpotlight": false,
             "isOral": false
           },
@@ -1668,8 +1668,8 @@
             "isOral": true
           },
           {
-            "id": "YnNIp38v1M",
-            "title": "CIMemories: A Compositional Benchmark For Contextual Integrity In LLMs",
+            "id": "D9bLUj7wUW",
+            "title": "Cite Pretrain: Retrieval-Free Knowledge Attribution for Large Language Models",
             "isSpotlight": false,
             "isOral": false
           }
@@ -1688,21 +1688,21 @@
         "type": "academic",
         "papers": [
           {
-            "id": "sYk9GaFHEf",
-            "title": "CERTIFIED VS. EMPIRICAL ADVERSARIAL ROBUSTNESS VIA HYBRID CONVOLUTIONS WITH ATTENTION STOCHASTICITY",
+            "id": "1FnCrZtBNQ",
+            "title": "LAMDA: A Longitudinal Android Malware Benchmark for Concept Drift Analysis",
             "isSpotlight": false,
             "isOral": false
           },
           {
-            "id": "1FnCrZtBNQ",
-            "title": "LAMDA: A Longitudinal Android Malware Benchmark for Concept Drift Analysis",
+            "id": "sYk9GaFHEf",
+            "title": "CERTIFIED VS. EMPIRICAL ADVERSARIAL ROBUSTNESS VIA HYBRID CONVOLUTIONS WITH ATTENTION STOCHASTICITY",
             "isSpotlight": false,
             "isOral": false
           }
         ],
         "authors": [
-          "Joy Dhar",
-          "Suresh kumar Amalapuram"
+          "Suresh kumar Amalapuram",
+          "Joy Dhar"
         ]
       },
       {
@@ -1715,21 +1715,21 @@
         "type": "academic",
         "papers": [
           {
-            "id": "btEiAfnLsX",
-            "title": "Why DPO is a Misspecified Estimator and How to Fix It",
-            "isSpotlight": false,
-            "isOral": true
-          },
-          {
             "id": "73J3hsato3",
             "title": "Social Agents: Collective Intelligence Improves LLM Predictions",
             "isSpotlight": false,
             "isOral": false
+          },
+          {
+            "id": "btEiAfnLsX",
+            "title": "Why DPO is a Misspecified Estimator and How to Fix It",
+            "isSpotlight": false,
+            "isOral": true
           }
         ],
         "authors": [
-          "Sayak Ray Chowdhury",
-          "Rajiv Ratn Shah"
+          "Rajiv Ratn Shah",
+          "Sayak Ray Chowdhury"
         ]
       },
       {
@@ -1781,10 +1781,10 @@
           }
         ],
         "authors": [
-          "Sayan Saha",
           "",
-          "Arijit Ghosh",
-          "Manmatha Roy"
+          "Manmatha Roy",
+          "Sayan Saha",
+          "Arijit Ghosh"
         ]
       },
       {
@@ -1805,9 +1805,9 @@
         ],
         "authors": [
           "Anshu Avinash",
-          "Harpinder Jot Singh",
           "Divyateja Pasupuleti",
-          "Prakhar Agarwal"
+          "Prakhar Agarwal",
+          "Harpinder Jot Singh"
         ]
       },
       {
@@ -1851,7 +1851,7 @@
         ]
       },
       {
-        "institute": "Indian Institute of Technology Jodhpur",
+        "institute": "IIT Jodhpur",
         "total_paper_count": 1,
         "unique_paper_count": 0,
         "author_count": 1,
@@ -1907,13 +1907,13 @@
           }
         ],
         "authors": [
-          "Pradeep Moturi",
           "Kunal Singh",
+          "Pradeep Moturi",
           "Shreyas Singh"
         ]
       },
       {
-        "institute": "DA-IICT",
+        "institute": "DAIICT",
         "total_paper_count": 1,
         "unique_paper_count": 1,
         "author_count": 3,
@@ -1929,9 +1929,9 @@
           }
         ],
         "authors": [
+          "Parthiv Chatterjee",
           "Asish Joel Batha",
-          "Sourish Dasgupta",
-          "Parthiv Chatterjee"
+          "Sourish Dasgupta"
         ]
       },
       {
@@ -1971,8 +1971,8 @@
           }
         ],
         "authors": [
-          "Rajeev Ranjan Dwivedi",
-          "Vinod K. Kurmi"
+          "Vinod K. Kurmi",
+          "Rajeev Ranjan Dwivedi"
         ]
       },
       {

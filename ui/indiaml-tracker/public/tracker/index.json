@@ -47,5 +47,12 @@
     "analytics": "iclr-2026-analytics.json",
     "venue": "iclr",
     "year": "2026"
+  },
+  {
+    "label": "ICML 2026",
+    "file": "icml-2026.json",
+    "analytics": "icml-2026-analytics.json",
+    "venue": "icml",
+    "year": "2026"
   }
 ]

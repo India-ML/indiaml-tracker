@@ -81,7 +81,8 @@
   "Carnegie Mellon University": {
     "type": "academic",
     "variations": [
-      "CMU, Carnegie Mellon University"
+      "CMU, Carnegie Mellon University",
+      "Carnegie Mellon University"
     ]
   },
   "Cohere": {
@@ -97,23 +98,19 @@
       "Cohere Labs Community"
     ]
   },
-  "DA-IICT": {
-    "type": "academic",
-    "variations": [
-      "DA-IICT",
-      "Dhirubhai Ambani Institute Of Information and Communication Technology",
-      "Dhirubhai Ambani University"
-    ]
-  },
   "DAIICT": {
     "type": "academic",
     "variations": [
-      "Dhirubhai Ambani Institute Of Information and Communication Technology"
+      "DA-IICT",
+      "DAIICT",
+      "Dhirubhai Ambani Institute Of Information and Communication Technology",
+      "Dhirubhai Ambani University"
     ]
   },
   "DTU": {
     "type": "academic",
     "variations": [
+      "DTU",
       "Delhi Technological University (Delhi College of Engineering)"
     ]
   },
@@ -143,6 +140,7 @@
   "Fujitsu": {
     "type": "corporate",
     "variations": [
+      "Fujitsu",
       "Fujitsu Research and Development Center Co. Ltm."
     ]
   },
@@ -199,6 +197,7 @@
     "type": "academic",
     "variations": [
       "Department of Computer Science and Engineering, Indraprastha Institute of Information Technology Delhi",
+      "IIIT Delhi",
       "Indraprastha Institute of Information Technology, Delhi"
     ]
   },
@@ -216,6 +215,7 @@
   "IIM": {
     "type": "academic",
     "variations": [
+      "IIM",
       "Indian Institute of Management"
     ]
   },
@@ -223,6 +223,7 @@
     "type": "academic",
     "variations": [
       "IIM Ahmedabad",
+      "Indian Institute of Management Ahmedabad",
       "Indian Institute of Management, Ahmedabad"
     ]
   },
@@ -241,9 +242,11 @@
       "Indian Institute of Science Education and Research Bhopal"
     ]
   },
-  "IISc": {
+  "IISc Bangalore": {
     "type": "academic",
     "variations": [
+      "IISc",
+      "IISc Bangalore",
       "Indian Institute of Science",
       "Indian Institute of Science, Bangalore",
       "Indian Institute of Science, Bangalore ",
@@ -252,17 +255,10 @@
       "Indian institute of science, Bangalore"
     ]
   },
-  "IISc Bangalore": {
-    "type": "academic",
-    "variations": [
-      "IISc Bangalore",
-      "Indian Institute of Science",
-      "Indian Institute of Science, Indian institute of science, Bangalore"
-    ]
-  },
   "IIT BHU Varanasi": {
     "type": "academic",
     "variations": [
+      "IIT BHU Varanasi",
       "Indian Institute of Technology (Banaras Hindu University) Varanasi"
     ]
   },
@@ -304,6 +300,7 @@
   "IIT Hyderabad": {
     "type": "academic",
     "variations": [
+      "IIT Hyderabad",
       "Indian Institute of Technology Hyderabad",
       "Indian Institute of Technology, Hyderabad"
     ]
@@ -312,13 +309,16 @@
     "type": "academic",
     "variations": [
       "IIT Jodhpur",
-      "Indian Institute of Technology Jodhpur, India"
+      "Indian Institute of Technology Jodhpur",
+      "Indian Institute of Technology Jodhpur, India",
+      "Indian Institute of Technology, Jodhpur"
     ]
   },
   "IIT Kanpur": {
     "type": "academic",
     "variations": [
       "IIT Kanpur",
+      "Indian Institute of Technology Kanpur",
       "Indian Institute of Technology Kanpur (IIT Kanpur)",
       "Indian Institute of Technology, Kanpur"
     ]
@@ -335,6 +335,7 @@
   "IIT Madras": {
     "type": "academic",
     "variations": [
+      "IIT Madras",
       "Indian Institute of Technology Madras",
       "Indian Institute of Technology Madras,",
       "Indian Institute of Technology Madras, Dhirubhai Ambani Institute Of Information and Communication Technology",
@@ -345,7 +346,18 @@
   "IIT Patna": {
     "type": "academic",
     "variations": [
+      "IIT Patna",
       "Indian Institute of Technology, Patna"
+    ]
+  },
+  "IIT Roorkee": {
+    "type": "academic",
+    "variations": [
+      "IIT Roorkee",
+      "Indian Institute of Technology Roorkee",
+      "Indian Institute of Technology, Roorkee",
+      "Indian Institute of Technology, Roorkee, Dhirubhai Ambani Institute Of Information and Communication Technology",
+      "Indian Institution Technology Roorkee"
     ]
   },
   "IIT Ropar": {
@@ -370,40 +382,12 @@
       "Inception"
     ]
   },
-  "Indian Institute of Management Ahmedabad": {
-    "type": "academic",
-    "variations": [
-      "Indian Institute of Management, Ahmedabad"
-    ]
-  },
-  "Indian Institute of Technology Jodhpur": {
-    "type": "academic",
-    "variations": [
-      "Indian Institute of Technology Jodhpur, India",
-      "Indian Institute of Technology, Jodhpur"
-    ]
-  },
-  "Indian Institute of Technology Kanpur": {
-    "type": "academic",
-    "variations": [
-      "Indian Institute of Technology Kanpur"
-    ]
-  },
-  "Indian Institute of Technology Roorkee": {
-    "type": "academic",
-    "variations": [
-      "IIT Roorkee",
-      "Indian Institute of Technology Roorkee",
-      "Indian Institute of Technology, Roorkee",
-      "Indian Institute of Technology, Roorkee, Dhirubhai Ambani Institute Of Information and Communication Technology",
-      "Indian Institution Technology Roorkee"
-    ]
-  },
   "Indo-Korea Science and Technology Center": {
     "type": "academic",
     "variations": [
       "Indo Korea Science and Technology Center",
-      "Indo Korea Science and Technology Center, Bangalore, India"
+      "Indo Korea Science and Technology Center, Bangalore, India",
+      "Indo-Korea Science and Technology Center"
     ]
   },
   "Intel": {
@@ -474,13 +458,15 @@
   "NeuralSpace": {
     "type": "corporate",
     "variations": [
+      "NeuralSpace",
       "NeuralSpace, Inc."
     ]
   },
   "Nirma University": {
     "type": "academic",
     "variations": [
-      "Institute of Technology,Nirma University"
+      "Institute of Technology,Nirma University",
+      "Nirma University"
     ]
   },
   "Ola Krutrim": {
@@ -505,7 +491,8 @@
   "RV College of Engineering": {
     "type": "academic",
     "variations": [
-      "R V College of Engineering"
+      "R V College of Engineering",
+      "RV College of Engineering"
     ]
   },
   "RoentGen Health": {
@@ -526,6 +513,7 @@
   "ScorelabsAI": {
     "type": "corporate",
     "variations": [
+      "ScorelabsAI",
       "ScorelabsAI, USA"
     ]
   },
@@ -572,6 +560,7 @@
     "type": "corporate",
     "variations": [
       "TCS Research & Innovation",
+      "Tata Consultancy Services",
       "Tata Consultancy Services Limited, India"
     ]
   },

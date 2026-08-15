@@ -1,689 +1,116 @@
 Affiliation Name,Affiliation Domain,Affiliation Country
-"University of California Berkeley, USA",berkeley.edu,US
-Unknown,unknown.edu,UNK
-University College Dublin,ucd.ie,IE
-New York University,nyu.edu,US
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Heidelberg University, Heidelberg University",iwr.uni-heidelberg.de,DE
-Heidelberg University,uni-heidelberg.de,DE
-"Paul G. Allen School of Computer Science and Engineering, University of Washington",cs.washington.edu,US
-Cornell University,cornell.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amazon AI Research Lab,amazon.com,US
-Unknown,unknown.edu,UNK
-INRIA,inria.fr,FR
-"University of Tennessee, Knoxville",utk.edu,US
-"University of Tennessee, Knoxville",utk.edu,US
-Unknown,unknown.edu,UNK
-"University of California, Santa Barbara",ucsb.edu,US
-Unknown,unknown.edu,UNK
-"University of Texas, Austin",cs.utexas.edu,US
-Unknown,unknown.edu,UNK
-University of Bristol,bristol.ac.uk,UK
-University of Bristol,bristol.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Cohere AI,cohere.com,CA
 Unknown,unknown.edu,UNK
 Peking University,pku.edu.cn,CN
 Unknown,unknown.edu,UNK
+National University of Defense Technology,nudt.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Point72 Asset Management,point72.com,US
-"Harvard University, Harvard University",g.harvard.edu,US
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-"University of Illinois, Urbana Champaign",illinois.edu,US
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Tianjin University,tju.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Stanford University,stanford.edu,US
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-OpenAI,openai.com,US
-Unknown,unknown.edu,UNK
-University of California Berkeley,berkeley.edu,US
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-KTH Royal Institute of Technology,kth.se,SE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Tel Aviv University,tau.ac.il,IL
-Massachusetts Institute of Technology,mit.edu,US
-"University of California, Berkeley",berkeley.edu,US
-University of California Berkeley,berkeley.edu,US
-Tel Aviv University,tau.ac.il,IL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Westlake University,westlake.edu,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
-Unknown,unknown.edu,UNK
-Alibaba Group,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Carnegie Mellon University,cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Swiss Federal Institute of Technology,ethz.ch,CH
-Beijing Jiaotong University,bjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Tencent,tencent.com,CN
-"University of Roma ""La Sapienza""",uniroma1.it,IT
-Unknown,unknown.edu,UNK
-"Department of Mechanical and Industrial Engineering, University of Toronto, Toronto University",mie.utoronto.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Mohamed bin Zayed University of Artificial Intelligence,mbzuai.ac.ae,AE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
-Google DeepMind,google.com,US
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-DeepMind,deepmind.com,GB
 "Computer Science Department, Stanford University",cs.stanford.edu,US
-Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
-Massachusetts Institute of Technology,mit.edu,US
+École Polytechnique,polytechnique.fr,FR
+The Hong Kong University of Science and Technology,hkust.edu.hk,HK
+Unknown,unknown.edu,UNK
+South China University of Technology,scut.edu.cn,CN
 Google,google.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Facebook,meta.com,US
-Massachusetts Institute of Technology,mit.edu,US
-University of North Carolina at Charlotte,uncc.edu,US
-Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-CSIRO,data61.csiro.au,AU
+Carnegie Mellon University,cmu.edu,US
+Central China Normal University,ccnu.edu.cn,CN
 Unknown,unknown.edu,UNK
-Technische Universität Darmstadt,tu-darmstadt.de,DE
-TU Darmstadt,tu-darmstadt.de,DE
-"University of California, San Diego",ucsd.edu,US
-"University of California, San Diego",ucsd.edu,US
+IBM,us.ibm.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Genentech,gene.com,US
-Genentech,gene.com,US
-Genentech,gene.com,US
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-University of Oxford,ox.ac.uk,UK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Tel Aviv University, Technion",tau.ac.il,IL
+"Institute of information engineering, Chinese Academy of Sciences",iie.ac.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Berkeley",berkeley.edu,US
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-MIT-IBM Watson AI Lab,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Southern California,usc.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Texas at Austin,utexas.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Adobe Systems,adobe.com,US
 Peking University,stu.pku.edu.cn,CN
+Peking University,pku.edu.cn,CN
+MedaiTek Research,mtkresearch.com,TW
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Renmin University of China,ruc.edu.cn,CN
+LG AI Research,lgresearch.ai,AI
+"Department of Electrical Engineering, KU Leuven, Belgium, KU Leuven",esat.kuleuven.be,BE
+City University of Hong Kong,cityu.edu.hk,HK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-University of Washington,cs.washington.edu,US
-"Computer Science Department, Stanford University",cs.stanford.edu,US
+Vanderbilt University,vanderbilt.edu,US
 Unknown,unknown.edu,UNK
-"Cerebras Systems, Inc",cerebras.net,US
+Harvard University,harvard.edu,US
+Harvard University,harvard.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Zhejiang University,zju.edu.cn,CN
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Mayo Clinic,mayo.edu,US
-Unknown,unknown.edu,UNK
-Amazon Development Center Germany,amazon.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Washington,u.washington.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of British Columbia,ubc.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ByteDance Inc.,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-IBM,us.ibm.com,US
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-University of California - Berkeley,,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
-University of Cambridge,cam.ac.uk,UK
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-ETHZ - ETH Zurich,ethz.ch,CH
-Hong Kong University of Science and Technology,ust.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Meta AI,facebook.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Korea Advanced Institute of Science & Technology,kaist.ac.kr,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
-Unknown,unknown.edu,UNK
-Weizmann Institute of Science,weizmann.ac.il,IL
-Unknown,unknown.edu,UNK
-King Abdullah University of Science and Technology,kaust.edu.sa,SA
-"The Chinese University of Hong Kong, The Chinese University of Hong Kong",ee.cuhk.edu.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Alibaba Group US,alibaba-inc.com,CN
-Cornell University,cornell.edu,US
-Cornell University,cornell.edu,US
-Aurora,aurora.tech,US
-Purdue University,purdue.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
-Unknown,unknown.edu,UNK
-JD.com,jd.com,CN
-JD.com,jd.com,CN
-JD,jd.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Amazon Science,amazon.com,US
-Unknown,unknown.edu,UNK
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-University of Michigan - Ann Arbor,umich.edu,US
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Anhui University,ahu.edu.cn,CN
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"CMU, Carnegie Mellon University",andrew.cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-OpenAI,openai.com,US
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
-Huazhong University of Science and Technology,hust.edu.cn,CN
-"University of Virginia, Charlottesville",virginia.edu,US
-Huazhong University of Science and Technology,hust.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Bayerische Julius-Maximilians-Universität Würzburg,uni-wuerzburg.de,DE
-"Tsinghua University, Tsinghua University",mails.tsinghua.edu.cn,CN
-Stanford University,stanford.edu,US
-Institute of Science and Technology Austria,ist.ac.at,AT
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-Mitsubishi Electric Research Labs,merl.com,US
-Mitsubishi Electric Research Labs,merl.com,US
-Alibaba Group,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-"FAIR, Meta AI",meta.com,US
-Meta AI,fb.com,US
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Illinois at Urbana-Champaign,illinois.edu,US
-Unknown,unknown.edu,UNK
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-New York University,nyu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-NAVER Clova,navercorp.com,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-HEC Montreal,hec.ca,CA
-University of Wisconsin - Madison,wisc.edu,US
-Alibaba Group,antgroup.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Meituan,meituan.com,CN
-Unknown,unknown.edu,UNK
-Ecole Nationale de la Statistique et de l'Administration Economique,ensae.fr,FR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Brookhaven National Laboratory,bnl.gov,US
-Brookhaven National Laboratory,bnl.gov,US
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Beijing Institute of Technology,bit.edu.cn,CN
-Beijing Institute of Technology,bit.edu.cn,CN
-"University of California, Los Angeles",ucla.edu,US
-ETHZ - ETH Zurich,ethz.ch,CH
-Unknown,unknown.edu,UNK
-Alibaba Group,alibaba-inc.com,CN
-Nanyang Technological University,ntu.edu.sg,SG
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Netherlands Cancer Institute,nki.nl,NL
-Netherlands Cancer Institute,nki.nl,NL
-J.P. Morgan Chase,jpmorgan.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-Stanford University,stanford.edu,US
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technische Universität Graz,tugraz.at,AT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Melbourne,unimelb.edu.au,AU
-New York University,nyu.edu,US
-Unknown,unknown.edu,UNK
-Stanford University,@stanford.edu,US
-San Jose State University Foundation,,UNK
-"State University of New York, Binghamton",binghamton.edu,US
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Harvard University,fas.harvard.edu,US
-University of Wyoming,uwyo.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-Naver Labs Europe,naverlabs.com,KR
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-University of Chicago,uchicago.edu,US
-Duke University,duke.edu,US
-KTH Royal Institute of Technology,kth.se,SE
-Unknown,unknown.edu,UNK
-Universität Stuttgart,uni-stuttgart.de,DE
-Technische Universität München,tum.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Leiden University,leidenuniv.nl,NL
-Leiden University,leidenuniv.nl,NL
-EPFL - EPF Lausanne,epfl.ch,CH
-Unknown,unknown.edu,UNK
-Adobe Systems,adobe.com,US
-University of Oxford,ox.ac.uk,UK
-Unknown,unknown.edu,UNK
-Baichuan,baichuan.inc,CN
-Unknown,unknown.edu,UNK
-VinAI Research,vinai.io,IO
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Google,google.com,US
-DeepMind,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-"IGSNRR, Chinese Academy of Sciences, Beijing, China",lreis.ac.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-HEC Montreal,hec.ca,CA
-Stanford University,stanford.edu,US
-University of Oxford,ox.ac.uk,UK
-University of California Berkeley,berkeley.edu,US
-Microsoft,microsoft.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Duke University,duke.edu,US
-Meta,meta.com,US
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Michigan - Ann Arbor,umich.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Alibaba Group,alibaba-inc.com,CN
-Max-Planck Institute,mpg.de,DE
-Nagoya University,nagoya-u.ac.jp,JP
-NTT,ntt.co.jp,JP
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Cornell University,cornell.edu,US
-KU Leuven,kuleuven.be,BE
-KU Leuven,kuleuven.be,BE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Criteo,criteo.com,FR
-Unknown,unknown.edu,UNK
-Samsung,samsung.com,KR
-NEC-Labs,nec-labs.com,JP
-Samsung SDSA,samsung.com,KR
-Samsung SDS Research America,samsung.com,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-RTE France,rte-france.com,UNK
-Harbin Institute of Technology,hit.edu.cn,CN
-Unknown,unknown.edu,UNK
-ByteDance Inc.,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-IBM,us.ibm.com,US
-Stanford University,stanford.edu,US
-EMPA Swiss Federal Laboratories for Materials Science and Technology,empa.ch,CH
-Unknown,unknown.edu,UNK
-University of Toronto,utoronto.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-University of Birmingham,bham.ac.uk,UK
-Unknown,unknown.edu,UNK
-University of California Berkeley,berkeley.edu,US
-Unknown,unknown.edu,UNK
-Meta,meta.com,US
-Unknown,unknown.edu,UNK
-Centro Nacional de Inteligencia Artificial,cenia.cl,CL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Los Angeles",ucla.edu,US
-University of Pennsylvania,upenn.edu,US
-Baylor College of Medicine,bcm.edu,UNK
-Baylor College of Medicine,bcm.edu,UNK
-"Max Planck Institute for Intelligent Systems, Max-Planck Institute",tuebingen.mpg.de,DE
-Baylor College of Medicine,bcm.edu,UNK
 Unknown,unknown.edu,UNK
 University of Montreal,umontreal.ca,CA
 Unknown,unknown.edu,UNK
+University of Delaware,udel.edu,US
 Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal",mila.umontreal.ca,CA
 HEC Montreal,hec.ca,CA
 Unknown,unknown.edu,UNK
+Karlsruher Institut für Technologie,kit.edu,DE
+Google,google.com,US
 Unknown,unknown.edu,UNK
-University of Southern California,usc.edu,US
-University of Southern California,usc.edu,US
+"Computer Science Department, Stanford University",cs.stanford.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Southeast University,seu.edu.cn,CN
-EURECOM,eurecom.fr,FR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Texas at Austin,utexas.edu,US
-Johns Hopkins University,jhu.edu,US
-Meta Inc.,meta.com,US
-Unknown,unknown.edu,UNK
-"Computer Science Department, University of California, Los Angeles",cs.ucla.edu,US
-"Electrical Engineering & Computer Science Department, University of California Berkeley",eecs.berkeley.edu,US
 University of California Berkeley,berkeley.edu,US
 Unknown,unknown.edu,UNK
+Genentech,gene.com,US
+Unknown,unknown.edu,UNK
+Genentech Research and Early Development,gene.com,US
+Genentech,gene.com,US
+Terray Theraputics,terraytx.com,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+New York University,nyu.edu,US
+"The Chinese University of Hong Kong, Shenzhen",cuhk.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-University of California Berkeley,berkeley,UNK
-Harvard University,harvard.edu,US
-Facebook,meta.com,US
-Meta ,meta.com,US
-Facebook,fb.com,US
-Massachusetts Institute of Technology,mit.edu,US
-University College Dublin,ucd.ie,IE
+TU Darmstadt,tu-darmstadt.de,DE
+Unknown,unknown.edu,UNK
+Columbia University,columbia.edu,US
+University of Toronto,toronto.edu,CA
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Tongji University,tongji.edu.cn,CN
-"KTH Royal Institute of Technology, Stockholm, Sweden",kth.se,SE
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-University of Science and Technology of China,ustc.edu.cn,CN
-"Technion, Technion",technion.ac.il,IL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+City University of Hong Kong,cityu.edu.hk,HK
+Unknown,unknown.edu,UNK
+Apple,apple.com,US
+Unknown,unknown.edu,UNK
+Beijing University of Aeronautics and Astronautics,buaa.edu.cn,CN
+Unknown,unknown.edu,UNK
+University of Oxford,ox.ac.uk,UK
+University of Oxford,oxford.ac.uk,UK
+Meta AI,meta.com,US
+Facebook AI Research,fb.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+Central South University,csu.edu.cn,CN
+Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
@@ -695,1086 +122,93 @@ Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 "CMU, Carnegie Mellon University",andrew.cmu.edu,US
-University of Notre Dame,nd.edu,US
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Technion, Technion",technion.ac.il,IL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook AI Research,fb.com,US
-William Marsh Rice University,rice.edu,US
-"Computer Science Department, Stanford University",cs.stanford.edu,US
-University of British Columbia,ubc.ca,CA
-"University of Virginia, Charlottesville",virginia.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Los Alamos National Laboratory,lanl.gov,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Toronto,utoronto.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Meta AI,fb.com,US
-German Aerospace Center (DLR),dlr.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Technion - Israel Institute of Technology, Technion",technion.ac.il,IL
-Imperial College London,imperial.ac.uk,UK
-"Soochow University, China",suda.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-TU Dortmund University,udo.edu,UNK
-Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Google,google.com,US
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Tsinghua University,mails.tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Politecnico di Milano,polimi.it,IT
-University of Michigan,umich.edu,US
-Unknown,unknown.edu,UNK
-Amazon,amazon.com,US
-Amazon,amazon.com,US
-University of Science and Technology of China,mail.ustc.edu.cn,CN
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Facebook,fb.com,US
-School of Artificial Intelligence,nju.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ByteDance Inc.,bytedance.com,CN
-University of Alberta,ualberta.ca,CA
-Unknown,unknown.edu,UNK
-TNO,tno.nl,NL
-Utrecht University,uu.nl,NL
-Unknown,unknown.edu,UNK
-Hong Kong Polytechnic University,polyu.edu.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of North Carolina at Chapel Hill,unc.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Peking University,stu.pku.edu.cn,CN
-Harbin Institute of Technology,hit.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ByteDance Inc,bytedance.com,CN
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Singapore Management University,smu.edu.sg,SG
-Unknown,unknown.edu,UNK
-Amazon Science,amazon.com,US
-Amazon,amazon.com,US
-Princeton University,princeton.edu,US
-University of California Berkeley,berkeley.edu,US
-"University of California, San Diego",ucsd.edu,US
-"Technion - Israel Institute of Technology, Technion",technion.ac.il,IL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Stanford University,stanford.edu,US
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Chicago,uchicago.edu,US
-Allen Institute,alleninstitute.org,US
-Allen Institute,alleninstitute.org,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-JD,jd.com,CN
-Unknown,unknown.edu,UNK
-"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",ia.ac.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-DeepMind,google.com,US
-Harbin Institute of Technology,hit.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Pennsylvania,upenn.edu,US
-Unknown,unknown.edu,UNK
-"Computer Science Department, Stanford University",cs.stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Tianjin University,tju.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University College London, University of London",ucl.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Hong Kong University of Science and Technology,ust.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Department of Biomedical Engineering, Tsinghua University",tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Oslo,uio.no,NO
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technische Universität München,tum.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Chicago,uchicago.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,meta.com,US
-Meta Platforms Inc.,meta.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
 Carnegie Mellon University,cmu.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-"Technion, Technion",technion.ac.il,IL
-Unknown,unknown.edu,UNK
-Technische Universität Darmstadt,tu-darmstadt.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-IIIT Hyderabad,,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-NAVER Corporation,navercorp.com,KR
-"Univ Rennes, Inria, CNRS, IRISA",inria.fr,FR
-INRIA Rennes,inria.fr,FR
-Unknown,unknown.edu,UNK
-"University College London, University of London",ucl.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Mohamed bin Zayed University of Artificial Intelligence,mbzuai.ac.ae,AE
-Unknown,unknown.edu,UNK
-Adobe Systems,adobe.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",mails.tsinghua.edu.cn,CN
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Oxford,ox.ac.uk,UK
-"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Idiap Research Institute,idiap.ch,CH
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-University of Technology Sydney,uts.edu.au,AU
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-San Jose State University,sjsu.edu,UNK
-University of Notre Dame,nd.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Oracle,oracle.com,US
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Carnegie-Mellon University,,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Naval Postgraduate School,nps.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"CyberAgent, Inc.",cyberagent.co.jp,JP
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-Purdue University,purdue.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amazon Science,amazon.com,US
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-New York University,nyu.edu,US
-"KU Leuven, KU Leuven",cs.kuleuven.be,BE
-Unknown,unknown.edu,UNK
-Brown University,brown.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Southern California,usc.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ETHZ - ETH Zurich,ethz.ch,CH
+Southeast University,seu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Technische Universität München,tum.de,DE
+Technical University Munich,tum.de,DE
+Unknown,unknown.edu,UNK
+École Polytechnique,polytechnique.fr,FR
+INRIA,inria.fr,FR
+The University of Tokyo,u-tokyo.ac.jp,JP
+Oregon State University,,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Université de Montréal,umontreal.ca,CA
-Duke University,ece.duke.edu,US
-Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Electrical Engineering & Computer Science, Massachusetts Institute of Technology",eecs.mit.edu,US
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+Pennsylvania State University,psu.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Columbia University,columbia.edu,US
-Unknown,unknown.edu,UNK
-Sensetime,sensetime.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"IGSNRR, Chinese Academy of Sciences, Beijing, China",lreis.ac.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-OpenAI,openai.com,US
-Anthropic,anthropic.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-NVIDIA,nvidia.com,US
-Tsinghua University,cs.tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Getulio Vargas Foundation,fgv.br,BR
-"Sambanova Systems, Inc",sambanovasystems.com,UNK
-Sambanova Systems,sambanovasystems.ai,AI
-Unknown,unknown.edu,UNK
-SambaNova Systems,sambanova.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of Washington, Seattle",cs.washington.edu,US
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-TU Darmstadt,tu-darmstadt.de,DE
-Unknown,unknown.edu,UNK
+Samsung,samsung.com,KR
 Google,google.com,US
-Google,google.com,US
-"Research, Google",research.google.com,US
 Google,google.com,US
 Google,google.com,US
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Politecnico di Milano,polimi.it,IT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+Swiss Federal Institute of Technology,ethz.ch,CH
+"Max Planck Institute for Intelligent Systems, Max-Planck Institute",tuebingen.mpg.de,DE
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amrita Vishwa Vidyapeetham (Deemed University),amrita.edu,UNK
-Singapore Management University,smu.edu.sg,SG
-Unknown,unknown.edu,UNK
-Meta,meta.com,US
-Facebook,fb.com,US
-Facebook,meta.com,US
-Duke University,duke.edu,US
-University of Chicago,uchicago.edu,US
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Oxford,ox.ac.uk,UK
-Unknown,unknown.edu,UNK
-University of Pennsylvania,upenn.edu,US
-"University of California, Berkeley",berkeley.edu,US
-Yonsei University,yonsei.ac.kr,KR
+"University of California, Irvine",uci.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+The University of Tokyo,u-tokyo.ac.jp,JP
+Unknown,unknown.edu,UNK
+Harvard University,harvard.edu,US
+Google DeepMind,google.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Meta ,meta.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-KTH Royal Institute of Technology,kth.se,SE
-Unknown,unknown.edu,UNK
-"national university of singaore, National University of Singapore",u.nus.edu,SG
-HEC Montreal,hec.ca,CA
-Tianjin University of Technology,tjut.edu.cn,CN
-Unknown,unknown.edu,UNK
-United States Naval Academy,usna.edu,UNK
-Genentech,gene.com,US
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Indian Institute of Technology Bombay,iitb.ac.in,IN
-IIT Gandhinagar,iitgn.ac.in,IN
-Unknown,unknown.edu,UNK
-Technische Universität Berlin,tu-berlin.de,DE
-DESY,desy.de,DE
-Unknown,unknown.edu,UNK
-Ecole Normale Superieure,ens.fr,FR
-Amazon,amazon.com,US
-Amazon,amazon.com,US
-University of Arizona,arizona.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+Zhejiang University,zju.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Vrije Universiteit Brussel,vub.be,BE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-DeepMind,deepmind.com,GB
-Unknown,unknown.edu,UNK
-University of Texas at Austin,utexas.edu,US
-Scale AI,scale.com,US
-Unknown,unknown.edu,UNK
-Meta,meta.com,US
-Facebook AI Research,facebook.com,US
-Unknown,unknown.edu,UNK
-Nankai University,nankai.edu.cn,CN
-Yale University,yale.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-", Chinese Academy of Sciences",ict.ac.cn,CN
-Unknown,unknown.edu,UNK
-Sun Yat-sen University Cancer Center ,university.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Meta AI,ai.meta.com,US
-Unknown,unknown.edu,UNK
-Ludwig-Maximilians-Universität München,lmu.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-", University of California, Santa Barbara",cs.ucsb.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ByteDance Inc.,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Criteo,criteo.com,FR
-Criteo,criteo.fr,FR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Berkeley",berkeley.edu,US
-University of Oxford,oxford.ac.uk,UK
-Unknown,unknown.edu,UNK
-"School of Computer and Communication Sciences, EPFL - EPF Lausanne",ic.epfl.ch,CH
-Unknown,unknown.edu,UNK
-Technische Universität Berlin,tu-berlin.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-McGill University,mcgill.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Nanjing University,nju.edu.cn,CN
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, San Diego",ucsd.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
-ByteDance Inc.,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Singapore Management University,smu.edu.sg,SG
-Unknown,unknown.edu,UNK
-Northwestern University,northwestern.edu,US
-Raytheon Technologies Research Center,rtx.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Sambanova Systems, Inc",sambanovasystems.com,UNK
-Unknown,unknown.edu,UNK
-Insitro,insitro.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Computer Science Department, University of California, Los Angeles",cs.ucla.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Cornell University,cornell.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-China Nanhu Academy of Electronics and Information Technology,cnaeit.com,UNK
-Zhejiang University,zju.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Ludwig-Maximilians-Universität München,lmu.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-SAS Institute Inc.,sas.com,UNK
-"University of California, Riverside",ucr.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+Sony AI,sony.com,JP
+"Department of Computer Science, University of Toronto",cs.toronto.edu,CA
+Unknown,unknown.edu,UNK
+Intel,intel.com,US
+Google DeepMind,google.com,US
+Google Research,google.com,US
 Google DeepMind,google.com,US
 Unknown,unknown.edu,UNK
-DeepMind,deepmind.com,GB
-Google DeepMind,deepmind.com,GB
+Johns Hopkins University,jh.edu,US
+Tencent Research,tencent.com,CN
 Unknown,unknown.edu,UNK
-Tsinghua University,thu.edu.cn,CN
-Zhejiang University,zju.edu.cn,CN
-Unknown,unknown.edu,UNK
+Johns Hopkins University,jhu.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Microsoft Inc,microsoft.com,US
-Meta,meta.com,US
-Apple,apple.com,US
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Los Angeles",ucla.edu,US
-Sungkyunkwan University,skku.edu,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Qualcomm Inc, QualComm",qti.qualcomm.com,US
-"Qualcomm Inc, QualComm",qti.qualcomm.com,US
-QualComm,qualcomm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-CUNY Graduate Center,cuny.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Columbia University,columbia.edu,US
-HEC Montreal,hec.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Peking University,stu.pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Ulsan University,ulsan.ac.kr,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Science and Technology of China,ustc.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-IBM,us.ibm.com,US
-IBM TJ Watson Research Center,researcher.watson.ibm.com,US
-IBM Research,ibm.com,US
-International Business Machines,ibm.com,US
-International Business Machines,ibm.com,US
 Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
-NAVER CLOUD,navercorp.com,KR
-University of Cambridge,cam.ac.uk,UK
+"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",ia.ac.cn,CN
+"School of Computer and Communication Sciences, EPFL - EPF Lausanne",ic.epfl.ch,CH
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Rice University,rice.edu,US
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-University of Michigan - Ann Arbor,umich.edu,US
-University of Michigan - Ann Arbor,umich.edu,US
-Unknown,unknown.edu,UNK
-Columbia University,ee.columbia.edu,US
-National Taiwan University,ntu.edu.tw,TW
+Shanghai Jiaotong University,sjtu.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 University of Chicago,uchicago.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
+Pohang University of Science and Technology,postech.ac.kr,KR
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+University of Virginia,virginia.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Nanjing University,nju.edu.cn,CN
-University of Milan,unimi.it,IT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-Yale University,yale.edu,US
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
-Carnegie Mellon University,cmu.edu,US
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-University of Oxford,ox.ac.uk,UK
-oppo,oppo.com,CN
-Unknown,unknown.edu,UNK
-University of Hong Kong,hku.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
-Layer6,layer6.ai,AI
-Unknown,unknown.edu,UNK
-Salesforce Research,salesforce.com,US
-Airbus CRT,airbus.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Nanjing University,nju.edu.cn,CN
-MIT-IBM Watson AI Lab,ibm.com,US
-Huawei Technologies Ltd.,huawei.com,CN
-Unknown,unknown.edu,UNK
-University of Alberta,ualberta.ca,CA
-LG Corporation,lgresearch.ai,AI
-Unknown,unknown.edu,UNK
-Pingan Technology,pingan.com.cn,CN
-Unknown,unknown.edu,UNK
-PAII Inc.,pingan.com.cn,CN
-Fudan University,fudan.edu.cn,CN
-Fudan University,fudan.edu.cn,CN
-Unknown,unknown.edu,UNK
-"Universidad de Chile, Universidad de Chile",dcc.uchile.cl,CL
-Massachusetts Institute of Technology,mit.edu,US
-DeepMind,deepmind.com,GB
 Unknown,unknown.edu,UNK
 Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Iowa,uiowa.edu,US
-University of Iowa,uiowa.edu,US
-Unknown,unknown.edu,UNK
-"Pennsylvania State University, Behrend College",psu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-National University of Singapore,nus.edu,SG
-Unknown,unknown.edu,UNK
-"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
-Microsoft Research,microsoft.com,US
-Unknown,unknown.edu,UNK
-LG AI Research,lgresearch.ai,AI
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Nanjing University of Aeronautics and Astronautics,nuaa.edu.cn,CN
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Southern California,usc.edu,US
-"University of Minnesota, Minneapolis",umn.edu,US
-NVIDIA,nvidia.com,US
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-Shanghai Qizhi Institute,sqz.ac.cn,CN
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Northeastern University,northeastern.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Technion, Technion",technion.ac.il,IL
-University of Connecticut,uconn.edu,US
-Shanghai Jiao Tong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Hippocratic AI,hippocraticai.com,UNK
-Lawrence Livermore National Labs,llnl.gov,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-The University of Warwick,warwick.ac.uk,UK
-"The Chinese University of Hong Kong, Shenzhen",link.cuhk.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Facebook,fb.com,US
-Brown University,brown.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Fudan University,fudan.edu.cn,CN
-Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Huazhong University of Science and Technology,hust.edu.cn,CN
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Nanjing University,nju.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Imperial College London,imperial.ac.uk,UK
-"University College London, University of London",ucl.ac.uk,UK
-Unknown,unknown.edu,UNK
-"Peking University, Tsinghua University",pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Northwestern University,northwestern.edu,US
-"University of California, San Diego",ucsd.edu,US
-Northwestern University,u.northwestern.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-EPFL - EPF Lausanne,epfl.ch,CH
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Harvard University, Harvard University",g.harvard.edu,US
-Harvard University,fas.harvard.edu,US
-MIT-IBM Watson AI Lab,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Nanjing University of Science and Technology,njust.edu.cn,CN
-University of Pennsylvania,upenn.edu,US
-Johannes Kepler University Linz,jku.at,AT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Zhongnan University of Economics and Law,zuel.edu.cn,CN
-Facebook,fb.com,US
-Université de Lausanne,unil.ch,CH
-Samsung,samsung.com,KR
-The University of Tokyo,u-tokyo.ac.jp,JP
-NVIDIA,nvidia.com,US
-Northeastern University,neu.edu,US
-University of Notre Dame,nd.edu,US
-Stanford University,stanford.edu,US
-"UC Berkeley, University of California, Berkeley",cs.berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Harvard University,harvard.edu,US
-University of Michigan - Ann Arbor,umich.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Berkeley",berkeley.edu,US
-University of California Berkeley,berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Montreal,umontreal.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Alberta,ualberta.ca,CA
-EPFL - EPF Lausanne,epfl.ch,CH
-"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Beijing Jiaotong University,bjtu.edu.cn,CN
-Alibaba Group,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Fraunhofer IOSB,iosb.fraunhofer.de,DE
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Tencent AI Lab,tencent.com,CN
-Ant Group,antgroup.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-ASAPP,asapp.com,US
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Florida International University,fiu.edu,US
-"Megagon Labs, Inc",megagon.ai,AI
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-Tsinghua University,tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of Maryland, College Park",umd.edu,US
-"University of Maryland, College Park",umd.edu,US
-"University of Maryland, College Park",umd.edu,US
-"University of Maryland, College Park",umd.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-Alibaba Group US,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-National University of Singapore,nus.edu.sg,SG
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, San Diego",ucsd.edu,US
-"Electrical Engineering & Computer Science Department, University of California Berkeley",eecs.berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Ludwig-Maximilians-Universität München,lmu.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Facebook,facebook.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Lawrence Livermore National Labs,llnl.gov,US
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Temple University,temple.edu,US
-Amazon AI Research Lab,amazon.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Nankai University,nankai.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Hong Kong Polytechnic University,polyu.edu.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"City, University of London",city.ac.uk,UK
-University of Oxford,ox.ac.uk,UK
-Sony AI,sony.com,JP
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Yale University,yale.edu,US
-Unknown,unknown.edu,UNK
-"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",ia.ac.cn,CN
+University of the Chinese Academy of Sciences,ucas.edu.cn,CN
 Unknown,unknown.edu,UNK
 "School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
-Salesforce Research,salesforce.com,US
-Unknown,unknown.edu,UNK
-Kakao Corp,kakaocorp.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Technion - Israel Institute of Technology, Technion - Israel Institute of Technology",campus.technion.ac.il,IL
+Northwestern University,northwestern.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
@@ -1786,382 +220,78 @@ Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Peking University, Tsinghua University",pku.edu.cn,CN
-Unknown,unknown.edu,UNK
+Scale AI,scale.com,US
 Rice University,rice.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
 Massachusetts Institute of Technology,mit.edu,US
+George Mason University,gmu.edu,US
 Unknown,unknown.edu,UNK
-Google,google.com,US
-Department of Computer Science,cs.washington.edu,US
-Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
-"Harvard University, Harvard University",g.harvard.edu,US
-Unknown,unknown.edu,UNK
-"Harvard University, Harvard University",fas.harvard.edu,US
-"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
-Alipay,alipay.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, San Diego",ucsd.edu,US
-"University of California, San Diego",ucsd.edu,US
-Unknown,unknown.edu,UNK
-"The Chinese University of Hong Kong, Shenzhen",cuhk.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"IBM, International Business Machines",us.ibm.com,US
-Unknown,unknown.edu,UNK
-University of Pittsburgh,pitt.edu,US
-IBM T.J.Watson Research,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"IBM, International Business Machines",us.ibm.com,US
-International Business Machines,ibm.com,US
-"IBM Research - Tokyo, International Business Machines",jp.ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-"IBM, International Business Machines",us.ibm.com,US
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-"University of Maryland, College Park",umd.edu,US
-"University of Maryland, College Park",umd.edu,US
-Unknown,unknown.edu,UNK
-Anhui University,ahu.edu.cn,CN
 University of Cambridge,cam.ac.uk,UK
 University of Cambridge,cam.ac.uk,UK
-Genentech,gene.com,US
-Genentech,gene.com,US
+University of Cambridge,cam.ac.uk,UK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Facebook,meta.com,US
-Baidu,baidu.com,CN
+Peking University,pku.edu.cn,CN
+Didi Research,didichuxing.com,CN
+Peking University,stu.pku.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ByteDance Inc.,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
 "University of California, Los Angeles",ucla.edu,US
-University of Haifa,haifa.ac.il,IL
-Friedrich-Schiller Universität Jena,uni-jena.de,DE
 Unknown,unknown.edu,UNK
-Alibaba Group,alibaba-inc.com,CN
-Alibaba Group,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-International Business Machines,ibm.com,US
-International Business Machines,ibm.com,US
-Microsoft Research,microsoft.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Technion, Technion",technion.ac.il,IL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Karlsruher Institut für Technologie,kit.edu,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Berkeley",berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Montreal,umontreal.ca,CA
-University of Minnesota - Twin Cities,umn.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Earth Species Project,earthspecies.org,UNK
-Earth Species Project,earthspecies.org,UNK
-Massachusetts Institute of Technology,,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Northwestern University,northwestern.edu,US
-Allen Institute for Artificial Intelligence,allenai.org,US
-Unknown,unknown.edu,UNK
-Allen Institute for Artificial Intelligence,allenai.org,US
-Unknown,unknown.edu,UNK
-Genentech,gene.com,US
-"Prescient Design - Genentech, Roche",roche.com,CH
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-IBM Research,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-NVIDIA,nvidia.com,US
-Texas A&M,tamu.edu,US
-Unknown,unknown.edu,UNK
-Toyota Research Institute,tri.global,US
-Unknown,unknown.edu,UNK
-National University of Singapore,nus.edu,SG
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Apple,apple.com,US
-Apple,apple.com,US
-Apple,apple.com,US
-Stanford University,stanford.edu,US
-Columbia University,columbia.edu,US
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Hebrew University of Jerusalem, Israel",huji.ac.il,IL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Oxford,ox.ac.uk,UK
-Facebook,fb.com,US
-"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",ia.ac.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
+Google,google.com,US
+Google Inc,google.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Google,google.com,US
-Carnegie Mellon University,cmu.edu,US
-Unknown,unknown.edu,UNK
-University of Southern California,usc.edu,US
-University of Oxford,ox.ac.uk,UK
-Unknown,unknown.edu,UNK
-"CMU, Carnegie Mellon University",andrew.cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Istituto Italiano di Tecnologia,iit.it,IT
-Istituto Italiano di Tecnologia,iit.it,IT
-Unknown,unknown.edu,UNK
-University of California Berkeley,berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Research, Google",research.google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Zhejiang University,zju.edu.cn,CN
-Unknown,unknown.edu,UNK
-Alibaba Group,alibaba-inc.com,CN
-"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of Edinburgh, University of Edinburgh",ed.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Alibaba Group US,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Tohoku University,tohoku.ac.jp,JP
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Honda R&D,jp.honda,UNK
-"Honda R&D Co.,Ltd.",jp.honda,UNK
-meituan,meituan.com,CN
-Peking University,pku.edu.cn,CN
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-INRIA Rennes,inria.fr,FR
-"Institute for AI Industry Research, Tsinghua University",air.tsinghua.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Bytedance Inc.,bytedance.com,CN
-AWS,amazon.com,US
-Unknown,unknown.edu,UNK
-"Department of Computer Science, ETHZ - ETH Zurich",inf.ethz.ch,CH
-"University of the West of England, Bristol",uwe.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google DeepMind,google.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Department of Computer Science,cs.illinois.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Tencent WeiXin Group,tencent.com,CN
-"Computer Science Department, University of California, Los Angeles",cs.ucla.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Intel,intel.com,US
-"University of California, San Diego",ucsd.edu,US
-NVIDIA,nvidia.com,US
-NVIDIA,nvidia.com,US
-Huazhong University of Science and Technology,hust.edu.cn,CN
-Unknown,unknown.edu,UNK
-Korea University,korea.ac.kr,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Microsoft Research,microsoft.com,US
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of British Columbia,ubc.ca,CA
-ServiceNow Research,servicenow.com,US
-Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"The Chinese University of Hong Kong, Shenzhen",cuhk.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Nankai University,nankai.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Google,google.com,US
-University of Cambridge,cam.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Qualcomm Inc, QualComm",qti.qualcomm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Shanghai University of Finance and Economics,shufe.edu,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Science and Technology of China,ustc.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Indian Institute of Technology Bombay,iitb.ac.in,IN
-IIT Gandhinagar,iitgn.ac.in,IN
-University of Melbourne,unimelb.edu.au,AU
-Ludwig-Maximilians-Universität München,lmu.de,DE
-Georgia Institute of Technology,gatech.edu,US
-University of Technology Sydney,uts.edu.au,AU
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Heidelberg University,uni-heidelberg.de,DE
-Unknown,unknown.edu,UNK
 Harvard University,harvard.edu,US
-Samsung Research,samsung.com,KR
-Samsung Electronics,samsung.com,KR
-Alibaba Group,alibaba-inc.com,CN
+Google Research,google.com,US
 Unknown,unknown.edu,UNK
-South China University of Technology,scut.edu.cn,CN
-"KRAFTON, Inc.",krafton.com,KR
+University of Cambridge,cam.ac.uk,UK
+University of Montreal,umontreal.ca,CA
+"Technion - Israel Institute of Technology, Technion",technion.ac.il,IL
+Unknown,unknown.edu,UNK
+Megvii Technology Inc.,megvii.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-", University of Texas at Austin",cs.utexas.edu,US
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+TU Wien Vienna University of Technology,tuwien.ac.at,AT
+"University of California, San Diego",ucsd.edu,US
+Cornell University,cornell.edu,US
+Google,google.com,US
+"University of Maryland, College Park",umd.edu,US
+"University of Maryland, College Park",umd.edu,US
 Unknown,unknown.edu,UNK
 Google,google.com,US
-Unknown,unknown.edu,UNK
-Google DeepMind,google.com,US
-Unknown,unknown.edu,UNK
-University of California Berkeley,berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amazon,amazon.com,US
-Carnegie Mellon University,cmu.edu,US
-Carnegie Mellon University,cmu.edu,US
-Carnegie Mellon University,cmu.edu,US
 Unknown,unknown.edu,UNK
 Princeton University,princeton.edu,US
-Korea Advanced Institute of Science & Technology,kaist.edu,KR
-National University of Singapore,nus.edu.sg,SG
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-National Taiwan University,ntu.edu.tw,TW
-Apple AI/ML,apple.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Harvard University, Harvard University",g.harvard.edu,US
+Alibaba Group,alibaba-inc.com,CN
+LinkedIn,linkedin.com,US
+Columbia University,columbia.edu,US
+University of Basel,unibas.ch,CH
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+ETHZ - ETH Zurich,ethz.ch,CH
+Unknown,unknown.edu,UNK
+OpenAI,openai.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
@@ -2169,739 +299,1489 @@ Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 East China Normal University,ecnu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Computer Science Department, Stanford University",cs.stanford.edu,US
-Stanford University,stanford.edu,US
-Infinigence-AI,infini-ai.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-Universidad de Zaragoza,unizar.es,ES
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-AIGC,mobiuspace.com,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-CISPA Helmholtz Center for Information Security,cispa.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Stanford University,stanford.edu,US
-Stanford University,stanford.edu,US
-Unknown,unknown.edu,UNK
-"University of Washington, Seattle",cs.washington.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-IBM Research,ibm.com,US
-Unknown,unknown.edu,UNK
-Duke University,duke.edu,US
-Universität Kassel,uni-kassel.de,DE
-Universität Kassel,uni-kassel.de,DE
-The Chinese University of Hong Kong (Shenzhen),cuhk.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Montreal,umontreal.ca,CA
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Southern California,usc.edu,US
-Harvard University,harvard.edu,US
-Unknown,unknown.edu,UNK
-University of Illinois Urbana-Champaign,illinois.edu,US
-"University of Illinois, Urbana Champaign",illinois.edu,US
-", University of Texas at Austin",cs.utexas.edu,US
-Unknown,unknown.edu,UNK
-École Polytechnique,polytechnique.fr,FR
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+"Department of Computer Science, ETHZ - ETH Zurich",inf.ethz.ch,CH
 Princeton University,princeton.edu,US
+National University of Defense Technology,nudt.edu.cn,CN
+National University of Defense Technology,nudt.edu.cn,CN
 Unknown,unknown.edu,UNK
-KTH Royal Institute of Technology,kth.se,SE
-KTH Royal Institute of Technology,kth.se,SE
-Dalian University of Technology,dlut.edu.cn,CN
 Unknown,unknown.edu,UNK
+Johns Hopkins University School of Public Health,sph.jhu.edu,US
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Montreal,umontreal.ca,CA
-Unknown,unknown.edu,UNK
-Scale AI,scale.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-", Academia Sinica",iis.sinica.edu.tw,TW
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Tencent AI Lab,tencent.com,CN
-Unknown,unknown.edu,UNK
-VISA,visa.com,US
-VISA,visa.com,US
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-bytedance Inc,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Texas at Austin,utexas.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Rutgers University,rutgers.edu,US
-Alibaba Group,alibaba-inc.com,CN
-Apple,apple.com,US
-Massachusetts Institute of Technology,mit.edu,US
-Apple,apple.com,US
-Massachusetts Institute of Technology,mit.edu,US
-Imperial College London,imperial.ac.uk,UK
-Yonsei University,yonsei.ac.kr,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Korea University,korea.ac.kr,KR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal",mila.umontreal.ca,CA
-HEC Montreal,hec.ca,CA
-Simula Research Laboratories,simula.no,NO
-Unknown,unknown.edu,UNK
-University of Texas at Austin,utexas.edu,US
-Massachusetts Institute of Technology,mit.edu,US
-", A*STAR",i2r.a-star.edu.sg,SG
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-University of Sydney,sydney.edu.au,AU
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
-Amazon,amazon.com,US
-Unknown,unknown.edu,UNK
-International Business Machines,ibm.com,US
-Universidade de São Paulo,usp.br,BR
-International Business Machines,ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ByteDance AILab,bytedance.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Duke University,duke.edu,US
-DeepMind,deepmind.com,GB
-DeepMind,deepmind.com,GB
-Brown University,brown.edu,US
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Meta AI,meta.com,US
-"Max Planck Institute for Intelligent Systems, Max-Planck Institute",tue.mpg.de,DE
-Unknown,unknown.edu,UNK
-University of Texas at Austin,utexas.edu,US
-Unknown,unknown.edu,UNK
-"University of Texas, Austin",cs.utexas.edu,US
-Shanghai Jiaotong University,sjtu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Hugging Face,huggingface.co,CO
-Hugging Face,huggingface.co,CO
-The Swiss AI Lab IDSIA,idsia.ch,CH
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-National Taiwan University,ntu.edu.tw,TW
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Pennsylvania,upenn.edu,US
-Alibaba Group,alibaba-inc.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-New York University,nyu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Northwestern Polytechnical University,nwpu.edu.cn,CN
-Zhejiang University City College,zu.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technische Universität München,tum.de,DE
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"University of California, Davis",ucdavis.edu,US
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-"Research, Microsoft",research.microsoft.com,US
-Unknown,unknown.edu,UNK
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technische Universität Wien,tuwien.ac.at,AT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of California Berkeley,berkeley.edu,US
-"CMU, Carnegie Mellon University",andrew.cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-ShanghaiTech University,shanghaitech.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+Seoul National University,snu.ac.kr,KR
+Universiteit Gent,ugent.be,BE
+East China Normal University,ecnu.edu.cn,CN
+OpenAI,openai.com,US
+OpenAI,openai.com,US
 Huazhong University of Science and Technology,hust.edu.cn,CN
 Unknown,unknown.edu,UNK
-Columbia University,columbia.edu,US
-Columbia University,columbia.edu,US
-Unknown,unknown.edu,UNK
-"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
-Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Mila,mila.quebec,CA
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Georgia Institute of Technology,gatech.edu,US
-Unknown,unknown.edu,UNK
+"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Baidu,baidu.com,CN
-Unknown,unknown.edu,UNK
-EPFL - EPF Lausanne,epfl.ch,CH
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"KTH Royal Institute of Technology, Stockholm, Sweden",kth.se,SE
-Getulio Vargas Foundation,fgv.br,BR
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Relation Therapeutics,relationrx.com,UNK
-Washington University in St. Louis,wust.edu,UNK
-Hong Kong Polytechnic University,polyu.edu.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Computer Science Department, Stanford University",cs.stanford.edu,US
-Amazon,amazon.com,US
+SAP,sap.com,UNK
 Stanford University,stanford.edu,US
 Unknown,unknown.edu,UNK
-"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Massachusetts Institute of Technology,mit.edu,US
+University of Cambridge,cam.ac.uk,UK
+The Chinese University of Hong Kong (Shenzhen),cuhk.edu.cn,CN
+"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
 Unknown,unknown.edu,UNK
-Shenzhen University,szu.edu.cn,CN
+Aalto University,aalto.fi,FI
 Unknown,unknown.edu,UNK
+Amazon,amazon.com,US
+New York University,nyu.edu,US
+Central South University,csu.edu.cn,CN
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-CISPA Helmholtz Center for Information Security,cispa.de,DE
-Nankai University,nankai.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+Tongji University,tongji.edu.cn,CN
+"Institute of Software, Chinese Academy of Sciences",iscas.ac.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Shanghai Jiao Tong University,sjtu.edu.cn,CN
+University of California Berkeley,berkeley.edu,US
+University of Manchester,cs.manchester.ac.uk,UK
+Unknown,unknown.edu,UNK
+New Jersey Institute of Technology,njit.edu,US
+California Institute of Technology,caltech.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+eBay Search Science Team,ebay.com,US
+University of Pittsburgh,pitt.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Huazhong Agricultural University,hzau.edu.cn,CN
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+NVIDIA,nvidia.com,US
 "University of California, San Diego",ucsd.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+New Jersey Institute of Technology,njit.edu,US
+Unknown,unknown.edu,UNK
+Samsung,samsung.com,KR
+Technical University Munich,tum.de,DE
+"Department of Computer Science, Cornell University",cs.cornell.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Harbin Institute of Technology,hit.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technion,,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Harvard University,harvard.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Weizmann Institute of Science,weizmann.ac.il,IL
-Unknown,unknown.edu,UNK
-Meta Artificial Intelligence Research,meta.com,US
-University of Queensland,uq.edu.au,AU
-LG AI Research,lgresearch.ai,AI
-Carnegie Mellon University,cmu.edu,US
-NVIDIA,nvidia.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Pennsylvania,upenn.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Harbin Institute of Technology,hit.edu.cn,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
-Microsoft,microsoft.com,US
-Harvard University,fas.harvard.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Harvard University,harvard.edu,US
-"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University College London,ucl.ac.uk,UK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Facebook,fb.com,US
-"University of California, Berkeley",berkeley.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-LinkedIn,linkedin.com,US
-Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
-Amazon,amazon.com,US
-Massachusetts Institute of Technology,mit.edu,US
-University of North Carolina at Charlotte,uncc.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Carnegie Mellon University,cmu.edu,US
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-McGill University,mcgill.ca,CA
-Toyota Research Institute,tri.global,US
-Apple,apple.com,US
 Stanford University,stanford.edu,US
 Unknown,unknown.edu,UNK
+Carnegie Mellon University,cmu.edu,US
 Unknown,unknown.edu,UNK
-"Institute of Automation, Chinese Academy of Sciences",ia.ac.cn,CN
-"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",ia.ac.cn,CN
-"IBM, International Business Machines",us.ibm.com,US
 Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
-Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of British Columbia,ubc.ca,CA
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Pfizer,pfizer.com,UNK
+Unknown,unknown.edu,UNK
+"Machine Learning Department, School of Computer Science",mld.cs.cmu.edu,US
 Ludwig-Maximilians-Universität München,lmu.de,DE
+Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Beijing Institute for General Artificial Intelligence,bigai.ai,AI
 Peking University,pku.edu.cn,CN
-"Department of Computer Science, ETHZ - ETH Zurich",inf.ethz.ch,CH
-Unknown,unknown.edu,UNK
-Politecnico di Milano,polimi.it,IT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"Computer Science Department, Stanford University",cs.stanford.edu,US
-Nanyang Technological University,ntu.edu,SG
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Korea Advanced Institute of Science & Technology,kaist.ac.kr,KR
-Massachusetts Institute of Technology,mit.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Johns Hopkins University,jhu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Microsoft Research,microsoft.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
-Carnegie Mellon University,cmu.edu,US
-Fudan University,fudan.edu.cn,CN
-Unknown,unknown.edu,UNK
-Stanford University,@stanford.edu,US
-Unknown,unknown.edu,UNK
-Instituto Superior Técnico,tecnico.ulisboa.pt,PT
-"Department of Electrical Engineering, KU Leuven, Belgium, KU Leuven",esat.kuleuven.be,BE
-"National Center for Tumor diseases, Dresden",nct-dresden.de,DE
 Peking University,pku.edu.cn,CN
-"Technion - Israel Institute of Technology, Technion - Israel Institute of Technology",campus.technion.ac.il,IL
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-University of Cambridge,cam.ac.uk,UK
+Beihang University,buaa.edu.cn,CN
+DeepMind,deepmind.com,GB
+Boston University,bu.edu,US
+Boston University,bu.edu,US
 Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Paris-Lodron-University of Salzburg,sbg.ac.at,AT
+Unknown,unknown.edu,UNK
+International Business Machines,ibm.com,US
+International Business Machines,ibm.com,US
+Microsoft,microsoft.com,US
+Meta Fundamental AI Research,meta.com,US
 Massachusetts Institute of Technology,mit.edu,US
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Toyota Technological Institute at Chicago,ttic.edu,US
-Unknown,unknown.edu,UNK
-University of Chicago,uchicago.edu,US
-Toyota Technological Institute at Chicago,ttic.edu,US
-Carnegie Mellon University,cmu.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Hong Kong University of Science and Technology,ust.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 The Chinese University of Hong Kong (Shenzhen),cuhk.edu.cn,CN
+University of Melbourne,unimelb.edu,AU
+Facebook,meta.com,US
+University of California - Berkeley,,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Chinese University of Hong Kong,cuhk.hk,HK
-Unknown,unknown.edu,UNK
-Johns Hopkins University,jhu.edu,US
-Unknown,unknown.edu,UNK
-University of Chinese Academy of Sciences,cn.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Hong Kong University of Science and Technology,ust.hk,HK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-JD.com,jd.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technische Universität München,tum.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-United Automotive Electronic Systems,uaes.com,UNK
-UAES,uaes.com,UNK
+HEC Paris,hec.fr,FR
 École Polytechnique,polytechnique.fr,FR
-"Tsinghua University, Tsinghua University",mail.tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+Shandong University,sdu.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Microsoft,microsoft.com,US
+Johannes Kepler Universität Linz,jku.at,AT
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
 Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Apple,apple.com,US
-Stanford University,stanford.edu,US
-Stanford University,stanford.edu,US
-Apple,apple.com,US
+"University of California, Berkeley",berkeley.edu,US
 Unknown,unknown.edu,UNK
-Facebook,fb.com,US
+University of California Berkeley,berkeley.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+State University of New York at Stony Brook,stonybrook.edu,US
+"University of California, Santa Barbara",ucsb.edu,US
+Central South University,csu.edu.cn,CN
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-University of Michigan,umich.edu,US
-Chalmers University of Technology,chalmers.se,SE
-Unknown,unknown.edu,UNK
-Chalmers University of Technology,chalmers.se,SE
+Santa Fe Institute,santafe.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Pingan Technology,pingan.com.cn,CN
+AMD,amd.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-University of Alberta,ualberta.ca,CA
 Unknown,unknown.edu,UNK
-Apple,apple.com,US
+"Department of Computer Science, University of Toronto",cs.toronto.edu,CA
+Unknown,unknown.edu,UNK
+Intel,intel.com,US
+Unknown,unknown.edu,UNK
+Ecole Normale Superieure Paris-Saclay,ens-paris-saclay.fr,FR
+Hunan University,hnu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+The Chinese University of Hong Kong,cuhk.edu.hk,HK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Qatar Computing Research Institute,hbku.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,,UNK
+"King's College London, University of London",kcl.ac.uk,UK
+Mayo Clinic,mayo.edu,US
+Unknown,unknown.edu,UNK
+Toyota Technological Institute at Chicago,ttic.edu,US
 Google,google.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Northeastern University,neu.edu.cn,CN
+Duke University,duke.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-"University of California, San Diego",ucsd.edu,US
-"Computer Science Department, Stanford University",cs.stanford.edu,US
-Facebook,fb.com,US
-National University of Singapore,nus.edu.sg,SG
+Unknown,unknown.edu,UNK
+Huawei Technologies Ltd.,huawei.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Hebei University of Technology,hebut.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+ETHZ - ETH Zurich,ethz.ch,CH
+NVIDIA,nvidia.com,US
+Unknown,unknown.edu,UNK
+Amazon,amazon.com,US
+NVIDIA,nvidia.com,US
+University of Toronto,utoronto.ca,CA
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Facebook,meta.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Maryland, College Park",umd.edu,US
+University of Waterloo,uwaterloo.ca,CA
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Technology Innovation Institute,polytechnique.edu,US
+"King's College London, University of London",kcl.ac.uk,UK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Technische Universität München,tum.de,DE
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Monash University,monash.edu,UNK
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+"UC Berkeley, University of California, Berkeley",cs.berkeley.edu,US
+Wuhan University,whu.edu.cn,CN
+Wuhan University,whu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Qualcomm Inc, QualComm",qti.qualcomm.com,US
+QualComm,qualcomm.com,US
+"University College London, University of London",ucl.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Karlsruher Institut für Technologie,kit.edu,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+École Polytechnique,polytechnique.fr,FR
+J.P. Morgan Chase,jpmorgan.com,US
+Hong Kong University of Science and Technology,ust.hk,HK
+Fudan University,fudan.edu.cn,CN
+University of Bristol,bristol.ac.uk,UK
+Google DeepMind,google.com,US
+Uppsala University,uu.se,SE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
+"Indian Institute of Technology, Delhi",iitd.ac.in,IN
+University of Cambridge,cam.ac.uk,UK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Aalto University,aalto.fi,FI
 Unknown,unknown.edu,UNK
+Universidad de Granada,ugr.es,ES
+Carnegie Mellon University,cmu.edu,US
+Université de Rennes 2,univ-rennes2.fr,FR
+Nankai University,nankai.edu.cn,CN
 Unknown,unknown.edu,UNK
-"Department of Computer Science, University of Toronto",cs.toronto.edu,CA
-Stanford University,stanford.edu,US
-Stanford University,stanford.edu,US
-Spotify,spotify.com,US
-Spotify,spotify.com,US
-Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
+University of Edinburgh,edinburgh.org,GB
+ByteDance Inc.,bytedance.com,CN
+Alibaba Group,alibaba-inc.com,CN
 Unknown,unknown.edu,UNK
-"School of Computer and Communication Sciences, EPFL - EPF Lausanne",ic.epfl.ch,CH
+Unknown,unknown.edu,UNK
+C3 AI,c3.ai,AI
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+LG AI Research,lgresearch.ai,AI
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 "Department of Computer Science, University of Washington",cs.washington.edu,US
 Unknown,unknown.edu,UNK
+Toyota Research Institute,tri.global,US
+Unknown,unknown.edu,UNK
+VISA,visa.com,US
+Peking University,pku.edu.cn,CN
+Alipay,alipay.com,UNK
+Duke University,duke.edu,US
+"University of California, San Diego",ucsd.edu,US
+Araya Inc.,araya.org,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Delft University of Technology,tudelft.nl,NL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Amazon,amazon.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Flatiron Institute,flatironinstitute.org,US
+New York University,nyu.edu,US
+Flatiron Institute,flatironinstitute.org,US
+CNRS,cnrs.fr,FR
+"Flatiron Institute, Simons Foundation",flatironinstitute.org,US
+Technion,,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Eindhoven University of Technology,tue.nl,NL
+Imperial College London,ic.ac.uk,UK
+Stanford University,stanford.edu,US
+University of Utah,utah.edu,US
+Unknown,unknown.edu,UNK
+"Electrical Engineering & Computer Science Department, University of California Berkeley",eecs.berkeley.edu,US
+"Computer Science Department, Stanford University",cs.stanford.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+National University of Defense Technology,nudt.edu.cn,CN
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Hunan University,hnu.edu.cn,CN
+Xi'an University ,xidian.edu.cn,CN
+Unknown,unknown.edu,UNK
+Nanyang Technological University,ntu.edu,SG
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+nanjing university,nju.edu.cn,CN
+Johns Hopkins University,jh.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Peking University,pku.edu.cn,CN
+Microsoft,microsoft.com,US
+Higher School of Economics,hse.ru,RU
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Purdue University,purdue.edu,US
+Unknown,unknown.edu,UNK
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Yonsei University,yonsei.ac.kr,KR
+Criteo,criteo.com,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+MIT-IBM Watson AI Lab,ibm.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Stanford University,@stanford.edu,US
+Baylor College of Medicine,bcm.edu,UNK
+Harbin Institute of Technology,hit.edu.cn,CN
+Emory University,emory.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Amazon,amazon.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+University of Pennsylvania,upenn.edu,US
+NVIDIA,nvidia.com,US
+"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
+Unknown,unknown.edu,UNK
+SUN YAT-SEN UNIVERSITY,sysu.edu.cn,CN
+Chalmers University of Technology,chalmers.se,SE
+AstraZeneca,astrazeneca.com,GB
+AstraZeneca,astrazeneca.com,GB
+University of Science and Technology of China,ustc.edu.cn,CN
+Unknown,unknown.edu,UNK
+Google,google.com,US
+University of Pennsylvania,upenn.edu,US
+Cornell University,cornell.edu,US
+Google DeepMind,google.com,US
+Google,google.com,US
+Google,google.com,US
+University of Toronto,utoronto.ca,CA
+Unknown,unknown.edu,UNK
+Beijing University of Aeronautics and Astronautics,buaa.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Technische Universität München,tum.de,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Carnegie Mellon University,cmu.edu,US
+Huawei Technologies Ltd.,huawei.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+KTH Royal Institute of Technology,kth.se,SE
+Adobe Systems,adobe.com,US
+Meta,meta.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Amazon,amazon.com,US
+Amazon AI Research Lab,amazon.com,US
+"Soochow University, China",suda.edu.cn,CN
+Peking University,stu.pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+New York University,nyu.edu,US
+Unknown,unknown.edu,UNK
+Apple,apple.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Beijing Institute for General Artificial Intelligence,bigai.ai,AI
+Peking University,pku.edu.cn,CN
+"United Automotive Electronic Systems Co., Ltd.",uaes.com,UNK
+"United Automotive Electronic Systems Co., Ltd.",uaes.com,UNK
+United Automotive Electronic Systems,uaes.com,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Westlake University,westlake.edu,CN
+Unknown,unknown.edu,UNK
+Hebrew University of Jerusalem,huji.ac.il,IL
+Unknown,unknown.edu,UNK
+DeepMind,google.com,US
+Unknown,unknown.edu,UNK
+Yale University,yale.edu,US
+Sony AI,sony.com,JP
+"University of California, Los Angeles",ucla.edu,US
+National University of Defense Technology,nudt.edu.cn,CN
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, Davis",ucdavis.edu,US
+Columbia University,columbia.edu,US
+Columbia University,columbia.edu,US
+Unknown,unknown.edu,UNK
+MIT-IBM Watson AI Lab,ibm.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Politecnico di Milano,polimi.it,IT
+University of Montreal,umontreal.ca,CA
+Unknown,unknown.edu,UNK
+Huawei Technologies Ltd.,huawei.com,CN
+Georgia Institute of Technology,gatech.edu,US
+Institute of Science and Technology Austria,ist.ac.at,AT
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Karlsruher Institut für Technologie,kit.edu,DE
+Eberhard-Karls-Universität Tübingen,uni-tuebingen.de,DE
+Eberhard-Karls-Universität Tübingen,uni-tuebingen.de,DE
+International Business Machines,ibm.com,US
+"IBM, International Business Machines",us.ibm.com,US
+Unknown,unknown.edu,UNK
+University of Illinois Urbana Champaign,illinois.edu,US
+Department of Computer Science,cs.illinois.edu,US
+University of Illinois at Chicago,uic.edu,US
+"University of California, San Diego",ucsd.edu,US
+Unknown,unknown.edu,UNK
+"Flatiron Institute, Simons Foundation",flatironinstitute.org,US
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Oxford,ox.ac.uk,UK
+Unknown,unknown.edu,UNK
+Korea University,korea.ac.kr,KR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+NorthWest University of China,nwu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Hippocratic AI,hippocraticai.com,UNK
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Shanghai University of Finance and Economics,sufe.edu.cn,CN
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+"Indian Institute of Technology, Delhi",iitd.ac.in,IN
+Indian Institute of Technology Delhi,iitd.ac.in,IN
+Unknown,unknown.edu,UNK
+J.P. Morgan Chase,jpmorgan.com,US
+"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
+Borealis AI,borealisai.com,CA
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+ByteDance,bytedance.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+McGill University,mail.mcgill.ca,CA
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+ETHZ - ETH Zurich,ethz.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Meta AI,meta.com,US
+Yale University,yale.edu,US
+Unknown,unknown.edu,UNK
+Aarhus University,au.dk,DK
+Meta,fb.com,US
+Unknown,unknown.edu,UNK
+"University of Wisconsin, Madison",wisc.edu,US
+Intel,intel.com,US
+"University of California, Los Angeles",ucla.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Science and Technology of China,ustc.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+CNRS,cnrs.fr,FR
+Unknown,unknown.edu,UNK
+Google DeepMind,google.com,US
+DeepMind,deepmind.com,GB
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Universität Leipzig,uni-leipzig.de,DE
+Unknown,unknown.edu,UNK
+"Hebrew University, Hebrew University of Jerusalem",cs.huji.ac.il,IL
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Hugging Face,huggingface.co,CO
+University of Chicago,uchicago.edu,US
+Unknown,unknown.edu,UNK
+HuggingFace,huggingface.co,CO
+Unknown,unknown.edu,UNK
+Zhejiang University,zju.edu.cn,CN
+Layer 6,layer6.ai,AI
+Unknown,unknown.edu,UNK
+"Tel Aviv University, Tel Aviv University",tauex.tau.ac.il,IL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Oxford,oxford.ac.uk,UK
+Spotify,spotify.com,US
+University of Cambridge,cam.ac.uk,UK
+Technische Universität Hamburg,tuhh.de,DE
+Technische Universität Hamburg,tuhh.de,DE
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+University of Pennsylvania,upenn.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Texas at Austin,utexas.edu,US
+Southeast University,seu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Getulio Vargas Foundation,fgv.br,BR
+Stanford University,stanford.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+University of Texas at Dallas,utdallas.edu,US
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Hasso Plattner Institute,hpi.de,DE
+"Ecole Polytechnique, France",polytechnique.fr,FR
+Université de Montréal,umontreal.ca,CA
+Facebook,fb.com,US
+Facebook,fb.com,US
+"Electrical Engineering & Computer Science, Massachusetts Institute of Technology",eecs.mit.edu,US
+Salk Institute,salk.edu,US
+EURECOM,eurecom.fr,FR
+University of Technology Sydney,uts.edu.au,AU
+KTH Royal Institute of Technology,kth.se,SE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Genentech,gene.com,US
+Genentech,gene.com,US
+Genentech,gene.com,US
+Genentech,gene.com,US
+Politecnico di Milano,polimi.it,IT
+Unknown,unknown.edu,UNK
+"KU Leuven, KU Leuven",cs.kuleuven.be,BE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Syracuse University,syr.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Facebook,meta.com,US
+Meta,meta.com,US
+Unknown,unknown.edu,UNK
+"Ben Gurion University of the Negev, Technion",bgu.ac.il,IL
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,,UNK
+University of Pennsylvania,pennmedicine.upen.edu,UNK
+"University of Pennsylvania, University of Pennsylvania",upenn.edu,US
+Unknown,unknown.edu,UNK
+Brown University,brown.edu,US
+Brown University,brown.edu,US
+The University of Tokyo,u-tokyo.ac.jp,JP
+University of Oxford,eng.ox.ac.uk,UK
+University of Oxford,ox.ac.uk,UK
+University of Montreal,umontreal.ca,CA
+University of Oxford,ox.ac.uk,UK
+"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Snap Inc.,snap.com,US
+Unknown,unknown.edu,UNK
+"Harvard University, Harvard University",fas.harvard.edu,US
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+University of Alberta,ualberta.ca,CA
+Southeast University,seu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unversity of Cambridge,cl.cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Purdue University,purdue.edu,US
+Johns Hopkins University,jhu.edu,US
+Meta,meta.com,US
+Shanghai Jiaotong University,sjtu.edu.cn,CN
+"University of Sydney, University of Sydney",usyd.edu.au,AU
+Unknown,unknown.edu,UNK
+OpenAI,openai.com,US
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+Stanford University,stanford.edu,US
+Hong Kong University of Science and Technology,ust.hk,HK
+Nankai University,nankai.edu.cn,CN
+East China Normal University,ecnu.edu,UNK
+Unknown,unknown.edu,UNK
+Google,google.com,US
+"Research, Google",research.google.com,US
+Unknown,unknown.edu,UNK
+Samsung,samsung.com,KR
+Seoul National University,snu.ac.kr,KR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Google,google.com,US
+University of Pennsylvania,upenn.edu,US
+University of Washington,u.washington.edu,US
+"Electrical Engineering & Computer Science, Massachusetts Institute of Technology",eecs.mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, Berkeley",berkeley.edu,US
+University of Amsterdam,uva.nl,NL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Hanyang University,hanyang.ac.kr,KR
+Unknown,unknown.edu,UNK
+Rebellions Inc.,rebellions.ai,AI
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+New York University,nyu.edu,US
+Amazon,amazon.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Northeastern University,northeastern.edu,US
+Unknown,unknown.edu,UNK
+LinkedIn,linkedin.com,US
+Unknown,unknown.edu,UNK
+Department of Computer Science,cs.washington.edu,US
+"University of California, San Diego",ucsd.edu,US
+Unknown,unknown.edu,UNK
+Nagoya University,nagoya-u.ac.jp,JP
+"Department of Computer Science, University of Washington",cs.washington.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Department of Computer Science and Engineering, Hong Kong University of Science and Technology",cse.ust.hk,HK
+"Department of Computer Science and Engineering, Hong Kong University of Science and Technology",cse.ust.hk,HK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Universitat Pompeu Fabra,upf.edu,PH
+"University of Texas, Austin",cs.utexas.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Alibaba Group,alibaba-inc.com,CN
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+Stanford University,stanford.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+University of Washington,u.washington.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Apple AI Research,apple.com,US
+Apple,apple.com,US
+Columbia University,columbia.edu,US
+Google,google.com,US
+Google DeepMind,google.com,US
+Google,google.com,US
+Columbia University,columbia.edu,US
+Unknown,unknown.edu,UNK
+"Hebrew University, Hebrew University of Jerusalem",cs.huji.ac.il,IL
+Unknown,unknown.edu,UNK
+Universität Leipzig,uni-leipzig.de,DE
+Hugging Face,huggingface.co,CO
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+Google,google.com,US
+Google,google.com,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Apple AI/ML,apple.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Carnegie Mellon University,cmu.edu,US
+"Computer Science Department, University of California, Los Angeles",cs.ucla.edu,US
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-"IBM, International Business Machines",us.ibm.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Technische Universität München,tum.de,DE
-Technische Universität München,tum.de,DE
-Technische Universität München,tum.de,DE
-Technische Universität München,tum.de,DE
-Technische Universität München,tum.de,DE
-Technische Universität München,tum.de,DE
-South China University of Technology,scut.edu.cn,CN
-Princeton University,princeton.edu,US
-Amazon,amazon.com,US
-Amazon,amazon.com,US
 Peking University,pku.edu.cn,CN
 Unknown,unknown.edu,UNK
-"Max Planck Institute for Intelligent Systems, Max-Planck Institute",tuebingen.mpg.de,DE
-Swiss Federal Institute of Technology,ethz.ch,CH
+Unknown,unknown.edu,UNK
+TU Darmstadt,tu-darmstadt.de,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+University of Notre Dame,nd.edu,US
+"Harvard University, Harvard University",g.harvard.edu,US
+"Boston University, Boston University",bu.edu,US
+Facebook,fb.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
 Unknown,unknown.edu,UNK
 Microsoft,microsoft.com,US
-University of Montreal,umontreal.ca,CA
-Unknown,unknown.edu,UNK
-"School of Engineering and Applied Sciences, Harvard University",g.harvard.edu,US
-Unknown,unknown.edu,UNK
-Alibaba Group,antgroup.com,CN
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Amazon Alexa AI,amazon.com,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-DeepMind,google.com,US
-Unknown,unknown.edu,UNK
-"University of California, Berkeley",berkeley.edu,US
-Apple,apple.com,US
-Unknown,unknown.edu,UNK
-TU Dortmund University,udo.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
-Technische Universität München,tum.de,DE
-"Deparment of Computing + Mathematical Sciences, California Institute of Technology",cms.caltech.edu,US
-ETHZ - ETH Zurich,ethz.ch,CH
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Princeton University,princeton.edu,US
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Meta AI,meta.com,US
-The University of Tokyo,u-tokyo.ac.jp,JP
-Unknown,unknown.edu,UNK
-Stanford University,stanford.edu,US
-Duisburg-Essen University,uni-due.de,DE
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-"Max Planck Institute for Intelligent Systems, Max-Planck Institute",tuebingen.mpg.de,DE
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-The Chinese University of Hong Kong (Shenzhen),cuhk.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Toronto,utoronto.ca,CA
-The Hong Kong University of Science and Technology,connect.ust.hk,HK
-New York University,nyu.edu,US
-BigHat Biosciences,bighatbio.com,UNK
-Peking University,pku.edu.cn,CN
-Unknown,unknown.edu,UNK
-University of Amsterdam,uva.nl,NL
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Institute of Science and Technology,ist.ac.at,AT
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 DeepMind,deepmind.com,GB
-Google,deepmind.com,GB
-Google,google.com,US
-University of Michigan,umich.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Massachusetts Institute of Technology,mit.edu,US
-Massachusetts Institute of Technology,mit.edu,US
-Tencent Research,tencent.com,CN
+CEA,cea.fr,FR
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-University of Birmingham,bham.ac.uk,UK
-University of Oxford,ox.ac.uk,UK
-Yale University,yale.edu,US
-Johns Hopkins University,jhu.edu,US
+"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",ia.ac.cn,CN
+Unknown,unknown.edu,UNK
+Criteo,criteo.com,FR
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"IGSNRR, Chinese Academy of Sciences, Beijing, China",lreis.ac.cn,CN
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+ByteDance Inc.,bytedance.com,CN
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Hanyang University,hanyang.ac.kr,KR
+Mohamed bin Zayed University of Artificial Intelligence,mbzuai.ac.ae,AE
+Beijing University of Posts and Telecommunications,bupt.edu.cn,CN
+Xi'an Jiaotong University,xjtu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Technion - Israel Institute of Technology, Technion",technion.ac.il,IL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Université de Montréal,umontreal.ca,CA
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+International Business Machines,ibm.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Electronic Science and Technology of China,uestc.edu.cn,CN
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Hong Kong,hku.hk,HK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Institute of Science and Technology,ist.ac.at,AT
 Unknown,unknown.edu,UNK
 Stanford University,stanford.edu,US
-Toyota Research Institute,tri.global,US
+Stanford University,@stanford.edu,US
 Unknown,unknown.edu,UNK
-"Dexterous Manipulation Group, Toyota Research Institute",tri.global,US
+ETH Zurich,ethz.ch,CH
+Apple,apple.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Facebook,meta.com,US
+Meta,meta.com,US
+Princeton University,princeton.edu,US
+Peking University,pku.edu.cn,CN
+Massachusetts Institute of Technology,mit.edu,US
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Fudan University,fudan.edu.cn,CN
+Cornell University,cornell.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+International Higher School for Advanced Studies Trieste,sissa.it,IT
+"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Salesforce Research,salesforce.com,US
+Anthropic,anthropic.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Advanced Micro Devices,amd.com,US
+Amazon,amazon.com,US
+LG AI Research,lgresearch.ai,AI
+Unknown,unknown.edu,UNK
+Munich RE,munichre.com,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+INRIA,inria.fr,FR
+Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
+Emory University,emory.edu,UNK
+Emory University,emory.edu,UNK
+Université de Montréal,umontreal.ca,CA
+Huawei Technologies Ltd.,huawei.com,CN
+Bytedance,bytedance.com,CN
+Beijing University of Aeronautics and Astronautics,buaa.edu,CN
+Texas A&M,tamu.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Harbin Institute of Technology,hit.edu.cn,CN
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+The Hong Kong University of Science and Technology,ust.hk,HK
+UIUC,illinois.edu,US
+Unknown,unknown.edu,UNK
+Facebook,fb.com,US
+Unknown,unknown.edu,UNK
+"IGSNRR, Chinese Academy of Sciences, Beijing, China",lreis.ac.cn,CN
+Peking University,pku.edu.cn,CN
+Facebook,fb.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+J.P. Morgan Chase,jpmorgan.com,US
+Unknown,unknown.edu,UNK
+Huazhong Agricultural University,hzau.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Department of Computer Science, ETHZ - ETH Zurich",inf.ethz.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+Unknown,unknown.edu,UNK
+University of Helsinki,helsinki.fi,FI
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",mails.tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Technion, Technion",technion.ac.il,IL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Mizuho–DL Financial Technology,fintec.co.jp,JP
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Sichuan University,scu.edu.cn,CN
+Unknown,unknown.edu,UNK
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Microsoft Research,microsoft.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Tsinghua University,tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+University of Chicago,uchicago.edu,US
+Unknown,unknown.edu,UNK
+DeepMind,google.com,US
+Unknown,unknown.edu,UNK
+The Hong Kong University of Science and Technology,ust.hk,HK
+Renmin University of China,ruc.edu.cn,CN
+ETHZ - ETH Zurich,ethz.ch,CH
+Swiss Federal Institute of Technology Zurich,ethz.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Baidu,baidu.com,CN
+University of Chicago,uchicago.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Wake Forest University School of Medicine,wfu.edu,US
+University of North Carolina at Chapel Hill,unc.edu,US
+Unknown,unknown.edu,UNK
+"University of Illinois, Urbana Champaign",illinois.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Indian Institute of Science,iisc.ac.in,IN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Pennsylvania,upenn.edu,US
+Unknown,unknown.edu,UNK
+Cornell University,cornell.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Nankai University,nankai.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Imperial College London, Imperial College London",imperial.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Chicago,uchicago.edu,US
+Hong Kong University of Science and Technology,ust.hk,HK
+Alibaba Group,alibaba-inc.com,CN
+"national university of singaore, National University of Singapore",u.nus.edu,SG
+Zhejiang University,zju.edu.cn,CN
+CISPA Helmholtz Center for Information Security,cispa.de,DE
+"IBM, International Business Machines",us.ibm.com,US
+East China Normal University,ecnu.edu.cn,CN
+Amazon,amazon.com,US
+Amazon,amazon.com,US
+Unknown,unknown.edu,UNK
+Harvard University,harvard.edu,US
+MIT-IBM Watson AI Lab,ibm.com,US
+Yonsei University,yonsei.ac.kr,KR
+Unknown,unknown.edu,UNK
+Emory University,emory.edu,UNK
+Yonsei University,yonsei.ac.kr,KR
+Ulm University,uni-ulm.de,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Stanford University,stanford.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Heidelberg University,uni-heidelberg.de,DE
+"Institute of Computing Technology, Chinese Academy of Sciences",ict.ac.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+National University of Defense Technology,nudt.edu.cn,CN
+Unknown,unknown.edu,UNK
+Facebook,fb.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, Los Angeles",ucla.edu,US
+"Qualcomm Inc, QualComm",qti.qualcomm.com,US
+Meta,meta.com,US
+Meta,meta.com,US
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+Technische Universität Wien,tuwien.ac.at,AT
+Unknown,unknown.edu,UNK
+"University of California, Los Angeles",ucla.edu,US
+Facebook AI,facebook.com,US
+Indian Association for the Cultivation of Science,iacs.res.in,IN
+nanjing university,nju.edu.cn,CN
+Johns Hopkins University,jh.edu,US
+Fudan University,fudan.edu.cn,CN
+Beijing University of Aeronautics and Astronautics,buaa.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+J.P. Morgan Chase,jpmorgan.com,US
+Microsoft Research,microsoft.com,US
+University of Oslo,nissen.uio.no,NO
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
+Unknown,unknown.edu,UNK
+Zhejiang University,zju.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+INRIA,inria.fr,FR
+Unknown,unknown.edu,UNK
+Purdue University,purdue.edu,US
+University of Luxemburg,uni.lu,LU
+Chongqing University,cqu.edu.cn,CN
+LG AI Research,lgresearch.ai,AI
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+University of Leoben,unileoben.ac.at,AT
+Johns Hopkins University,jh.edu,US
+Unknown,unknown.edu,UNK
+Alibaba Group,alibaba-inc.com,CN
+Unknown,unknown.edu,UNK
+Meta,meta.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Nanjing University of Posts and Telecommunications,njupt.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Princeton University,princeton.edu,US
+NEC,nec.com,UNK
+Unknown,unknown.edu,UNK
+Brown University,brown.edu,US
+Unknown,unknown.edu,UNK
+Zhejiang University,zju.edu.cn,CN
+ShanghaiTech University,shanghaitech.edu.cn,CN
 Google,google.com,US
-Carnegie Mellon University,cmu.edu,US
+Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
+Massachusetts Institute of Technology,mit.edu,US
+Université de Montréal,umontreal.ca,CA
+Columbia University,columbia.edu,US
+Cornell University,cornell.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Microsoft,microsoft.com,US
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+NVIDIA,nvidia.com,US
+Kyoto University,kyoto-u.ac.jp,JP
+"Deparment of Computing + Mathematical Sciences, California Institute of Technology",cms.caltech.edu,US
+Didi Research,didichuxing.com,CN
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Duke University,duke.edu,US
+Unknown,unknown.edu,UNK
+Southeast University,seu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+ServiceNow Research,servicenow.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Imperial College London,ic.ac.uk,UK
-Nanjing University of Sci. & Tech.,njust.edu.cn,CN
-Unknown,unknown.edu,UNK
-National Taiwan University,ntu.edu.tw,TW
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
-Unknown,unknown.edu,UNK
+Apple,apple.com,US
+Facebook,fb.com,US
+McGill University,mcgill.ca,CA
 University of Montreal,umontreal.ca,CA
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+"Boston University, Boston University",bu.edu,US
+Unknown,unknown.edu,UNK
+Facebook,fb.com,US
+Google,google.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Department of Computer Science,cs.illinois.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"King's College London, University of London",kcl.ac.uk,UK
+Baidu,baidu.com,CN
+JD.com,jd.com,CN
+Concordia University,concordia.ca,CA
+Unknown,unknown.edu,UNK
+Chinese University of Hong Kong,cuhk.hk,HK
+"University of California, Berkeley",berkeley.edu,US
 Stanford University,stanford.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Singapore University of Technology and Design,sutd.edu.sg,SG
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Sony AI,sony.com,JP
+Unknown,unknown.edu,UNK
+New York University,nyu.edu,US
 Huawei Technologies Ltd.,huawei.com,CN
+Politecnico di Milano,polimi.it,IT
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+"University of Texas, Austin",cs.utexas.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Genentech,gene.com,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+"Computer Science Department, Stanford University",cs.stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, Los Angeles",ucla.edu,US
+Unknown,unknown.edu,UNK
+MIT-IBM Watson AI Lab,ibm.com,US
+Johns Hopkins University,jhu.edu,US
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+"University of California, Davis",ucdavis.edu,US
+INRIA,inria.fr,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Vanderbilt University,vanderbilt.edu,US
+Vanderbilt University,vanderbilt.edu,US
+Google,google.com,US
+Duke University,duke.edu,US
+Unknown,unknown.edu,UNK
+Rakuten Institute of Technology,rakuten.com,UNK
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+The University of Tokyo,u-tokyo.ac.jp,JP
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Stevens Institute of Technology,stevens.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Tel Aviv University, Tel Aviv University",tauex.tau.ac.il,IL
+INRIA,inria.fr,FR
+Inria,inria.fr,FR
+Bytedance Inc.,bytedance.com,CN
+Unknown,unknown.edu,UNK
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+Harbin Institute of Technology,hit.edu.cn,CN
+Unknown,unknown.edu,UNK
+Korea Advanced Institute of Science and Technology,kaist.ac.kr,KR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Ecole Normale Supérieure, Ecole Normale Supérieure de Paris",di.ens.fr,FR
+Unknown,unknown.edu,UNK
+"University of California, Berkeley",berkeley.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Massachusetts Institute of Technology,,UNK
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Apple,apple.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Facebook,meta.com,US
+New York University,nyu.edu,US
+"University of California, Los Angeles",ucla.edu,US
+Unknown,unknown.edu,UNK
+Department of Information Engineering and Mathematical Sciences,diism.unisi.it,IT
+Unknown,unknown.edu,UNK
+Politecnico di Milano,polimi.it,IT
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Sony AI,sony.com,JP
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"The University of Texas, Dallas",utdallas.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Duke University,duke.edu,US
+KTH Royal Institute of Technology,kth.se,SE
+University of Oxford,ox.ac.uk,UK
+Unknown,unknown.edu,UNK
 University of Cambridge,cam.ac.uk,UK
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Pittsburgh,pitt.edu,US
+Unknown,unknown.edu,UNK
+Swiss Federal Institute of Technology,ethz.ch,CH
+Cornell University,cornell.edu,US
+Alibaba Group,alibaba-inc.com,CN
+Nanjing University,nju.edu.cn,CN
+Unknown,unknown.edu,UNK
+University of British Columbia,ubc.ca,CA
+Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 "School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+ByteDance,bytedance.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+Unknown,unknown.edu,UNK
+"Imperial College London, Imperial College London",imperial.ac.uk,UK
+Harvard University,harvard.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Illinois Institute of Technology,iit.edu,UNK
+Unknown,unknown.edu,UNK
+CZI,chanzuckerberg.com,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Hong Kong University of Science and Technology,ust.hk,HK
+Karlsruher Institut für Technologie,kit.edu,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Carnegie Mellon University,cmu.edu,US
+Northeastern University,neu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+bigai,bigai.ai,AI
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+Unknown,unknown.edu,UNK
+Heidelberg University,uni-heidelberg.de,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Fudan University,fudan.edu.cn,CN
+Northwest Polytechnical University Xi'an,nwpu.edu.cn,CN
+Northwest Polytechnical University Xi'an,nwpu.edu.cn,CN
+London School of Economics,lse.ac.uk,UK
+Google,google.com,US
+Swiss Federal Institute of Technology Lausanne,epfl.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Apple AI Research,apple.com,US
+Unknown,unknown.edu,UNK
+Department of Computer Science,cs.toronto.edu,CA
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+École Polytechnique,polytechnique.fr,FR
+Unknown,unknown.edu,UNK
+Meta Artificial Intelligence Research,meta.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Carnegie Mellon University,cmu.edu,US
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Peking University,pku.edu.cn,CN
+Cold Spring Harbor Laboratory,cshl.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+ByteDance Inc.,bytedance.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+National University of Defense Technology,nudt.edu.cn,CN
+Google,google.com,US
+Apple,apple.com,US
+Unknown,unknown.edu,UNK
+"Electrical Engineering & Computer Science Department, University of California Berkeley",eecs.berkeley.edu,US
+University of California Berkeley,berkeley.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Facebook,facebook.com,US
+Unknown,unknown.edu,UNK
+Sapienza University of Rome,uniroma1.it,IT
+Unknown,unknown.edu,UNK
+University of Pennsylvania,upenn.edu,US
+Google,google.com,US
+Google,google.com,US
+Unknown,unknown.edu,UNK
+"Tata institute of fundamental research, Mumbai",tifr.res.in,IN
+University of California Berkeley,berkeley.edu,US
+Technische Universität München,tum.de,DE
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Peking University,pku.edu.cn,CN
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
@@ -2909,16 +1789,552 @@ Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Politecnico di Milano,polimi.it,IT
+Microsoft,microsoft.com,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
-Huawei Technologies Ltd.,huawei.com,CN
+University of Cambridge,cam.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Chicago,,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Princeton University,princeton.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Politecnico di Milano,polimi.it,IT
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu,CN
+J.P. Morgan Chase,jpmorgan.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Cornell University,cornell.edu,US
+The University of Sydney,sydney.edu.au,AU
+Unknown,unknown.edu,UNK
+Oak Ridge National Laboratory,ornl.gov,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Sony AI,sony.com,JP
+Hebei University of Technology,hebut.edu.cn,CN
+Unknown,unknown.edu,UNK
+"CMU, Carnegie Mellon University",andrew.cmu.edu,US
+Carnegie Mellon University,andrew.cmu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+New York University,nyu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Alibaba Group,alibaba-inc.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Maryland, College Park",umd.edu,US
+University of Pennsylvania,upenn.edu,US
+Purdue University,purdue.edu,US
+Boston University,bu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
 Facebook,meta.com,US
+"University College London, University of London",ucl.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+DeepMind,google.com,US
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Maryland, College Park",umd.edu,US
+"University of Maryland, College Park",umd.edu,US
+Unknown,unknown.edu,UNK
+University of Texas at Austin,utexas.edu,US
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Georgia Institute of Technology,gatech.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Toyota Technological Institute at Chicago,ttic.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Seoul National University,snu.ac.kr,KR
+"University of California, San Diego",ucsd.edu,US
+Fred Hutchinson Cancer Research Center,fredhutch.org,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Google DeepMind,google.com,US
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+"University of Washington, Seattle",cs.washington.edu,US
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+Universidad de Zaragoza,unizar.es,ES
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+"University of California, San Diego",ucsd.edu,US
+University of Oxford,oxford.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Southeast University,seu.edu.cn,CN
+"University of Maryland, College Park",umd.edu,US
+"University of Maryland, College Park",umd.edu,US
+University of California Berkeley,berkeley.edu,US
+Unknown,unknown.edu,UNK
+CWI,,UNK
+Shanghai Jiao Tong University,sjtu.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Singapore University of Technology and Design,sutd.edu.sg,SG
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Télécom ParisTech,telecom-paristech.fr,FR
+Telecom Paris,telecom-paris.fr,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Southwest University of Finance and Economics,swufe.edu.cn,CN
+Unknown,unknown.edu,UNK
+ByteDance Inc.,bytedance.com,CN
+Unknown,unknown.edu,UNK
+Nankai University,nankai.edu.cn,CN
+Facebook,meta.com,US
+Google,google.com,US
+Google,google.com,US
+University of Chicago,uchicago.edu,US
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+Microsoft,microsoft.com,US
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Qualcomm AI Research,qti.qualcomm.com,US
+"Qualcomm Inc, QualComm",qti.qualcomm.com,US
+Unknown,unknown.edu,UNK
+Sony AI,sony.com,JP
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+The University of Tokyo,u-tokyo.ac.jp,JP
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Washington, Seattle",cs.washington.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Nanjing University of Posts and Telecommunications,njupt.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Pennsylvania,upenn.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"KTH Royal Institute of Technology, Stockholm, Sweden",kth.se,SE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Apple,apple.com,US
+"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Cerebras Systems, Inc",cerebras.net,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Insilico Medicine,insilicomedicine.com,UNK
+Insilico Medicine,insilico.com,UNK
+CNRS,cnrs.fr,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+INRIA,inria.fr,FR
+Unknown,unknown.edu,UNK
+Uppsala University,it.uu.se,SE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Michigan - Ann Arbor,umich.edu,US
+Samsung,samsung.com,KR
+Universität Kassel,uni-kassel.de,DE
+Universiteit Gent,ugent.be,BE
+Unknown,unknown.edu,UNK
+NAVER Clova,navercorp.com,KR
+Unknown,unknown.edu,UNK
+Google,google.com,US
+University of Pennsylvania,upenn.edu,US
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+"School of Computer Science, Carnegie Mellon University",cs.cmu.edu,US
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+", University of California, Los Angeles",cs.ucla.edu,US
+Shenzhen University,szu.edu.cn,CN
+The Chinese University of Hong Kong (Shenzhen),cuhk.edu.cn,CN
+Moscow Institute of Physics and Technology,phystech.edu,RU
+Unknown,unknown.edu,UNK
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Mohamed bin Zayed University of Artificial Intelligence,mbzuai.ac.ae,AE
+Unknown,unknown.edu,UNK
+University of Edinburgh,edinburgh.org,GB
+Cornell University,cornell.edu,US
+Alibaba Group,alibaba-inc.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal",mila.umontreal.ca,CA
+University of Montreal,umontreal.ca,CA
+Korea University,korea.ac.kr,KR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Groningen,rug.nl,NL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of California, Los Angeles",ucla.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"University of Maryland, College Park",umd.edu,US
+"University of Maryland, College Park",umd.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+ETHZ - ETH Zurich,ethz.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Banca d'Italia,bancaditalia.it,IT
+"University of Roma ""La Sapienza""",uniroma1.it,IT
+"University of Roma ""La Sapienza""",uniroma1.it,IT
+"Univ Rennes, Inria, CNRS, IRISA",inria.fr,FR
+INRIA Rennes,inria.fr,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Télécom ParisTech,telecom-paristech.fr,FR
+Lund University,lu.se,SE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Computer Science Department, Stanford University",cs.stanford.edu,US
+Unknown,unknown.edu,UNK
+Karlsruher Institut für Technologie,kit.edu,DE
+Tata Institute of Fundamental Research,tifr.res.in,IN
+Unknown,unknown.edu,UNK
+Beijing Academy of Artificial Intelligence,baai.ac.cn,CN
+Beijing Academy of Artificial Intelligence,baai.ac.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+Carnegie Mellon University,cmu.edu,US
+Seoul National University,bdai.snu.ac.kr,KR
+KRAFTON,krafton.com,KR
+Seoul National University,snu.ac.kr,KR
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Cydar medical,cydar.co.uk,UK
+Google,google.com,US
+Duke University,ece.duke.edu,US
+University of Southern California,usc.edu,US
+University of Southern California,usc.edu,US
+IMDEA Networks Institute,imdea.org,UNK
+IMDEA Networks Institute,imdea.org,UNK
+Unknown,unknown.edu,UNK
+INRIA,inria.fr,FR
+Heriot-Watt University,hw.ac.uk,UK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+Nankai University,nankai.edu.cn,CN
+Unknown,unknown.edu,UNK
+Hong Kong University of Science and Technology,ust.hk,HK
+National University of Defense Technology,nudt.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Microsoft,microsoft.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Korea University,korea.ac.kr,KR
+Ecole Normale Superieure,ens-paris-saclay.fr,FR
+Unknown,unknown.edu,UNK
+CNRS,cnrs.fr,FR
+Unknown,unknown.edu,UNK
+Google DeepMind,google.com,US
+Carnegie Mellon University,cmu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Tel Aviv University, Tel Aviv University",tauex.tau.ac.il,IL
+Unknown,unknown.edu,UNK
+Université Claude Bernard (Lyon I),univ-lyon1.fr,FR
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Cambridge,cam.ac.uk,UK
+University of Cambridge,cam.ac.uk,UK
+Tel Aviv University,tau.ac.il,IL
+University of California Berkeley,berkeley.edu,US
+Tel Aviv University,tau.ac.il,IL
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+SUN YAT-SEN UNIVERSITY,sysu.edu.cn,CN
+Politecnico di Milano,polimi.it,IT
+Unknown,unknown.edu,UNK
+Oak Ridge National Laboratory,ornl.gov,US
+"Univ Rennes, Inria, CNRS, IRISA",inria.fr,FR
+Unknown,unknown.edu,UNK
+California Institute of Technology,caltech.edu,US
+Unknown,unknown.edu,UNK
+Northwestern University,northwestern.edu,US
+Lawrence Berkeley National Lab,lbl.gov,US
+University of Pennsylvania,upenn.edu,US
+South China University of Technology,scut.edu.cn,CN
+Georgetown University,georgetown.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Tencent Youtu Lab,tencent.com,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Research, Microsoft",research.microsoft.com,US
+"University of California, Santa Cruz",ucsc.edu,US
+Stanford University,stanford.edu,US
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+nanjing university,nju.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",mails.tsinghua.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"Research, Google",research.google.com,US
+Google,google.com,US
+Google,google.com,US
+"School of Computer and Communication Sciences, EPFL - EPF Lausanne",ic.epfl.ch,CH
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Indian Institute of Technology Delhi,iitd.ac.in,IN
+Unknown,unknown.edu,UNK
+University of Minnesota - Twin Cities,umn.edu,US
+Unknown,unknown.edu,UNK
+"Tsinghua University, Tsinghua University",tsinghua.edu.cn,CN
+Stanford University,stanford.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Toronto,utoronto.ca,CA
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"CMU, Carnegie Mellon University",andrew.cmu.edu,US
+Carnegie Mellon University,cmu.edu,US
+Aurora,aurora.tech,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Harvard University,harvard.edu,US
+Unknown,unknown.edu,UNK
+"School of Engineering and Applied Sciences, Harvard University",seas.harvard.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Alibaba Group US,alibaba-inc.com,CN
+Beijing Institute of Technology,bit.edu.cn,CN
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Zhejiang University,zju.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Johns Hopkins University,jhu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Duke University,duke.edu,US
+University of Michigan - Ann Arbor,umich.edu,US
+Unknown,unknown.edu,UNK
+Amazon Web Services,amazon.com,US
+Amazon,amazon.com,US
+Yandex,yandex-team.ru,RU
+University of Amsterdam,uva.nl,NL
+University of Michigan,umich.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Oxford,ox.ac.uk,UK
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
+Unknown,unknown.edu,UNK
+"Qualcomm Inc, QualComm",qti.qualcomm.com,US
+"University of California, Berkeley",berkeley.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Duke University,duke.edu,US
+ServiceNow Research,servicenow.com,US
+Yale University,yale.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+New York University,nyu.edu,US
+Princeton University,princeton.edu,US
+"German Aerospace Center, Institute of Data Science",dlr.de,DE
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+South China University of Technology,scut.edu.cn,CN
+Unknown,unknown.edu,UNK
+Northeastern University,neu.edu,US
+Apple,apple.com,US
+Unknown,unknown.edu,UNK
+X,x.team,UNK
+Brown University,brown.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Adobe Systems,adobe.com,US
+Johannes Kepler Universität Linz,jku.at,AT
+Alibaba DAMO Academy,alibaba-inc.com,CN
+"University of Illinois, Urbana Champaign",illinois.edu,US
+Unknown,unknown.edu,UNK
+University of Sydney,sydney.edu.au,AU
+Aalto University,aalto.fi,FI
+C3 AI,c3.ai,AI
+Unknown,unknown.edu,UNK
+Peking University,pku.edu.cn,CN
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Universidad de Zaragoza,unizar.es,ES
+Alibaba Group,alibaba-inc.com,CN
+Alibaba Group US,alibaba-inc.com,CN
+Arizona State University,asu.edu,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+"King's College London, University of London",kcl.ac.uk,UK
+Unknown,unknown.edu,UNK
+University of Vermont,uvm.edu,UNK
+Unknown,unknown.edu,UNK
+Google,google.com,US
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
 Meta,meta.com,US
-Facebook,fb.com,US
-Unknown,unknown.edu,UNK
-"Institute of Computing Technology, Chinese Academy of Sciences",ict.ac.cn,CN
-Unknown,unknown.edu,UNK
+cuizhihua@tyust.edu.cn,tyust.edu.cn,CN
+"national university of singaore, National University of Singapore",u.nus.edu,SG
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+National Taiwan University,ntu.edu.tw,TW
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+Yandex,yandex-team.ru,RU
+Unknown,unknown.edu,UNK
+Unknown,unknown.edu,UNK
+University of Oxford,ox.ac.uk,UK
+"University of Oxford, University of Oxford",eng.ox.ac.uk,UK
+Samsung SDS,samsung.com,KR
+Samsung SDS,samsung.com,KR
+"Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal",mila.umontreal.ca,CA
+Boston University,bu.edu,US
+Politecnico di Milano,polimi.it,IT
+Unknown,unknown.edu,UNK
+SRI International,sri.com,UNK
+Unknown,unknown.edu,UNK
+Johns Hopkins University,jhu.edu,US
+Unknown,unknown.edu,UNK
+Massachusetts Institute of Technology,mit.edu,US
 Unknown,unknown.edu,UNK
 Unknown,unknown.edu,UNK

@@ -2264,6 +2264,14 @@ affiliation_to_country = {
     "San Jose State University Foundation": "US",
     "Sun Yat-sen University Cancer Center": "CN",
     "Sun Yat-sen University Cancer Center ": "CN",
-    "University of Wyoming": "US"
+    "University of Wyoming": "US",
+
+    # Unmatched affiliations surfaced by the ICML 2026 run. None are Indian.
+    "Araya Inc.": "JP",
+    "CZI": "US",
+    "Insilico Medicine": "HK",
+    "Munich RE": "DE",
+    "SAP": "DE",
+    "Terray Theraputics": "US"
 
 }

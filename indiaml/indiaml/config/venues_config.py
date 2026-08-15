@@ -17,21 +17,19 @@ class VenueConfig(BaseModel):
 # Completed venues are kept commented out as a record of what has been run.
 VENUE_CONFIGS: List[VenueConfig] = [
     VenueConfig(
-        conference="ICLR",
+        conference="ICML",
         year=2026,
         track="Conference",
         source_adapter="openreview",
-        source_id="ICLR.cc/2026/Conference",
+        source_id="ICML.cc/2026/Conference",
         adapter_class="ICAIAdapter"
     ),
-    # ICML 2026 decisions are released (6341 accepted: "ICML 2026 regular" and
-    # "ICML 2026 spotlight"). Enable this once ICLR 2026 is complete.
     # VenueConfig(
-    #     conference="ICML",
+    #     conference="ICLR",
     #     year=2026,
     #     track="Conference",
     #     source_adapter="openreview",
-    #     source_id="ICML.cc/2026/Conference",
+    #     source_id="ICLR.cc/2026/Conference",
     #     adapter_class="ICAIAdapter"
     # ),
     # NeurIPS 2026 has no accepted papers yet; the conference runs Dec 06 2026.
