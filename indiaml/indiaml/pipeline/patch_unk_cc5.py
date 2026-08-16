@@ -10,6 +10,7 @@ from sqlalchemy.orm import sessionmaker, scoped_session, joinedload
 from sqlalchemy import create_engine
 from ..models.models import Base, VenueInfo, Paper, Author, PaperAuthor
 from ..models.dto import AuthorDTO, PaperDTO
+from ..config.db_config import DATABASE_URL
 import pymupdf4llm
 import openai
 import logging
@@ -24,8 +25,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-# Database setup
-db_path = "sqlite:///venues.db"  # Replace with your actual SQLite file path
+db_path = DATABASE_URL
 
 # Create a database engine
 engine = create_engine(db_path)

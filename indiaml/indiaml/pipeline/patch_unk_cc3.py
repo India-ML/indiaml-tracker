@@ -2,10 +2,10 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from ..models.models import Base, PaperAuthor
 from ..config.name2cc import affiliation_to_country as name_to_cc
+from ..config.db_config import DATABASE_URL
 import csv
 
-# Database connection string (adjust the path if needed)
-db_path = "sqlite:///venues.db"  # Replace with your actual SQLite file path
+db_path = DATABASE_URL
 
 # Create a database engine
 engine = create_engine(db_path)

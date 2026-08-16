@@ -1,0 +1,351 @@
+{
+  "IIT Kanpur": {
+    "variations": [
+      "Indian Institute of Technology, Kanpur",
+      "IIT Kanpur"
+    ],
+    "type": "academic"
+  },
+  "IIT Bombay": {
+    "variations": [
+      "Indian Institute of Technology, Bombay",
+      "Indian Institute of Technology Bombay",
+      "Indian Institute of Technology Bombay, Indian Institute of Technology, Bombay",
+      "Indian Institute of Technology Bombay, Indian Institute of Technology Bombay",
+      "Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology"
+    ],
+    "type": "academic"
+  },
+  "IIT Delhi": {
+    "variations": [
+      "Indian Institute of Technology, Delhi",
+      "Indian Institute of Technology Delhi"
+    ],
+    "type": "academic"
+  },
+  "IIT Hyderabad": {
+    "variations": [
+      "Indian Institute of Technology, Hyderabad",
+      "Indian Institute of Technology Hyderabad"
+    ],
+    "type": "academic"
+  },
+  "IIT Madras": {
+    "variations": [
+      "Indian Institute of Technology, Madras"
+    ],
+    "type": "academic"
+  },
+  "IIT Kharagpur": {
+    "variations": [
+      "Indian Institute of Technology, Kharagpur",
+      "Indian Institute of Technology Kharagpur,",
+      "IIT Kharagpur"
+    ],
+    "type": "academic"
+  },
+  "IIT Gandhinagar": {
+    "variations": [
+      "Indian Institute of Technology, Gandhinagar",
+      "Indian Institute of Technology, Gandhinagar, Dhirubhai Ambani Institute Of Information and Communication Technology"
+    ],
+    "type": "academic"
+  },
+  "IIT Roorkee": {
+    "variations": [
+      "Indian Institute of Technology, Roorkee, Dhirubhai Ambani Institute Of Information and Communication Technology"
+    ],
+    "type": "academic"
+  },
+  "IIT Ropar": {
+    "variations": [
+      "Indian Institute Of Technology–Ropar (IIT–Ropar)"
+    ],
+    "type": "academic"
+  },
+  "IISc Bangalore": {
+    "variations": [
+      "Indian Institute of Science",
+      "Indian Institute of Science, Indian institute of science, Bangalore",
+      "Indian Institute of Science, Bangalore",
+      "Indian Institute of Science, Bangalore (IISc)"
+    ],
+    "type": "academic"
+  },
+  "IISER Pune": {
+    "variations": [
+      "IISER-Pune"
+    ],
+    "type": "academic"
+  },
+  "IIIT Delhi": {
+    "variations": [
+      "Indraprastha Institute of Information Technology, Delhi"
+    ],
+    "type": "academic"
+  },
+  "IIIT Hyderabad": {
+    "variations": [
+      "International Institute of Information Technology Hyderabad",
+      "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad"
+    ],
+    "type": "academic"
+  },
+  "IIIT Surat": {
+    "variations": [
+      "Indian Institute of Information Technology, Surat"
+    ],
+    "type": "academic"
+  },
+  "IIM Ahmedabad": {
+    "variations": [
+      "Indian Institute of Management Ahmedabad",
+      "Indian Institute of Ahmedabad"
+    ],
+    "type": "academic"
+  },
+  "ISI": {
+    "variations": [
+      "Indian Statistical Institute",
+      "Indian Statistical Institute, Kolkata"
+    ],
+    "type": "academic"
+  },
+  "TIFR": {
+    "variations": [
+      "Tata Institute of Fundamental Research",
+      "Tata Institute of Fundamental Research, Mumbai"
+    ],
+    "type": "academic"
+  },
+  "ICTS": {
+    "variations": [
+      "International Centre for Theoretical Sciences"
+    ],
+    "type": "academic"
+  },
+  "BITS Goa Campus": {
+    "variations": [
+      "Birla Institute of Technology and Science, K K Birla Goa Campus"
+    ],
+    "type": "academic"
+  },
+  "Vellore Institute of Technology": {
+    "variations": [
+      "Vellore Institute of Technology"
+    ],
+    "type": "academic"
+  },
+  "University of Pune": {
+    "variations": [
+      "University of Pune"
+    ],
+    "type": "academic"
+  },
+  "UPES": {
+    "variations": [
+      "University of Petroleum and Energy Studies"
+    ],
+    "type": "academic"
+  },
+  "Jio Institute": {
+    "variations": [
+      "Jio Institute"
+    ],
+    "type": "academic"
+  },
+  "JIPMER": {
+    "variations": [
+      "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)"
+    ],
+    "type": "academic"
+  },
+  "Heritage Institute of Technology": {
+    "variations": [
+      "Heritage Institute of Technology"
+    ],
+    "type": "academic"
+  },
+  "Indo-Korea Science and Technology Center": {
+    "variations": [
+      "Indo Korea Science and Technology Center, Bangalore, India"
+    ],
+    "type": "academic"
+  },
+  "Robert Bosch Centre for Data Science and AI": {
+    "variations": [
+      "Robert Bosch Centre for Data Science and AI"
+    ],
+    "type": "academic"
+  },
+  "Gokaraju Lailavathi Engineering College": {
+    "variations": [
+      "Gokaraju Lailavathi Engineering College"
+    ],
+    "type": "academic"
+  },
+  "Sri Chamundeshwari Medical College": {
+    "variations": [
+      "SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL & RESEARCH INSTITUTE"
+    ],
+    "type": "academic"
+  },
+  "S R Patil Medical College": {
+    "variations": [
+      "S R Patil Medical college, Hospital and Research centre Badagandi"
+    ],
+    "type": "academic"
+  },
+  "S Nijalingappa Medical College": {
+    "variations": [
+      "S Nijalingappa Medical College"
+    ],
+    "type": "academic"
+  },
+  "ANRF": {
+    "variations": [
+      "ANRF"
+    ],
+    "type": "academic"
+  },
+  "Google": {
+    "variations": [
+      "Google"
+    ],
+    "type": "corporate"
+  },
+  "Google DeepMind": {
+    "variations": [
+      "Google DeepMind",
+      "Google Deepmind"
+    ],
+    "type": "corporate"
+  },
+  "Adobe": {
+    "variations": [
+      "Adobe Research",
+      "Adobe Systems",
+      "Adobe "
+    ],
+    "type": "corporate"
+  },
+  "Microsoft": {
+    "variations": [
+      "Microsoft",
+      "Research, Microsoft"
+    ],
+    "type": "corporate"
+  },
+  "Microsoft Research": {
+    "variations": [
+      "Microsoft Research"
+    ],
+    "type": "corporate"
+  },
+  "Hewlett Packard Enterprise": {
+    "variations": [
+      "Hewlett Packard Enterprise"
+    ],
+    "type": "corporate"
+  },
+  "HP": {
+    "variations": [
+      "HP Inc"
+    ],
+    "type": "corporate"
+  },
+  "Fujitsu": {
+    "variations": [
+      "Fujitsu Research and Development Center Co. Ltm.",
+      "Fujitsu Research India Private Limited"
+    ],
+    "type": "corporate"
+  },
+  "Samsung": {
+    "variations": [
+      "Samsung"
+    ],
+    "type": "corporate"
+  },
+  "NVIDIA": {
+    "variations": [
+      "NVIDIA"
+    ],
+    "type": "corporate"
+  },
+  "Goldman Sachs": {
+    "variations": [
+      "Goldman Sachs"
+    ],
+    "type": "corporate"
+  },
+  "Hugging Face": {
+    "variations": [
+      "Hugging Face"
+    ],
+    "type": "corporate"
+  },
+  "Cohere Labs": {
+    "variations": [
+      "Cohere Labs"
+    ],
+    "type": "corporate"
+  },
+  "TransPerfect": {
+    "variations": [
+      "TransPerfect"
+    ],
+    "type": "corporate"
+  },
+  "Turing": {
+    "variations": [
+      "Turing"
+    ],
+    "type": "corporate"
+  },
+  "Zenteiq.ai": {
+    "variations": [
+      "Zenteiq.ai"
+    ],
+    "type": "corporate"
+  },
+  "Perfios Software Solutions": {
+    "variations": [
+      "Perfios Software Solutions"
+    ],
+    "type": "corporate"
+  },
+  "Navana Tech": {
+    "variations": [
+      "Navana Tech India Private Limited",
+      "Navana Tech India Private LImited",
+      "Navana.ai",
+      "Navanatech"
+    ],
+    "type": "corporate"
+  },
+  "HireGit": {
+    "variations": [
+      "HireGit"
+    ],
+    "type": "corporate"
+  },
+  "HiFX IT & Media Services": {
+    "variations": [
+      "HiFX IT & Media Services"
+    ],
+    "type": "corporate"
+  },
+  "Finsyth AI": {
+    "variations": [
+      "Finsyth AI"
+    ],
+    "type": "corporate"
+  },
+  "Aivar": {
+    "variations": [
+      "Aivar"
+    ],
+    "type": "corporate"
+  }
+}

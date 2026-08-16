@@ -2247,6 +2247,31 @@ affiliation_to_country = {
 
 
     "Ecole Nationale de la Statistique et de la Administration Economique": "FR",
-    "Universität Leipzig": "DE"
+    "Universität Leipzig": "DE",
+
+    # Unmatched affiliations surfaced by patch_unk_cc3/cc4 on the ICLR 2026 run.
+    # "Airbus CRT" follows the existing "Airbus": "FR" entry above.
+    "Amrita Vishwa Vidyapeetham (Deemed University)": "IN",
+    "Airbus CRT": "FR",
+    "CUNY Graduate Center": "US",
+    "Honda R&D": "JP",
+    "Honda R&D Co.,Ltd.": "JP",
+    "Kakao Corp": "KR",
+    "Raytheon Technologies Research Center": "US",
+    "Relation Therapeutics": "GB",
+    "SAS Institute Inc.": "US",
+    "San Jose State University": "US",
+    "San Jose State University Foundation": "US",
+    "Sun Yat-sen University Cancer Center": "CN",
+    "Sun Yat-sen University Cancer Center ": "CN",
+    "University of Wyoming": "US",
+
+    # Unmatched affiliations surfaced by the ICML 2026 run. None are Indian.
+    "Araya Inc.": "JP",
+    "CZI": "US",
+    "Insilico Medicine": "HK",
+    "Munich RE": "DE",
+    "SAP": "DE",
+    "Terray Theraputics": "US"
 
 }

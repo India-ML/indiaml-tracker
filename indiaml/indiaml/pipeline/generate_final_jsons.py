@@ -4,11 +4,16 @@ import pycountry
 import json
 import os
 
+from ..config.db_config import DATABASE_URL
+
 OUTPUT_DIR = "../ui/indiaml-tracker/public/tracker"
 
 
-def connect_to_database(db_path="venues.db"):
+def connect_to_database(db_path=None):
     """Connect to the SQLite database"""
+    db_path = db_path or DATABASE_URL
+    if db_path.startswith("sqlite:///"):
+        db_path = db_path.removeprefix("sqlite:///")
     return sqlite3.connect(db_path)
 
 def country_to_iso(country_name):

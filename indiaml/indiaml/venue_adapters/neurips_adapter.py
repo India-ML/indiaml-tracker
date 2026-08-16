@@ -49,13 +49,12 @@ class NeurIPSAdapter(BaseAdapter):
                     )
                 ]
             )
-            print(paper)
             papers.append(paper)
         return papers
 
 
     def determine_status(self, venue_group: openreview.Group, venueid: str) -> str:
-        """Map venueid to submission status using ICML-specific logic."""
+        """Map venueid to submission status."""
         if venueid.endswith("/Withdrawn_Submission"):
             return 'withdrawn'
         elif venueid.endswith("/Desk_Rejected_Submission"):

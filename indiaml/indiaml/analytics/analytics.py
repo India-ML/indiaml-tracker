@@ -2,6 +2,7 @@ import json
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, joinedload
 from ..models.models import Base, Paper, VenueInfo, PaperAuthor
+from ..config.db_config import DATABASE_URL
 
 
 
@@ -38,7 +39,7 @@ class PapersResponse(BaseModel):
 
 def generate_papers_json(output_path='papers_output.json'):
     # Initialize database connection
-    engine = create_engine('sqlite:///venues.db')  # Update with your DB URL
+    engine = create_engine(DATABASE_URL)
     Session = sessionmaker(bind=engine)
     session = Session()
 
